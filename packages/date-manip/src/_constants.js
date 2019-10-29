@@ -1,0 +1,14 @@
+export const TIMEZONE_OFFSET = (new Date()).getTimezoneOffset();
+export const MS_IN_SECOND = 1000;
+export const MS_IN_MINUTE = 60000;
+export const MS_IN_HOUR = 3600000;
+export const MS_IN_DAY = 86400000;
+export const YEAR = 'year';
+export const MONTH = 'month';
+export const DATE = 'date';
+export const DAY = 'day';
+export const HOUR = 'hour';
+export const MINUTE = 'minute';
+export const SECOND = 'second';
+export const MILLISECOND = 'millisecond';
+export const TIME = 'time';
