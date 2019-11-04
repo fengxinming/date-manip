@@ -5,12 +5,11 @@ const { resolve: pathResolve, relative, join, basename } = require('path');
 const util = require('util');
 const rollup = require('rollup');
 const zlib = require('zlib');
-const buble = require('rollup-plugin-buble');
-const alias = require('rollup-plugin-alias');
+const buble = require('@rollup/plugin-buble');
+const alias = require('@rollup/plugin-alias');
+const replace = require('@rollup/plugin-replace');
 const cjs = require('rollup-plugin-commonjs');
-const replace = require('rollup-plugin-replace');
 const node = require('rollup-plugin-node-resolve');
-const flow = require('rollup-plugin-flow-no-whitespace');
 const combine = require('rollup-plugin-combine');
 const { minify } = require('uglify-js');
 const { getLogger } = require('clrsole');
@@ -44,9 +43,16 @@ function genConfig(name, opts) {
     replaceAll
   } = opts;
   inputOptions.plugins = [
-    replace(Object.assign({
-      __VERSION__: version
-    }, replaceAll)),
+    replace({
+      values: Object.assign({
+        __VERSION__: version
+      }, replaceAll)
+    }),
+    alias({
+      entries: Object.assign({
+        '~': resolve('src')
+      }, aliases)
+    }),
     combine({
       include: /src\/index.js$/,
       exports: 'named',
@@ -54,11 +60,7 @@ function genConfig(name, opts) {
         return file.indexOf(`src${sep}_`) === -1 && file.endsWith('.js');
       }
     }),
-    flow(),
     buble(),
-    alias(Object.assign({
-      '@': resolve('./')
-    }, aliases)),
     node({
       mainFields: ['module', 'main', 'jsnext'],
       browser: true

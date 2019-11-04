@@ -59,8 +59,8 @@ import {
 import { ... } from 'date-manip/es';
 
 // modularity
-import add from 'date-manip/lib/add';
-import format from 'date-manip/lib/format';
+import add from 'date-manip/add';
+import format from 'date-manip/format';
 
 // date-chain
 import moment from 'date-manip/date-chain';

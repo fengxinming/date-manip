@@ -24,7 +24,6 @@ function configure(input, output) {
 }
 
 module.exports = [
-  configure(apiNames.map(dir => resolve(`src/${dir}.js`)), resolve(`npm/lib`)),
-  configure(resolve('src/index.js'), resolve(`npm/${pkg.name}.js`)),
+  configure(apiNames.map(dir => resolve(`src/${dir}.js`)), resolve(`npm`)),
   configure(resolve('src/packages/date-chain.js'), resolve(`npm/date-chain.js`))
 ];
