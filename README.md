@@ -19,25 +19,24 @@
 <script>
   // window.dateManip
   dateManip.add
-  dateManip.clone
-  dateManip.dayOfYear
-  dateManip.daysInMonth
-  dateManip.diff
-  dateManip.endOf
   dateManip.format
-  dateManip.get
-  dateManip.isAfter
-  dateManip.isBefore
-  dateManip.isBetween
-  dateManip.isLeapYear
-  dateManip.isSame
-  dateManip.isSameOrAfter
-  dateManip.isSameOrBefore
-  dateManip.isValid
-  dateManip.parse
-  dateManip.set
-  dateManip.startOf
-  dateManip.subtract
+  // ...
+</script>
+
+```
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/date-manip/date-chain.umd.min.js"></script>
+<script>
+  // window.DateChain
+  DateChain.add
+  DateChain.format
+  // ...
+
+  var now = new DateChain(); // DateChain();
+  now.add
+  now.format
+  // ...
 </script>
 
 ```
@@ -53,38 +52,45 @@ npm install date-manip --save
 // es6
 import { 
   add, 
-  clone, 
-  dayOfYear, 
-  daysInMonth, 
-  diff, 
-  endOf, 
   format, 
-  get, 
-  isAfter, 
-  isBefore, 
-  isBetween, 
-  isLeapYear, 
-  isSame, 
-  isSameOrAfter, 
-  isSameOrBefore, 
-  isValid, 
-  parse, 
-  set, 
-  startOf, 
-  subtract 
+  // ...
 } from 'date-manip';
 // or
 import { ... } from 'date-manip/es';
 
 // modularity
-import add from 'date-manip/add';
-import format from 'date-manip/format';
+import add from 'date-manip/lib/add';
+import format from 'date-manip/lib/format';
+
+// date-chain
+import moment from 'date-manip/date-chain';
+
+moment('2000-2-29')
+  .add({
+    year: 1,
+    month: 1,
+    day: 1,
+    hour: 1,
+    minute: 1,
+    second: 1,
+    millisecond: 1
+  })
+  .add(1, 'month')
+  .startOf('date')
+  .format('YYYY-MM-DD');
 
 ```
 
 ## API
 
   - add
+  - addDays
+  - addHours
+  - addMilliseconds
+  - addMinutes
+  - addMonths
+  - addSeconds
+  - addYears
   - clone
   - dayOfYear
   - daysInMonth

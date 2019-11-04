@@ -2,13 +2,13 @@
   "name": "date-manip",
   "version": "1.0.0",
   "description": "A modern JavaScript Date utility library delivering modularity, performance, & extras.",
-  "main": "./index.js",
+  "main": "./lib/index.js",
   "module": "./es/index.js",
-  "unpkg": "./umd.js",
-  "jsdelivr": "./umd.js",
+  "unpkg": "./date-manip.umd.js",
+  "jsdelivr": "./date-manip.umd.js",
   "scripts": {
     "build": "node ./scripts/build.js",
-    "test": "node ./scripts/test.js",
+    "test": "npm run build && jest --detectOpenHandles --config jest.config.js",
     "dev": "NODE_ENV=development node ./scripts/watch.js"
   },
   "keywords": [
