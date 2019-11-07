@@ -1,6 +1,6 @@
 import isString from 'celia/isString';
 import forEach from 'celia/_forEach';
-import repeat from 'celia/_repeat';
+import loop from 'celia/_loop';
 import isNil from 'celia/isNil';
 import isNumber from 'celia/isNumber';
 import isDate from 'celia/isDate';
@@ -27,7 +27,7 @@ function extractFrom(input) {
     // 解析YYYY-MM-DD
     forEach(DATES_REGEX, (item, i) => {
       if ((matches = item[1].exec(match[1]))) {
-        repeat(0, 3, (i) => {
+        loop(0, 3, (i) => {
           dateArr[i] = parseInt(matches[i + 1] || 1, 10);
         });
         dateArr[1] -= 1;
@@ -89,7 +89,7 @@ function parseFromFormat(input, format) {
   const len = format.length;
   let arr = [];
   let isUTC = false;
-  repeat(0, len, (i) => {
+  loop(0, len, (i) => {
     const ii = input.charAt(i);
     switch (format.charAt(i)) {
       case 'Y':

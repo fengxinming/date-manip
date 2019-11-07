@@ -16,7 +16,7 @@ module.exports = {
     'src/**/*'
   ],
   moduleNameMapper: {
-    '^date-manip$': join(__dirname, 'npm', 'date-manip.esm.js')
+    '^date-manip$': join(__dirname, 'npm', 'es', 'index.js')
   },
   transform: {
     '^.+\\.js$': 'babel-jest'

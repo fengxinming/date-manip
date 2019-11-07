@@ -1,4 +1,4 @@
-import repeat from 'celia/_repeat';
+import loop from 'celia/_loop';
 import isUndefined from 'celia/isUndefined';
 import daysInMonthOfYear from './_daysInMonthOfYear';
 import { MS_IN_DAY } from './_constants';
@@ -6,7 +6,7 @@ import { MS_IN_DAY } from './_constants';
 export default function (date, val) {
   const daysInMonth = daysInMonthOfYear(date.getFullYear());
   let count = 0;
-  repeat(0, date.getMonth(), (i) => {
+  loop(0, date.getMonth(), (i) => {
     count += daysInMonth[i];
   });
   count += date.getDate();

@@ -1,10 +1,10 @@
-import loop from 'celia/_loop';
+import iterate from 'celia/_iterate';
 import { YEAR, MONTH, DAY, HOUR, MINUTE, SECOND, MILLISECOND, DATE, TIME } from './_constants';
 
 // 构建映射集合
 const UNITS = {};
 function mapUnit(key) {
-  loop(arguments, 0, arguments.length, (arg) => {
+  iterate(arguments, 0, arguments.length, (arg) => {
     UNITS[arg] = key;
   });
 }
