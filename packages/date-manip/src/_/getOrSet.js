@@ -1,6 +1,6 @@
 import isNil from 'celia/isNil';
-import normalizeUnit from './_normalizeUnit';
-import { MS_IN_DAY, YEAR, MONTH, DAY, HOUR, MINUTE, SECOND, MILLISECOND, DATE, TIME } from './_constants';
+import normalizeUnit from './normalizeUnit';
+import { MS_IN_DAY, YEAR, MONTH, DAY, HOUR, MINUTE, SECOND, MILLISECOND, DATE, TIME } from './constants';
 
 const dateProto = Date.prototype;
 /* eslint no-extend-native: 0 */

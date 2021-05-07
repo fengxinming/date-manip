@@ -2,7 +2,7 @@ import parse from './parse';
 import addMonths from './addMonths';
 import clone from './clone';
 import normalizeUnit from './_normalizeUnit';
-import absFloor from './_absFloor';
+import absFloor from './_/absFloor';
 import { YEAR, MONTH, DAY, HOUR, MINUTE, SECOND, MS_IN_DAY, MS_IN_HOUR, MS_IN_MINUTE, MS_IN_SECOND } from './_constants';
 
 function monthDiff(a, b) {

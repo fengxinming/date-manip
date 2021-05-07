@@ -1,5 +1,5 @@
 import iterate from 'celia/_iterate';
-import { YEAR, MONTH, DAY, HOUR, MINUTE, SECOND, MILLISECOND, DATE, TIME } from './_constants';
+import { YEAR, MONTH, DAY, HOUR, MINUTE, SECOND, MILLISECOND, DATE, TIME } from './constants';
 
 // 构建映射集合
 const UNITS = {};

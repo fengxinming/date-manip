@@ -2,7 +2,7 @@ import parse from './parse';
 import clone from './clone';
 import startOf from './startOf';
 import endOf from './endOf';
-import normalizeUnit from './_normalizeUnit';
+import normalizeUnit from './normalizeUnit';
 
 export default function (date, input, units, type) {
   input = parse(input);
