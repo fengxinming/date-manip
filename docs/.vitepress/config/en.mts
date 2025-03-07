@@ -20,7 +20,7 @@ export const en = defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/fengxinming/is-what-type.git' }
+      { icon: 'github', link: 'https://github.com/fengxinming/date-manip.git' }
     ]
   }
 })
