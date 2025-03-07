@@ -68,7 +68,7 @@
   "bugs": {
     "url": "https://github.com/fengxinming/date-manip/issues"
   },
-  "homepage": "https://github.com/fengxinming/date-manip#readme",
+  "homepage": "https://fengxinming.github.io/date-manip/",
   "dependencies": {
     "is-what-type": "^1.0.0"
   }

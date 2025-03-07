@@ -12,8 +12,8 @@ import addMilliseconds from './addMilliseconds';
  * ```ts
  * // Adding 3 hours to a date (向日期添加3小时)
  * const originalDate = new Date('2023-10-01T12:00:00');
- * const newDate = addHours(originalDate, 3);
- * console.log(newDate.toISOString()); // Outputs: '2023-10-01T15:00:00.000Z' (输出: '2023-10-01T15:00:00.000Z')
+ * addHours(originalDate, 3);
+ * console.log(originalDate.toISOString()); // Outputs: '2023-10-01T15:00:00.000Z' (输出: '2023-10-01T15:00:00.000Z')
  * ```
  */
 export default function addHours(date: Date, hours: number): Date {
