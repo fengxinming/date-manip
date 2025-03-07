@@ -1,0 +1,118 @@
+[**date-manip**](index.md)
+
+***
+
+[date-manip](modules.md) / subtract
+
+# subtract
+
+## Functions
+
+### default()
+
+Subtracts a specified number of time units from a date.
+从日期中减去指定数量的时间单位。
+
+#### Param
+
+The date to subtract time from. (要减去时间的日期。)
+
+#### Param
+
+The number of time units to subtract,
+or an object where keys are time units and values are the number of units to subtract.
+(要减去的时间单位数量，或一个对象，其中键是时间单位，值是要减去的时间单位数量。)
+
+#### Param
+
+The unit of time to subtract (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
+(要减去的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
+             This parameter is required if `num` is a number. (如果 `num` 是数字，则此参数是必需的。)
+
+#### Example
+
+```ts
+// Subtracting 5 days from a date (从日期中减去5天)
+const date1 = new Date('2023-10-01');
+const newDate1 = subtract(date1, 5, 'day');
+console.log(newDate1.toISOString()); // Outputs: '2023-09-26T00:00:00.000Z' (输出: '2023-09-26T00:00:00.000Z')
+
+// Subtracting 3 months from a date (从日期中减去3个月)
+const date2 = new Date('2023-10-01');
+const newDate2 = subtract(date2, 3, 'month');
+console.log(newDate2.toISOString()); // Outputs: '2023-07-01T00:00:00.000Z' (输出: '2023-07-01T00:00:00.000Z')
+
+// Subtracting 2 years from a date (从日期中减去2年)
+const date3 = new Date('2023-10-01');
+const newDate3 = subtract(date3, 2, 'year');
+console.log(newDate3.toISOString()); // Outputs: '2021-10-01T00:00:00.000Z' (输出: '2021-10-01T00:00:00.000Z')
+
+// Subtracting 1 hour from a date (从日期中减去1小时)
+const date4 = new Date('2023-10-01T12:00:00');
+const newDate4 = subtract(date4, 1, 'hour');
+console.log(newDate4.toISOString()); // Outputs: '2023-10-01T11:00:00.000Z' (输出: '2023-10-01T11:00:00.000Z')
+
+// Subtracting 30 minutes from a date (从日期中减去30分钟)
+const date5 = new Date('2023-10-01T12:30:00');
+const newDate5 = subtract(date5, 30, 'minute');
+console.log(newDate5.toISOString()); // Outputs: '2023-10-01T12:00:00.000Z' (输出: '2023-10-01T12:00:00.000Z')
+
+// Subtracting 45 seconds from a date (从日期中减去45秒)
+const date6 = new Date('2023-10-01T12:00:45');
+const newDate6 = subtract(date6, 45, 'second');
+console.log(newDate6.toISOString()); // Outputs: '2023-10-01T12:00:00.000Z' (输出: '2023-10-01T12:00:00.000Z')
+
+// Subtracting 500 milliseconds from a date (从日期中减去500毫秒)
+const date7 = new Date('2023-10-01T12:00:00.500');
+const newDate7 = subtract(date7, 500, 'millisecond');
+console.log(newDate7.toISOString()); // Outputs: '2023-10-01T12:00:00.000Z' (输出: '2023-10-01T12:00:00.000Z')
+
+// Subtracting multiple time units using an object (使用对象减去多个时间单位)
+const date8 = new Date('2023-10-01T12:00:00');
+const newDate8 = subtract(date8, { year: 1, month: 2, day: 3, hour: 4, minute: 5, second: 6, millisecond: 7 });
+console.log(newDate8.toISOString()); // Outputs: '2022-07-28T07:54:53.993Z' (输出: '2022-07-28T07:54:53.993Z')
+```
+
+#### Call Signature
+
+> **default**(`date`, `input`): `Date`
+
+Defined in: [src/subtract.ts:7](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/subtract.ts#L7)
+
+##### Parameters
+
+###### date
+
+`Date`
+
+###### input
+
+`number` | [`DateAddingObject`](types.md#dateaddingobject)
+
+##### Returns
+
+`Date`
+
+#### Call Signature
+
+> **default**(`date`, `num`, `unit`): `Date`
+
+Defined in: [src/subtract.ts:8](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/subtract.ts#L8)
+
+##### Parameters
+
+###### date
+
+`Date`
+
+###### num
+
+`number`
+
+###### unit
+
+[`Unit`](types.md#unit)
+
+##### Returns
+
+`Date`
