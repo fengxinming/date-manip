@@ -2,9 +2,8 @@ import { InnerDateParsingObject } from 'src/types';
 
 import units from '../units';
 import { TZ_REGEX } from './autoExtract';
-import { UTC_OFFSET } from './constants';
 
-const { YEAR, MONTH, DATE, HOUR, MINUTE, SECOND, MILLISECOND } = units;
+const { YEAR, MONTH, DATE, HOUR, MINUTE, SECOND, MILLISECOND, UTC_OFFSET } = units;
 
 /** 转义正则特殊字符 */
 function escapeRegex(str: string): string {

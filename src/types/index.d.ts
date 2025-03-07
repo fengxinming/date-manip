@@ -97,6 +97,11 @@ export interface InnerUnits {
    * Millisecond unit (毫秒单位)
    */
   MILLISECOND: 'millisecond';
+
+  /**
+   * UTC offset unit (时区单位)
+   */
+  UTC_OFFSET: 'utcOffset';
 }
 
 /**
