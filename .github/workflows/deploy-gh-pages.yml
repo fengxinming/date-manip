@@ -1,0 +1,73 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  pull_request:
+    branches: [main]  # pull request 时触发
+
+  # 允许你从 Actions 选项卡手动运行此工作流程
+  workflow_dispatch: 
+    # inputs:          # 可选：定义输入参数
+    #   environment:
+    #     description: 'Deploy environment'
+    #     required: true
+    #     default: 'production'
+
+env:
+  base_url: /date-manip/
+
+# 设置 GITHUB_TOKEN 的权限，以允许部署到 GitHub Pages
+permissions:
+  contents: read
+  id-token: write
+  pages: write
+      
+# 只允许同时进行一次部署，跳过正在运行和最新队列之间的运行队列
+# 但是，不要取消正在进行的运行，因为我们希望允许这些生产部署完成
+concurrency:
+  group: pages
+  cancel-in-progress: true
+        
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整提交历史（用于 gh-pages 提交记录）
+      - name: 安装Node环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20  # 指定 Node.js 版本
+      - run: npm run clean
+      - run: npm i
+      - run: npm run typedoc      # 将ts文件构建成md文件
+      - run: npm run docs:build   # 执行构建命令（生成 dist/ 目录）
+        env:
+          BASE_URL: ${{ env.base_url }}
+      - name: 配置 Pages
+        id: configuration
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: './docs/.vitepress/dist'
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      # - name: Deploy to GitHub Pages
+      #   uses: peaceiris/actions-gh-pages@v4
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}  # 自动生成的 GitHub Token
+      #     publish_dir: ./docs/.vitepress/dist        # 构建产物目录
+      #     keep_files: false                          # 是否保留 gh-pages 现有文件
+      #     force_orphan: true                         # 强制清空历史（仅保留最新部署）
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
