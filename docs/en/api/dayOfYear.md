@@ -1,0 +1,71 @@
+[**date-manip**](index.md)
+
+***
+
+[date-manip](modules.md) / dayOfYear
+
+# dayOfYear
+
+## Functions
+
+### default()
+
+Gets or sets the day of the year for a given date.
+获取或设置给定日期的年份中的第几天。
+
+#### Param
+
+The date to get or set the day of the year for. (要获取或设置年份中的第几天的日期。)
+
+#### Param
+
+The day of the year to set. (要设置的年份中的第几天。)
+
+#### Example
+
+```ts
+// Getting the day of the year (获取年份中的第几天)
+const date = new Date('2023-10-01');
+const dayOfYear = dayOfYear(date);
+console.log(dayOfYear); // Outputs: 274 (输出: 274)
+
+// Setting the day of the year (设置年份中的第几天)
+const newDate = dayOfYear(new Date('2023-01-01'), 274);
+console.log(newDate.toISOString()); // Outputs: '2023-10-01T00:00:00.000Z' (输出: '2023-10-01T00:00:00.000Z')
+```
+
+#### Call Signature
+
+> **default**(`date`): `number`
+
+Defined in: [src/dayOfYear.ts:4](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/dayOfYear.ts#L4)
+
+##### Parameters
+
+###### date
+
+`Date`
+
+##### Returns
+
+`number`
+
+#### Call Signature
+
+> **default**(`date`, `val`): `Date`
+
+Defined in: [src/dayOfYear.ts:5](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/dayOfYear.ts#L5)
+
+##### Parameters
+
+###### date
+
+`Date`
+
+###### val
+
+`number`
+
+##### Returns
+
+`Date`
