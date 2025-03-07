@@ -10,6 +10,8 @@
 
 ---
 
+## [Documentation](https://fengxinming.github.io/date-manip/)
+
 ## Introduction
 
 `date-manip` is a lightweight JavaScript date utility library designed to provide modularity, high performance, and additional features. It supports various date operations, including date addition and subtraction, formatting, comparison, etc.

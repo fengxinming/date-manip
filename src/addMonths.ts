@@ -11,8 +11,8 @@ import daysInMonth from './daysInMonth';
  * ```ts
  * // Adding 2 months to a date (向日期添加2个月)
  * const originalDate = new Date('2023-10-31T12:00:00');
- * const newDate = addMonths(originalDate, 2);
- * console.log(newDate.toISOString()); // Outputs: '2023-12-31T12:00:00.000Z' (输出: '2023-12-31T12:00:00.000Z')
+ * addMonths(originalDate, 2);
+ * console.log(originalDate.toISOString()); // Outputs: '2023-12-31T12:00:00.000Z' (输出: '2023-12-31T12:00:00.000Z')
  * ```
  */
 export default function addMonths(date: Date, months: number): Date {

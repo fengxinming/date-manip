@@ -11,8 +11,8 @@ import addMonths from './addMonths';
  * ```ts
  * // Adding 2 years to a date (向日期添加2年)
  * const originalDate = new Date('2023-10-01T12:00:00');
- * const newDate = addYears(originalDate, 2);
- * console.log(newDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' (输出: '2025-10-01T12:00:00.000Z')
+ * addYears(originalDate, 2);
+ * console.log(originalDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' (输出: '2025-10-01T12:00:00.000Z')
  * ```
  */
 export default function addYears(date: Date, years: number): Date {

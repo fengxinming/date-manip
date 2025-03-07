@@ -10,6 +10,8 @@
 
 ---
 
+## [文档](https://fengxinming.github.io/date-manip/)
+
 ## 简介
 
 `date-manip` 是一个轻量级的 JavaScript 日期工具库，旨在提供模块化、高性能和额外功能。它支持多种日期操作，包括日期的增减、格式化、比较等。

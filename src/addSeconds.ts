@@ -12,8 +12,8 @@ import addMilliseconds from './addMilliseconds';
  * ```ts
  * // Adding 30 seconds to a date (向日期添加30秒)
  * const originalDate = new Date('2023-10-01T12:00:00');
- * const newDate = addSeconds(originalDate, 30);
- * console.log(newDate.toISOString()); // Outputs: '2023-10-01T12:00:30.000Z' (输出: '2023-10-01T12:00:30.000Z')
+ * addSeconds(originalDate, 30);
+ * console.log(originalDate.toISOString()); // Outputs: '2023-10-01T12:00:30.000Z' (输出: '2023-10-01T12:00:30.000Z')
  * ```
  */
 export default function addSeconds(date: Date, seconds: number): Date {

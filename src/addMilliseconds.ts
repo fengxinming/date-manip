@@ -9,8 +9,8 @@
  * ```ts
  * // Adding 5000 milliseconds to a date (向日期添加5000毫秒)
  * const originalDate = new Date('2023-10-01T12:00:00');
- * const newDate = addMilliseconds(originalDate, 5000);
- * console.log(newDate.toISOString()); // Outputs: '2023-10-01T12:00:05.000Z' (输出: '2023-10-01T12:00:05.000Z')
+ * addMilliseconds(originalDate, 5000);
+ * console.log(originalDate.toISOString()); // Outputs: '2023-10-01T12:00:05.000Z' (输出: '2023-10-01T12:00:05.000Z')
  * ```
  */
 export default function addMilliseconds(date: Date, ms: number): Date {
