@@ -159,126 +159,126 @@ bun add date-manip
 - **add(date: Date, duration: DateAddingObject): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.add(date, { year: 1, month: 2, day: 3 });
+  const newDate = add(date, { year: 1, month: 2, day: 3 });
   console.log(newDate); // 2024-12-04T12:00:00.000Z
   ```
 
 - **add(date: Date, value: number, unit?: Unit): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.add(date, 5, 'days');
+  const newDate = add(date, 5, 'days');
   console.log(newDate); // 2023-10-06T12:00:00.000Z
   ```
 
 - **addDays(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.addDays(date, 5);
+  const newDate = addDays(date, 5);
   console.log(newDate); // 2023-10-06T12:00:00.000Z
   ```
 
 - **addHours(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.addHours(date, 3);
+  const newDate = addHours(date, 3);
   console.log(newDate); // 2023-10-01T15:00:00.000Z
   ```
 
 - **addMilliseconds(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.addMilliseconds(date, 500);
+  const newDate = addMilliseconds(date, 500);
   console.log(newDate); // 2023-10-01T12:00:00.500Z
   ```
 
 - **addMinutes(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.addMinutes(date, 30);
+  const newDate = addMinutes(date, 30);
   console.log(newDate); // 2023-10-01T12:30:00.000Z
   ```
 
 - **addMonths(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.addMonths(date, 2);
+  const newDate = addMonths(date, 2);
   console.log(newDate); // 2023-12-01T12:00:00.000Z
   ```
 
 - **addSeconds(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.addSeconds(date, 45);
+  const newDate = addSeconds(date, 45);
   console.log(newDate); // 2023-10-01T12:00:45.000Z
   ```
 
 - **addYears(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.addYears(date, 1);
+  const newDate = addYears(date, 1);
   console.log(newDate); // 2024-10-01T12:00:00.000Z
   ```
 
 - **subDays(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.subDays(date, 3);
+  const newDate = subDays(date, 3);
   console.log(newDate); // 2023-09-28T12:00:00.000Z
   ```
 
 - **subHours(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.subHours(date, 2);
+  const newDate = subHours(date, 2);
   console.log(newDate); // 2023-10-01T10:00:00.000Z
   ```
 
 - **subMilliseconds(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00.500Z');
-  const newDate = dateManip.subMilliseconds(date, 200);
+  const newDate = subMilliseconds(date, 200);
   console.log(newDate); // 2023-10-01T12:00:00.300Z
   ```
 
 - **subMinutes(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:30:00Z');
-  const newDate = dateManip.subMinutes(date, 15);
+  const newDate = subMinutes(date, 15);
   console.log(newDate); // 2023-10-01T12:15:00.000Z
   ```
 
 - **subMonths(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.subMonths(date, 2);
+  const newDate = subMonths(date, 2);
   console.log(newDate); // 2023-08-01T12:00:00.000Z
   ```
 
 - **subSeconds(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:45Z');
-  const newDate = dateManip.subSeconds(date, 20);
+  const newDate = subSeconds(date, 20);
   console.log(newDate); // 2023-10-01T12:00:25.000Z
   ```
 
 - **subYears(date: Date, amount: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.subYears(date, 1);
+  const newDate = subYears(date, 1);
   console.log(newDate); // 2022-10-01T12:00:00.000Z
   ```
 
 - **subtract(date: Date, duration: DateAddingObject): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.subtract(date, { year: 1, month: 1, day: 1 });
+  const newDate = subtract(date, { year: 1, month: 1, day: 1 });
   console.log(newDate); // 2022-08-31T12:00:00.000Z
   ```
 
 - **subtract(date: Date, value: number, unit?: Unit): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.subtract(date, 3, 'days');
+  const newDate = subtract(date, 3, 'days');
   console.log(newDate); // 2023-09-28T12:00:00.000Z
   ```
 
@@ -287,7 +287,7 @@ bun add date-manip
 - **format(date: Date, formatString: string): string**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const formattedDate = dateManip.format(date, 'YYYY-MM-DD HH:mm:ss');
+  const formattedDate = format(date, 'YYYY-MM-DD HH:mm:ss');
   console.log(formattedDate); // 2023-10-01 12:00:00
   ```
 
@@ -296,21 +296,21 @@ bun add date-manip
 - **dayOfYear(date: Date): number**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const dayOfYear = dateManip.dayOfYear(date);
+  const dayOfYear = dayOfYear(date);
   console.log(dayOfYear); // 275
   ```
 
 - **daysInMonth(date: Date): number**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const daysInMonth = dateManip.daysInMonth(date);
+  const daysInMonth = daysInMonth(date);
   console.log(daysInMonth); // 31
   ```
 
 - **get(date: Date, unit: Unit): number**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const unitValue = dateManip.get(date, 'day');
+  const unitValue = get(date, 'day');
   console.log(unitValue); // 1
   ```
 
@@ -320,7 +320,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-10-01T12:00:00Z');
   const date2 = new Date('2023-09-01T12:00:00Z');
-  const diff = dateManip.diff(date1, date2, 'days');
+  const diff = diff(date1, date2, 'days');
   console.log(diff); // 30
   ```
 
@@ -328,7 +328,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-10-01T12:00:00Z');
   const date2 = new Date('2023-09-01T12:00:00Z');
-  const diff = dateManip.diffInDays(date1, date2);
+  const diff = diffInDays(date1, date2);
   console.log(diff); // 30
   ```
 
@@ -336,7 +336,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-10-01T12:00:00Z');
   const date2 = new Date('2023-09-01T12:00:00Z');
-  const diff = dateManip.diffInHours(date1, date2);
+  const diff = diffInHours(date1, date2);
   console.log(diff); // 720
   ```
 
@@ -344,7 +344,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-10-01T12:00:00Z');
   const date2 = new Date('2023-09-01T12:00:00Z');
-  const diff = dateManip.diffInMilliseconds(date1, date2);
+  const diff = diffInMilliseconds(date1, date2);
   console.log(diff); // 2592000000
   ```
 
@@ -352,7 +352,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-10-01T12:00:00Z');
   const date2 = new Date('2023-09-01T12:00:00Z');
-  const diff = dateManip.diffInMinutes(date1, date2);
+  const diff = diffInMinutes(date1, date2);
   console.log(diff); // 43200
   ```
 
@@ -360,7 +360,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-10-01T12:00:00Z');
   const date2 = new Date('2023-09-01T12:00:00Z');
-  const diff = dateManip.diffInMonths(date1, date2);
+  const diff = diffInMonths(date1, date2);
   console.log(diff); // 1
   ```
 
@@ -368,7 +368,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-10-01T12:00:00Z');
   const date2 = new Date('2023-09-01T12:00:00Z');
-  const diff = dateManip.diffInSeconds(date1, date2);
+  const diff = diffInSeconds(date1, date2);
   console.log(diff); // 2592000
   ```
 
@@ -376,7 +376,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-10-01T12:00:00Z');
   const date2 = new Date('2022-10-01T12:00:00Z');
-  const diff = dateManip.diffInYears(date1, date2);
+  const diff = diffInYears(date1, date2);
   console.log(diff); // 1
   ```
 
@@ -384,7 +384,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-10-01T12:00:00Z');
   const date2 = new Date('2023-09-01T12:00:00Z');
-  const isAfter = dateManip.isAfter(date1, date2);
+  const isAfter = isAfter(date1, date2);
   console.log(isAfter); // true
   ```
 
@@ -392,7 +392,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-09-01T12:00:00Z');
   const date2 = new Date('2023-10-01T12:00:00Z');
-  const isBefore = dateManip.isBefore(date1, date2);
+  const isBefore = isBefore(date1, date2);
   console.log(isBefore); // true
   ```
 
@@ -401,14 +401,14 @@ bun add date-manip
   const date = new Date('2023-09-15T12:00:00Z');
   const startDate = new Date('2023-09-01T12:00:00Z');
   const endDate = new Date('2023-09-30T12:00:00Z');
-  const isBetween = dateManip.isBetween(date, startDate, endDate);
+  const isBetween = isBetween(date, startDate, endDate);
   console.log(isBetween); // true
   ```
 
 - **isLeapYear(date: Date): boolean**
   ```typescript
   const date = new Date('2020-10-01T12:00:00Z');
-  const isLeapYear = dateManip.isLeapYear(date);
+  const isLeapYear = isLeapYear(date);
   console.log(isLeapYear); // true
   ```
 
@@ -416,7 +416,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-10-01T12:00:00Z');
   const date2 = new Date('2023-10-01T12:00:00Z');
-  const isSame = dateManip.isSame(date1, date2);
+  const isSame = isSame(date1, date2);
   console.log(isSame); // true
   ```
 
@@ -424,7 +424,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-10-01T12:00:00Z');
   const date2 = new Date('2023-09-01T12:00:00Z');
-  const isSameOrAfter = dateManip.isSameOrAfter(date1, date2);
+  const isSameOrAfter = isSameOrAfter(date1, date2);
   console.log(isSameOrAfter); // true
   ```
 
@@ -432,7 +432,7 @@ bun add date-manip
   ```typescript
   const date1 = new Date('2023-09-01T12:00:00Z');
   const date2 = new Date('2023-10-01T12:00:00Z');
-  const isSameOrBefore = dateManip.isSameOrBefore(date1, date2);
+  const isSameOrBefore = isSameOrBefore(date1, date2);
   console.log(isSameOrBefore); // true
   ```
 
@@ -441,7 +441,7 @@ bun add date-manip
 - **isValid(date: Date): boolean**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const isValid = dateManip.isValid(date);
+  const isValid = isValid(date);
   console.log(isValid); // true
   ```
 
@@ -449,8 +449,8 @@ bun add date-manip
 
 - **parse(input: DateInput, format?: string): Date**
   ```typescript
-  const parsedDate = dateManip.parse('2023-10-01 12:00:00', 'YYYY-MM-DD HH:mm:ss');
-  console.log(parsedDate); // 2023-10-01T12:00:00.000Z
+  const parsedDate = parse('2023-10-01 12:00:00', 'YYYY-MM-DD HH:mm:ss');
+  console.log(parsedDate); // 2023-10-01T04:00:00.000Z
   ```
 
 ### 设置日期信息
@@ -458,7 +458,7 @@ bun add date-manip
 - **set(date: Date, value: number): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const newDate = dateManip.set(date, { year: 2024 });
+  const newDate = set(date, { year: 2024 });
   console.log(newDate); // 2024-10-01T12:00:00.000Z
   ```
 
@@ -467,14 +467,14 @@ bun add date-manip
 - **endOf(date: Date, unit: Unit): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const endOfDay = dateManip.endOf(date, 'day');
+  const endOfDay = endOf(date, 'day');
   console.log(endOfDay); // 2023-10-01T23:59:59.999Z
   ```
 
 - **startOf(date: Date, unit: Unit): Date**
   ```typescript
   const date = new Date('2023-10-01T12:00:00Z');
-  const startOfDay = dateManip.startOf(date, 'day');
+  const startOfDay = startOf(date, 'day');
   console.log(startOfDay); // 2023-10-01T00:00:00.000Z
   ```
 
