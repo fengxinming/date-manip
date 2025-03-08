@@ -19,7 +19,7 @@
     "build": "vite build",
     "test": "vitest run --coverage",
     "watch": "vite build --watch",
-    "prepublishOnly": "npm run build:lib",
+    "prepublishOnly": "npm run build",
     "release": "npm publish",
     "eslint": "eslint --ext .js,.mjs,.jsx,.ts,.tsx --fix --ignore-path .eslintignore ./",
     "prepare": "husky",
