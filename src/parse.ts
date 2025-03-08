@@ -1,14 +1,13 @@
 import { isNumber, isObject } from 'is-what-type';
 
 import autoParse from './_internal/autoExtract';
-import { UTC_OFFSET } from './_internal/constants';
 import createFromArray from './_internal/createFromArray';
 import extractWithFormat from './_internal/extractWithFormat';
 import normalizeUnit from './_internal/normalizeUnit';
 import { DateInput, DateParsingObject } from './types';
 import units from './units';
 
-const { DATE, DAY, HOUR, MILLISECOND, MINUTE, MONTH, SECOND, YEAR } = units;
+const { DATE, DAY, HOUR, MILLISECOND, MINUTE, MONTH, SECOND, YEAR, UTC_OFFSET } = units;
 
 const ASP_NET_JSON_REGEX = /^\/?Date\((-?\d+)/i;
 

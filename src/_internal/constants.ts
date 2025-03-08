@@ -7,9 +7,6 @@ export const MS_IN_HOUR = 3600000;
 /** Milliseconds in a day (每天的毫秒数) */
 export const MS_IN_DAY = 86400000;
 
-/** UTC offset unit (时区偏移单位) */
-export const UTC_OFFSET = 'utcOffset';
-
 /** range of units (单位范围) */
 export const rangeOfUnits = [
   'time',
@@ -20,5 +17,6 @@ export const rangeOfUnits = [
   'hour',
   'minute',
   'second',
-  'millisecond'
+  'millisecond',
+  'utcOffset'
 ];

@@ -387,7 +387,7 @@ describe('parse', () => {
     expect(result).toEqual(expected);
   });
 
-  it('should handle a string with incorrect millisecond format and return null', () => {
+  it('should handle a string with incorrect millisecond format', () => {
     const input = '2023-10-01T12:34:56.78Z';
     const format = 'YYYY-MM-DDTHH:mm:ss.SSSZ';
     const result = parse(input, format);

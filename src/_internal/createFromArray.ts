@@ -41,7 +41,7 @@ function createUTCDate(
   // the Date.UTC function remaps years 0-99 to 1900-1999
   if (y < 100 && y >= 0) {
     // preserve leap years using a full 400 year cycle, then reset
-    y = y + 400;
+    y += 400;
     date = new Date(Date.UTC(y, m, d, h, minute, s, ms));
     if (isFinite(date.getUTCFullYear())) {
       date.setUTCFullYear(y);
@@ -76,7 +76,12 @@ export default function createFromArray(input: number[]): Date {
   }
 
   for (; i < 7; i++) {
-    array[i] = input[i] == null ? (i === 2 ? 1 : 0) : input[i];
+    array[i] = input[i] == null ? 0 : input[i];
+  }
+
+  let day = array[2];
+  if (day === 0) {
+    day = 1;
   }
 
   let minute = array[4];
@@ -87,7 +92,7 @@ export default function createFromArray(input: number[]): Date {
   return (isUTC ? createUTCDate : createDate)(
     array[0],
     array[1],
-    array[2],
+    day,
     array[3],
     minute,
     array[5],
