@@ -1,27 +1,93 @@
-const FORMAT_REGEX = /\[.*?\]|Y{2,4}|y{2,4}|M{1,2}|D{1,2}|d{1,2}|H{1,2}|h{1,2}|m{1,2}|s{1,2}|SSS|Z{1,2}/g;
-
-const PADDING_ZERO = '000';
-
 function padLeft(val: number | string, len?: number): string {
-  return String(val).padStart(len || 2, PADDING_ZERO);
+  return String(val).padStart(len || 2, '0');
 }
 
-function timezone(minutes: number, together?: boolean): string {
+function dateTimeFormat(date: Date, opts: any): string {
+  return new Intl.DateTimeFormat('en-US', opts).format(date);
+}
+
+function getOrdinalSuffix(day: number): string {
+  if (day > 3 && day < 21) {
+    return 'th';
+  }
+  switch (day % 10) {
+    case 1: return 'st';
+    case 2: return 'nd';
+    case 3: return 'rd';
+    default: return 'th';
+  }
+}
+
+function timezone(date: Date, together?: boolean): string {
+  let offset = -date.getTimezoneOffset();
   let prefix;
-  if (minutes < 0) {
+  if (offset > 0) {
     prefix = '+';
-    minutes = Math.abs(minutes);
   }
   else {
     prefix = '-';
+    offset = Math.abs(offset);
   }
-  return `${prefix}${padLeft(Math.floor(minutes / 60))}${together ? '' : ':'}${padLeft(Math.floor(minutes % 60))}`;
+  return `${prefix}${padLeft(Math.floor(offset / 60))}${together ? '' : ':'}${padLeft(Math.floor(offset % 60))}`;
 }
 
-function h12(hours: number): number {
-  hours = hours || 24;
-  return hours > 12 ? hours - 12 : hours;
+interface FormatMap {
+  [key: string]: (date: Date) => any;
 }
+
+const FORMAT_MAP: FormatMap = {
+  // 年份
+  yyyy: (d) => d.getFullYear(),
+  YYYY: (d) => d.getFullYear(),
+  YY: (d) => padLeft(d.getFullYear() % 100),
+
+  // 月份
+  MMMM: (d) => dateTimeFormat(d, { month: 'long' }),
+  MMM: (d) => dateTimeFormat(d, { month: 'short' }),
+  MM: (d) => padLeft(d.getMonth() + 1),
+  M: (d) => d.getMonth() + 1,
+
+  // 日期
+  DD: (d) => padLeft(d.getDate()),
+  D: (d) => d.getDate(),
+  Do: (d) => {
+    const day = d.getDate();
+    return String(day) + getOrdinalSuffix(day);
+  },
+
+  // 星期
+  dddd: (d) => dateTimeFormat(d, { weekday: 'long' }),
+  ddd: (d) => dateTimeFormat(d, { weekday: 'short' }),
+  dd: (d) => dateTimeFormat(d, { weekday: 'narrow' }),
+
+  // 时间
+  HH: (d) => padLeft(d.getHours()),
+  H: (d) => d.getHours(),
+  hh: (d) => padLeft(d.getHours() % 12 || 12),
+  h: (d) => d.getHours() % 12 || 12,
+  mm: (d) => padLeft(d.getMinutes()),
+  m: (d) => d.getMinutes(),
+  ss: (d) => padLeft(d.getSeconds()),
+  s: (d) => d.getSeconds(),
+  SSS: (d) => padLeft(d.getMilliseconds(), 3),
+
+  // 其他
+  A: (d) => (d.getHours() >= 12 ? 'PM' : 'AM'),
+  a: (d) => (d.getHours() >= 12 ? 'pm' : 'am'),
+  Z: (d) => timezone(d),
+  ZZ: (d) => timezone(d, true)
+};
+
+// 按优先级排序的匹配标记（长标记优先）
+const tokens = Object.keys(FORMAT_MAP)
+  .sort((a, b) => b.length - a.length)
+  .join('|');
+
+// 创建主正则表达式
+const pattern = new RegExp(
+  tokens,
+  'g'
+);
 
 /**
  * Formats a date according to the specified format string.
@@ -58,49 +124,9 @@ export default function format(date: Date, formatString?: string): string {
     return date.toISOString();
   }
 
-  const timezoneOffset = (new Date()).getTimezoneOffset();
-  return formatString.replace(FORMAT_REGEX, (matched): any => {
-    switch (matched) {
-      case 'YY':
-        return String(date.getFullYear()).slice(-2);
-      case 'YYYY':
-      case 'yyyy':
-        return date.getFullYear();
-      case 'M':
-        return date.getMonth() + 1;
-      case 'MM':
-        return padLeft(date.getMonth() + 1);
-      case 'D':
-      case 'd':
-        return date.getDate();
-      case 'DD':
-      case 'dd':
-        return padLeft(date.getDate());
-      // case 'T':
-      //   return ' ';
-      case 'H':
-        return date.getHours();
-      case 'HH':
-        return padLeft(date.getHours());
-      case 'h':
-        return h12(date.getHours());
-      case 'hh':
-        return padLeft(h12(date.getHours()));
-      case 'm':
-        return date.getMinutes();
-      case 'mm':
-        return padLeft(date.getMinutes());
-      case 's':
-        return date.getSeconds();
-      case 'ss':
-        return padLeft(date.getSeconds());
-      case 'SSS':
-        return padLeft(date.getMilliseconds(), 3);
-      case 'Z':
-        return timezone(timezoneOffset);
-      case 'ZZ':
-        return timezone(timezoneOffset, true);
-    }
-    return matched;
+  return formatString.replace(pattern, (match): any => {
+    // 处理格式化标记
+    const formatter = FORMAT_MAP[match];
+    return formatter ? formatter(date) : match;
   });
 }
