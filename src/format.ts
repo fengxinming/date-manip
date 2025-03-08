@@ -19,14 +19,14 @@ function getOrdinalSuffix(day: number): string {
 }
 
 function timezone(date: Date, together?: boolean): string {
-  let offset = -date.getTimezoneOffset();
+  let offset = date.getTimezoneOffset();
   let prefix;
-  if (offset > 0) {
+  if (offset <= 0) {
     prefix = '+';
+    offset = Math.abs(offset);
   }
   else {
     prefix = '-';
-    offset = Math.abs(offset);
   }
   return `${prefix}${padLeft(Math.floor(offset / 60))}${together ? '' : ':'}${padLeft(Math.floor(offset % 60))}`;
 }
@@ -85,7 +85,7 @@ const tokens = Object.keys(FORMAT_MAP)
 
 // 创建主正则表达式
 const pattern = new RegExp(
-  tokens,
+  `${tokens}|\\[([^\\]]*)]`,
   'g'
 );
 
@@ -113,9 +113,9 @@ const pattern = new RegExp(
  * const formattedDate3 = format(date3, 'YYYY-MM-DDTHH:mm:ssZ');
  * console.log(formattedDate3); // Outputs: '2023-10-01T12:30:45-04:00' (输出: '2023-10-01T12:30:45-04:00')
  *
- * // Using 'UTC' format (使用 'UTC' 格式)
+ * // Using 'ISO' format (使用 'ISO' 格式)
  * const date4 = new Date('2023-10-01T12:30:45');
- * const formattedDate4 = format(date4, 'UTC');
+ * const formattedDate4 = format(date4, 'ISO');
  * console.log(formattedDate4); // Outputs: '2023-10-01T16:30:45.000Z' (输出: '2023-10-01T16:30:45.000Z')
  * ```
  */
@@ -124,7 +124,12 @@ export default function format(date: Date, formatString?: string): string {
     return date.toISOString();
   }
 
-  return formatString.replace(pattern, (match): any => {
+  return formatString.replace(pattern, (match, escapeContent): any => {
+    // 处理转义内容
+    if (escapeContent) {
+      return escapeContent;
+    }
+
     // 处理格式化标记
     const formatter = FORMAT_MAP[match];
     return formatter ? formatter(date) : match;
