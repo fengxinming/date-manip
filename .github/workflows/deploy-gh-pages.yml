@@ -2,10 +2,10 @@ name: Build and Deploy to GitHub Pages
 
 on:
   pull_request:
-    branches: [main]  # pull request 时触发
+    branches: [master]  # pull request 时触发
 
   # 允许你从 Actions 选项卡手动运行此工作流程
-  # workflow_dispatch: 
+  workflow_dispatch: 
     # inputs:          # 可选：定义输入参数
     #   environment:
     #     description: 'Deploy environment'
