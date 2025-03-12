@@ -71,5 +71,8 @@
   "homepage": "https://fengxinming.github.io/date-manip/",
   "dependencies": {
     "is-what-type": "^1.0.0"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
