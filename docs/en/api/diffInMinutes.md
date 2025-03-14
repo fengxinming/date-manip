@@ -12,7 +12,7 @@
 
 > **default**(`date`, `input`, `asFloat`?): `number`
 
-Defined in: [src/diffInMinutes.ts:6](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/diffInMinutes.ts#L6)
+Defined in: [src/diffInMinutes.ts:6](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/diffInMinutes.ts#L6)
 
 #### Parameters
 

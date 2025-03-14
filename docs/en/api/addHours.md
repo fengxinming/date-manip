@@ -12,7 +12,7 @@
 
 > **default**(`date`, `hours`): `Date`
 
-Defined in: [src/addHours.ts:19](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/addHours.ts#L19)
+Defined in: [src/addHours.ts:19](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/addHours.ts#L19)
 
 Adds a specified number of hours to a date.
 向日期添加指定数量的小时。
@@ -42,6 +42,6 @@ A new date with the added hours. (添加小时后的新日期。)
 ```ts
 // Adding 3 hours to a date (向日期添加3小时)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addHours(originalDate, 3);
-console.log(newDate.toISOString()); // Outputs: '2023-10-01T15:00:00.000Z' (输出: '2023-10-01T15:00:00.000Z')
+addHours(originalDate, 3);
+console.log(originalDate.toISOString()); // Outputs: '2023-10-01T15:00:00.000Z' (输出: '2023-10-01T15:00:00.000Z')
 ```

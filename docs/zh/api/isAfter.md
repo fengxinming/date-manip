@@ -12,7 +12,7 @@
 
 > **default**(`date`, `input`, `unit`?): `boolean`
 
-定义于: [src/isAfter.ts:60](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/isAfter.ts#L60)
+定义于: [src/isAfter.ts:60](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/isAfter.ts#L60)
 
 Checks if a date is after another date or a specified time unit.
 检查一个日期是否在另一个日期或指定的时间单位之后。

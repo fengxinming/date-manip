@@ -12,7 +12,7 @@
 
 > **default**(`date`, `ms`): `Date`
 
-定义于: [src/addMilliseconds.ts:16](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/addMilliseconds.ts#L16)
+定义于: [src/addMilliseconds.ts:16](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/addMilliseconds.ts#L16)
 
 Adds a specified number of milliseconds to a date.
 向日期添加指定数量的毫秒。
@@ -42,6 +42,6 @@ A new date with the added milliseconds. (添加毫秒后的新日期。)
 ```ts
 // Adding 5000 milliseconds to a date (向日期添加5000毫秒)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addMilliseconds(originalDate, 5000);
-console.log(newDate.toISOString()); // Outputs: '2023-10-01T12:00:05.000Z' (输出: '2023-10-01T12:00:05.000Z')
+addMilliseconds(originalDate, 5000);
+console.log(originalDate.toISOString()); // Outputs: '2023-10-01T12:00:05.000Z' (输出: '2023-10-01T12:00:05.000Z')
 ```

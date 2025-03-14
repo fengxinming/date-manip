@@ -10,7 +10,7 @@
 
 ### DateAddingObject
 
-Defined in: src/types/index.d.ts:1
+Defined in: [src/types/index.d.ts:1](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L1)
 
 #### Extended by
 
@@ -22,139 +22,139 @@ Defined in: src/types/index.d.ts:1
 
 > `optional` **d**: `number`
 
-Defined in: src/types/index.d.ts:21
+Defined in: [src/types/index.d.ts:21](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L21)
 
 ##### day?
 
 > `optional` **day**: `number`
 
-Defined in: src/types/index.d.ts:4
+Defined in: [src/types/index.d.ts:4](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L4)
 
 ##### days?
 
 > `optional` **days**: `number`
 
-Defined in: src/types/index.d.ts:12
+Defined in: [src/types/index.d.ts:12](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L12)
 
 ##### h?
 
 > `optional` **h**: `number`
 
-Defined in: src/types/index.d.ts:22
+Defined in: [src/types/index.d.ts:22](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L22)
 
 ##### hour?
 
 > `optional` **hour**: `number`
 
-Defined in: src/types/index.d.ts:5
+Defined in: [src/types/index.d.ts:5](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L5)
 
 ##### hours?
 
 > `optional` **hours**: `number`
 
-Defined in: src/types/index.d.ts:13
+Defined in: [src/types/index.d.ts:13](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L13)
 
 ##### m?
 
 > `optional` **m**: `number`
 
-Defined in: src/types/index.d.ts:23
+Defined in: [src/types/index.d.ts:23](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L23)
 
 ##### M?
 
 > `optional` **M**: `number`
 
-Defined in: src/types/index.d.ts:20
+Defined in: [src/types/index.d.ts:20](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L20)
 
 ##### millisecond?
 
 > `optional` **millisecond**: `number`
 
-Defined in: src/types/index.d.ts:8
+Defined in: [src/types/index.d.ts:8](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L8)
 
 ##### milliseconds?
 
 > `optional` **milliseconds**: `number`
 
-Defined in: src/types/index.d.ts:16
+Defined in: [src/types/index.d.ts:16](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L16)
 
 ##### minute?
 
 > `optional` **minute**: `number`
 
-Defined in: src/types/index.d.ts:6
+Defined in: [src/types/index.d.ts:6](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L6)
 
 ##### minutes?
 
 > `optional` **minutes**: `number`
 
-Defined in: src/types/index.d.ts:14
+Defined in: [src/types/index.d.ts:14](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L14)
 
 ##### month?
 
 > `optional` **month**: `number`
 
-Defined in: src/types/index.d.ts:3
+Defined in: [src/types/index.d.ts:3](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L3)
 
 ##### months?
 
 > `optional` **months**: `number`
 
-Defined in: src/types/index.d.ts:11
+Defined in: [src/types/index.d.ts:11](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L11)
 
 ##### ms?
 
 > `optional` **ms**: `number`
 
-Defined in: src/types/index.d.ts:25
+Defined in: [src/types/index.d.ts:25](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L25)
 
 ##### s?
 
 > `optional` **s**: `number`
 
-Defined in: src/types/index.d.ts:24
+Defined in: [src/types/index.d.ts:24](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L24)
 
 ##### second?
 
 > `optional` **second**: `number`
 
-Defined in: src/types/index.d.ts:7
+Defined in: [src/types/index.d.ts:7](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L7)
 
 ##### seconds?
 
 > `optional` **seconds**: `number`
 
-Defined in: src/types/index.d.ts:15
+Defined in: [src/types/index.d.ts:15](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L15)
 
 ##### y?
 
 > `optional` **y**: `number`
 
-Defined in: src/types/index.d.ts:19
+Defined in: [src/types/index.d.ts:19](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L19)
 
 ##### Y?
 
 > `optional` **Y**: `number`
 
-Defined in: src/types/index.d.ts:18
+Defined in: [src/types/index.d.ts:18](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L18)
 
 ##### year?
 
 > `optional` **year**: `number`
 
-Defined in: src/types/index.d.ts:2
+Defined in: [src/types/index.d.ts:2](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L2)
 
 ##### years?
 
 > `optional` **years**: `number`
 
-Defined in: src/types/index.d.ts:10
+Defined in: [src/types/index.d.ts:10](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L10)
 
 ***
 
 ### DateParsingObject
 
-Defined in: src/types/index.d.ts:39
+Defined in: [src/types/index.d.ts:39](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L39)
 
 #### Extends
 
@@ -166,7 +166,7 @@ Defined in: src/types/index.d.ts:39
 
 > `optional` **d**: `number`
 
-Defined in: src/types/index.d.ts:21
+Defined in: [src/types/index.d.ts:21](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L21)
 
 ###### Inherited from
 
@@ -176,7 +176,7 @@ Defined in: src/types/index.d.ts:21
 
 > `optional` **day**: `number`
 
-Defined in: src/types/index.d.ts:4
+Defined in: [src/types/index.d.ts:4](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L4)
 
 ###### Inherited from
 
@@ -186,7 +186,7 @@ Defined in: src/types/index.d.ts:4
 
 > `optional` **days**: `number`
 
-Defined in: src/types/index.d.ts:12
+Defined in: [src/types/index.d.ts:12](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L12)
 
 ###### Inherited from
 
@@ -196,7 +196,7 @@ Defined in: src/types/index.d.ts:12
 
 > `optional` **h**: `number`
 
-Defined in: src/types/index.d.ts:22
+Defined in: [src/types/index.d.ts:22](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L22)
 
 ###### Inherited from
 
@@ -206,7 +206,7 @@ Defined in: src/types/index.d.ts:22
 
 > `optional` **hour**: `number`
 
-Defined in: src/types/index.d.ts:5
+Defined in: [src/types/index.d.ts:5](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L5)
 
 ###### Inherited from
 
@@ -216,7 +216,7 @@ Defined in: src/types/index.d.ts:5
 
 > `optional` **hours**: `number`
 
-Defined in: src/types/index.d.ts:13
+Defined in: [src/types/index.d.ts:13](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L13)
 
 ###### Inherited from
 
@@ -226,7 +226,7 @@ Defined in: src/types/index.d.ts:13
 
 > `optional` **m**: `number`
 
-Defined in: src/types/index.d.ts:23
+Defined in: [src/types/index.d.ts:23](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L23)
 
 ###### Inherited from
 
@@ -236,7 +236,7 @@ Defined in: src/types/index.d.ts:23
 
 > `optional` **M**: `number`
 
-Defined in: src/types/index.d.ts:20
+Defined in: [src/types/index.d.ts:20](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L20)
 
 ###### Inherited from
 
@@ -246,7 +246,7 @@ Defined in: src/types/index.d.ts:20
 
 > `optional` **millisecond**: `number`
 
-Defined in: src/types/index.d.ts:8
+Defined in: [src/types/index.d.ts:8](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L8)
 
 ###### Inherited from
 
@@ -256,7 +256,7 @@ Defined in: src/types/index.d.ts:8
 
 > `optional` **milliseconds**: `number`
 
-Defined in: src/types/index.d.ts:16
+Defined in: [src/types/index.d.ts:16](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L16)
 
 ###### Inherited from
 
@@ -266,7 +266,7 @@ Defined in: src/types/index.d.ts:16
 
 > `optional` **minute**: `number`
 
-Defined in: src/types/index.d.ts:6
+Defined in: [src/types/index.d.ts:6](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L6)
 
 ###### Inherited from
 
@@ -276,7 +276,7 @@ Defined in: src/types/index.d.ts:6
 
 > `optional` **minutes**: `number`
 
-Defined in: src/types/index.d.ts:14
+Defined in: [src/types/index.d.ts:14](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L14)
 
 ###### Inherited from
 
@@ -286,7 +286,7 @@ Defined in: src/types/index.d.ts:14
 
 > `optional` **month**: `number`
 
-Defined in: src/types/index.d.ts:3
+Defined in: [src/types/index.d.ts:3](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L3)
 
 ###### Inherited from
 
@@ -296,7 +296,7 @@ Defined in: src/types/index.d.ts:3
 
 > `optional` **months**: `number`
 
-Defined in: src/types/index.d.ts:11
+Defined in: [src/types/index.d.ts:11](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L11)
 
 ###### Inherited from
 
@@ -306,7 +306,7 @@ Defined in: src/types/index.d.ts:11
 
 > `optional` **ms**: `number`
 
-Defined in: src/types/index.d.ts:25
+Defined in: [src/types/index.d.ts:25](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L25)
 
 ###### Inherited from
 
@@ -316,7 +316,7 @@ Defined in: src/types/index.d.ts:25
 
 > `optional` **s**: `number`
 
-Defined in: src/types/index.d.ts:24
+Defined in: [src/types/index.d.ts:24](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L24)
 
 ###### Inherited from
 
@@ -326,7 +326,7 @@ Defined in: src/types/index.d.ts:24
 
 > `optional` **second**: `number`
 
-Defined in: src/types/index.d.ts:7
+Defined in: [src/types/index.d.ts:7](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L7)
 
 ###### Inherited from
 
@@ -336,7 +336,7 @@ Defined in: src/types/index.d.ts:7
 
 > `optional` **seconds**: `number`
 
-Defined in: src/types/index.d.ts:15
+Defined in: [src/types/index.d.ts:15](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L15)
 
 ###### Inherited from
 
@@ -346,13 +346,13 @@ Defined in: src/types/index.d.ts:15
 
 > `optional` **utcOffset**: `number`
 
-Defined in: src/types/index.d.ts:40
+Defined in: [src/types/index.d.ts:40](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L40)
 
 ##### y?
 
 > `optional` **y**: `number`
 
-Defined in: src/types/index.d.ts:19
+Defined in: [src/types/index.d.ts:19](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L19)
 
 ###### Inherited from
 
@@ -362,7 +362,7 @@ Defined in: src/types/index.d.ts:19
 
 > `optional` **Y**: `number`
 
-Defined in: src/types/index.d.ts:18
+Defined in: [src/types/index.d.ts:18](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L18)
 
 ###### Inherited from
 
@@ -372,7 +372,7 @@ Defined in: src/types/index.d.ts:18
 
 > `optional` **year**: `number`
 
-Defined in: src/types/index.d.ts:2
+Defined in: [src/types/index.d.ts:2](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L2)
 
 ###### Inherited from
 
@@ -382,7 +382,7 @@ Defined in: src/types/index.d.ts:2
 
 > `optional` **years**: `number`
 
-Defined in: src/types/index.d.ts:10
+Defined in: [src/types/index.d.ts:10](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L10)
 
 ###### Inherited from
 
@@ -392,7 +392,7 @@ Defined in: src/types/index.d.ts:10
 
 ### IDateChain
 
-Defined in: src/types/index.d.ts:112
+Defined in: [src/types/index.d.ts:117](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L117)
 
 #### Methods
 
@@ -402,7 +402,7 @@ Defined in: src/types/index.d.ts:112
 
 > **add**(`input`): `this`
 
-Defined in: src/types/index.d.ts:113
+Defined in: [src/types/index.d.ts:118](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L118)
 
 ###### Parameters
 
@@ -418,7 +418,7 @@ Defined in: src/types/index.d.ts:113
 
 > **add**(`num`, `unit`): `this`
 
-Defined in: src/types/index.d.ts:114
+Defined in: [src/types/index.d.ts:119](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L119)
 
 ###### Parameters
 
@@ -438,7 +438,7 @@ Defined in: src/types/index.d.ts:114
 
 > **addDays**(`days`): `this`
 
-Defined in: src/types/index.d.ts:115
+Defined in: [src/types/index.d.ts:120](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L120)
 
 ###### Parameters
 
@@ -454,7 +454,7 @@ Defined in: src/types/index.d.ts:115
 
 > **addHours**(`hours`): `this`
 
-Defined in: src/types/index.d.ts:116
+Defined in: [src/types/index.d.ts:121](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L121)
 
 ###### Parameters
 
@@ -470,7 +470,7 @@ Defined in: src/types/index.d.ts:116
 
 > **addMilliseconds**(`ms`): `this`
 
-Defined in: src/types/index.d.ts:117
+Defined in: [src/types/index.d.ts:122](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L122)
 
 ###### Parameters
 
@@ -486,7 +486,7 @@ Defined in: src/types/index.d.ts:117
 
 > **addMinutes**(`minutes`): `this`
 
-Defined in: src/types/index.d.ts:118
+Defined in: [src/types/index.d.ts:123](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L123)
 
 ###### Parameters
 
@@ -502,7 +502,7 @@ Defined in: src/types/index.d.ts:118
 
 > **addMonths**(`months`): `this`
 
-Defined in: src/types/index.d.ts:119
+Defined in: [src/types/index.d.ts:124](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L124)
 
 ###### Parameters
 
@@ -518,7 +518,7 @@ Defined in: src/types/index.d.ts:119
 
 > **addYears**(`years`): `this`
 
-Defined in: src/types/index.d.ts:120
+Defined in: [src/types/index.d.ts:125](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L125)
 
 ###### Parameters
 
@@ -534,7 +534,7 @@ Defined in: src/types/index.d.ts:120
 
 > **clone**(): [`IDateChain`](types.md#idatechain)
 
-Defined in: src/types/index.d.ts:183
+Defined in: [src/types/index.d.ts:188](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L188)
 
 ###### Returns
 
@@ -546,7 +546,7 @@ Defined in: src/types/index.d.ts:183
 
 > **date**(`date`): `this`
 
-Defined in: src/types/index.d.ts:159
+Defined in: [src/types/index.d.ts:164](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L164)
 
 ###### Parameters
 
@@ -562,7 +562,7 @@ Defined in: src/types/index.d.ts:159
 
 > **date**(): `number`
 
-Defined in: src/types/index.d.ts:160
+Defined in: [src/types/index.d.ts:165](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L165)
 
 ###### Returns
 
@@ -574,7 +574,7 @@ Defined in: src/types/index.d.ts:160
 
 > **day**(`day`): `this`
 
-Defined in: src/types/index.d.ts:161
+Defined in: [src/types/index.d.ts:166](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L166)
 
 ###### Parameters
 
@@ -590,7 +590,7 @@ Defined in: src/types/index.d.ts:161
 
 > **day**(): `number`
 
-Defined in: src/types/index.d.ts:162
+Defined in: [src/types/index.d.ts:167](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L167)
 
 ###### Returns
 
@@ -602,7 +602,7 @@ Defined in: src/types/index.d.ts:162
 
 > **dayOfYear**(): `number`
 
-Defined in: src/types/index.d.ts:121
+Defined in: [src/types/index.d.ts:126](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L126)
 
 ###### Returns
 
@@ -612,7 +612,7 @@ Defined in: src/types/index.d.ts:121
 
 > **dayOfYear**(`val`): `this`
 
-Defined in: src/types/index.d.ts:122
+Defined in: [src/types/index.d.ts:127](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L127)
 
 ###### Parameters
 
@@ -628,7 +628,7 @@ Defined in: src/types/index.d.ts:122
 
 > **daysInMonth**(): `number`
 
-Defined in: src/types/index.d.ts:123
+Defined in: [src/types/index.d.ts:128](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L128)
 
 ###### Returns
 
@@ -638,7 +638,7 @@ Defined in: src/types/index.d.ts:123
 
 > **diff**(`input`, `unit`, `asFloat`?): `number`
 
-Defined in: src/types/index.d.ts:124
+Defined in: [src/types/index.d.ts:129](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L129)
 
 ###### Parameters
 
@@ -662,7 +662,7 @@ Defined in: src/types/index.d.ts:124
 
 > **diffInDays**(`input`, `asFloat`?): `number`
 
-Defined in: src/types/index.d.ts:125
+Defined in: [src/types/index.d.ts:130](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L130)
 
 ###### Parameters
 
@@ -682,7 +682,7 @@ Defined in: src/types/index.d.ts:125
 
 > **diffInHours**(`input`, `asFloat`?): `number`
 
-Defined in: src/types/index.d.ts:126
+Defined in: [src/types/index.d.ts:131](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L131)
 
 ###### Parameters
 
@@ -702,7 +702,7 @@ Defined in: src/types/index.d.ts:126
 
 > **diffInMilliseconds**(`input`, `asFloat`?): `number`
 
-Defined in: src/types/index.d.ts:127
+Defined in: [src/types/index.d.ts:132](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L132)
 
 ###### Parameters
 
@@ -722,7 +722,7 @@ Defined in: src/types/index.d.ts:127
 
 > **diffInMinutes**(`input`, `asFloat`?): `number`
 
-Defined in: src/types/index.d.ts:128
+Defined in: [src/types/index.d.ts:133](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L133)
 
 ###### Parameters
 
@@ -742,7 +742,7 @@ Defined in: src/types/index.d.ts:128
 
 > **diffInMonths**(`input`, `asFloat`?): `number`
 
-Defined in: src/types/index.d.ts:129
+Defined in: [src/types/index.d.ts:134](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L134)
 
 ###### Parameters
 
@@ -762,7 +762,7 @@ Defined in: src/types/index.d.ts:129
 
 > **diffInSeconds**(`input`, `asFloat`?): `number`
 
-Defined in: src/types/index.d.ts:130
+Defined in: [src/types/index.d.ts:135](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L135)
 
 ###### Parameters
 
@@ -782,7 +782,7 @@ Defined in: src/types/index.d.ts:130
 
 > **diffInYears**(`input`, `asFloat`?): `number`
 
-Defined in: src/types/index.d.ts:131
+Defined in: [src/types/index.d.ts:136](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L136)
 
 ###### Parameters
 
@@ -802,7 +802,7 @@ Defined in: src/types/index.d.ts:131
 
 > **endOf**(`unit`): `this`
 
-Defined in: src/types/index.d.ts:132
+Defined in: [src/types/index.d.ts:137](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L137)
 
 ###### Parameters
 
@@ -818,7 +818,7 @@ Defined in: src/types/index.d.ts:132
 
 > **format**(`formatString`?): `string`
 
-Defined in: src/types/index.d.ts:133
+Defined in: [src/types/index.d.ts:138](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L138)
 
 ###### Parameters
 
@@ -834,7 +834,7 @@ Defined in: src/types/index.d.ts:133
 
 > **get**(`unit`): `number`
 
-Defined in: src/types/index.d.ts:134
+Defined in: [src/types/index.d.ts:139](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L139)
 
 ###### Parameters
 
@@ -852,7 +852,7 @@ Defined in: src/types/index.d.ts:134
 
 > **hour**(`hour`): `this`
 
-Defined in: src/types/index.d.ts:163
+Defined in: [src/types/index.d.ts:168](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L168)
 
 ###### Parameters
 
@@ -868,7 +868,7 @@ Defined in: src/types/index.d.ts:163
 
 > **hour**(): `number`
 
-Defined in: src/types/index.d.ts:164
+Defined in: [src/types/index.d.ts:169](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L169)
 
 ###### Returns
 
@@ -880,7 +880,7 @@ Defined in: src/types/index.d.ts:164
 
 > **hours**(`hours`): `this`
 
-Defined in: src/types/index.d.ts:174
+Defined in: [src/types/index.d.ts:179](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L179)
 
 ###### Parameters
 
@@ -896,7 +896,7 @@ Defined in: src/types/index.d.ts:174
 
 > **hours**(): `number`
 
-Defined in: src/types/index.d.ts:175
+Defined in: [src/types/index.d.ts:180](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L180)
 
 ###### Returns
 
@@ -906,7 +906,7 @@ Defined in: src/types/index.d.ts:175
 
 > **isAfter**(`input`, `unit`): `boolean`
 
-Defined in: src/types/index.d.ts:135
+Defined in: [src/types/index.d.ts:140](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L140)
 
 ###### Parameters
 
@@ -926,7 +926,7 @@ Defined in: src/types/index.d.ts:135
 
 > **isBefore**(`input`, `unit`): `boolean`
 
-Defined in: src/types/index.d.ts:136
+Defined in: [src/types/index.d.ts:141](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L141)
 
 ###### Parameters
 
@@ -946,7 +946,7 @@ Defined in: src/types/index.d.ts:136
 
 > **isBetween**(`from`, `to`, `unit`, `inclusivity`?): `boolean`
 
-Defined in: src/types/index.d.ts:137
+Defined in: [src/types/index.d.ts:142](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L142)
 
 ###### Parameters
 
@@ -974,7 +974,7 @@ Defined in: src/types/index.d.ts:137
 
 > **isLeapYear**(): `boolean`
 
-Defined in: src/types/index.d.ts:138
+Defined in: [src/types/index.d.ts:143](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L143)
 
 ###### Returns
 
@@ -984,7 +984,7 @@ Defined in: src/types/index.d.ts:138
 
 > **isSame**(`input`, `unit`): `boolean`
 
-Defined in: src/types/index.d.ts:139
+Defined in: [src/types/index.d.ts:144](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L144)
 
 ###### Parameters
 
@@ -1004,7 +1004,7 @@ Defined in: src/types/index.d.ts:139
 
 > **isSameOrAfter**(`input`, `unit`): `boolean`
 
-Defined in: src/types/index.d.ts:140
+Defined in: [src/types/index.d.ts:145](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L145)
 
 ###### Parameters
 
@@ -1024,7 +1024,7 @@ Defined in: src/types/index.d.ts:140
 
 > **isSameOrBefore**(`input`, `unit`): `boolean`
 
-Defined in: src/types/index.d.ts:141
+Defined in: [src/types/index.d.ts:146](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L146)
 
 ###### Parameters
 
@@ -1044,7 +1044,7 @@ Defined in: src/types/index.d.ts:141
 
 > **isValid**(): `boolean`
 
-Defined in: src/types/index.d.ts:142
+Defined in: [src/types/index.d.ts:147](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L147)
 
 ###### Returns
 
@@ -1056,7 +1056,7 @@ Defined in: src/types/index.d.ts:142
 
 > **millisecond**(`millisecond`): `this`
 
-Defined in: src/types/index.d.ts:169
+Defined in: [src/types/index.d.ts:174](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L174)
 
 ###### Parameters
 
@@ -1072,7 +1072,7 @@ Defined in: src/types/index.d.ts:169
 
 > **millisecond**(): `number`
 
-Defined in: src/types/index.d.ts:170
+Defined in: [src/types/index.d.ts:175](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L175)
 
 ###### Returns
 
@@ -1084,7 +1084,7 @@ Defined in: src/types/index.d.ts:170
 
 > **milliseconds**(`milliseconds`): `this`
 
-Defined in: src/types/index.d.ts:180
+Defined in: [src/types/index.d.ts:185](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L185)
 
 ###### Parameters
 
@@ -1100,7 +1100,7 @@ Defined in: src/types/index.d.ts:180
 
 > **milliseconds**(): `number`
 
-Defined in: src/types/index.d.ts:181
+Defined in: [src/types/index.d.ts:186](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L186)
 
 ###### Returns
 
@@ -1112,7 +1112,7 @@ Defined in: src/types/index.d.ts:181
 
 > **minute**(`minute`): `this`
 
-Defined in: src/types/index.d.ts:165
+Defined in: [src/types/index.d.ts:170](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L170)
 
 ###### Parameters
 
@@ -1128,7 +1128,7 @@ Defined in: src/types/index.d.ts:165
 
 > **minute**(): `number`
 
-Defined in: src/types/index.d.ts:166
+Defined in: [src/types/index.d.ts:171](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L171)
 
 ###### Returns
 
@@ -1140,7 +1140,7 @@ Defined in: src/types/index.d.ts:166
 
 > **minutes**(`minutes`): `this`
 
-Defined in: src/types/index.d.ts:176
+Defined in: [src/types/index.d.ts:181](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L181)
 
 ###### Parameters
 
@@ -1156,7 +1156,7 @@ Defined in: src/types/index.d.ts:176
 
 > **minutes**(): `number`
 
-Defined in: src/types/index.d.ts:177
+Defined in: [src/types/index.d.ts:182](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L182)
 
 ###### Returns
 
@@ -1168,7 +1168,7 @@ Defined in: src/types/index.d.ts:177
 
 > **month**(`month`): `this`
 
-Defined in: src/types/index.d.ts:157
+Defined in: [src/types/index.d.ts:162](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L162)
 
 ###### Parameters
 
@@ -1184,7 +1184,7 @@ Defined in: src/types/index.d.ts:157
 
 > **month**(): `number`
 
-Defined in: src/types/index.d.ts:158
+Defined in: [src/types/index.d.ts:163](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L163)
 
 ###### Returns
 
@@ -1196,7 +1196,7 @@ Defined in: src/types/index.d.ts:158
 
 > **second**(`second`): `this`
 
-Defined in: src/types/index.d.ts:167
+Defined in: [src/types/index.d.ts:172](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L172)
 
 ###### Parameters
 
@@ -1212,7 +1212,7 @@ Defined in: src/types/index.d.ts:167
 
 > **second**(): `number`
 
-Defined in: src/types/index.d.ts:168
+Defined in: [src/types/index.d.ts:173](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L173)
 
 ###### Returns
 
@@ -1224,7 +1224,7 @@ Defined in: src/types/index.d.ts:168
 
 > **seconds**(`seconds`): `this`
 
-Defined in: src/types/index.d.ts:178
+Defined in: [src/types/index.d.ts:183](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L183)
 
 ###### Parameters
 
@@ -1240,7 +1240,7 @@ Defined in: src/types/index.d.ts:178
 
 > **seconds**(): `number`
 
-Defined in: src/types/index.d.ts:179
+Defined in: [src/types/index.d.ts:184](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L184)
 
 ###### Returns
 
@@ -1250,7 +1250,7 @@ Defined in: src/types/index.d.ts:179
 
 > **set**(`unit`, `val`): `this`
 
-Defined in: src/types/index.d.ts:143
+Defined in: [src/types/index.d.ts:148](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L148)
 
 ###### Parameters
 
@@ -1270,7 +1270,7 @@ Defined in: src/types/index.d.ts:143
 
 > **startOf**(`unit`): `this`
 
-Defined in: src/types/index.d.ts:144
+Defined in: [src/types/index.d.ts:149](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L149)
 
 ###### Parameters
 
@@ -1286,7 +1286,7 @@ Defined in: src/types/index.d.ts:144
 
 > **subDays**(`days`): `this`
 
-Defined in: src/types/index.d.ts:145
+Defined in: [src/types/index.d.ts:150](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L150)
 
 ###### Parameters
 
@@ -1302,7 +1302,7 @@ Defined in: src/types/index.d.ts:145
 
 > **subHours**(`hours`): `this`
 
-Defined in: src/types/index.d.ts:146
+Defined in: [src/types/index.d.ts:151](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L151)
 
 ###### Parameters
 
@@ -1318,7 +1318,7 @@ Defined in: src/types/index.d.ts:146
 
 > **subMilliseconds**(`time`): `this`
 
-Defined in: src/types/index.d.ts:147
+Defined in: [src/types/index.d.ts:152](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L152)
 
 ###### Parameters
 
@@ -1334,7 +1334,7 @@ Defined in: src/types/index.d.ts:147
 
 > **subMinutes**(`minutes`): `this`
 
-Defined in: src/types/index.d.ts:148
+Defined in: [src/types/index.d.ts:153](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L153)
 
 ###### Parameters
 
@@ -1350,7 +1350,7 @@ Defined in: src/types/index.d.ts:148
 
 > **subMonths**(`months`): `this`
 
-Defined in: src/types/index.d.ts:149
+Defined in: [src/types/index.d.ts:154](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L154)
 
 ###### Parameters
 
@@ -1366,7 +1366,7 @@ Defined in: src/types/index.d.ts:149
 
 > **subSeconds**(`seconds`): `this`
 
-Defined in: src/types/index.d.ts:150
+Defined in: [src/types/index.d.ts:155](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L155)
 
 ###### Parameters
 
@@ -1384,7 +1384,7 @@ Defined in: src/types/index.d.ts:150
 
 > **subtract**(`input`): `this`
 
-Defined in: src/types/index.d.ts:151
+Defined in: [src/types/index.d.ts:156](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L156)
 
 ###### Parameters
 
@@ -1400,7 +1400,7 @@ Defined in: src/types/index.d.ts:151
 
 > **subtract**(`num`, `unit`): `this`
 
-Defined in: src/types/index.d.ts:152
+Defined in: [src/types/index.d.ts:157](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L157)
 
 ###### Parameters
 
@@ -1420,7 +1420,7 @@ Defined in: src/types/index.d.ts:152
 
 > **subYears**(`years`): `this`
 
-Defined in: src/types/index.d.ts:153
+Defined in: [src/types/index.d.ts:158](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L158)
 
 ###### Parameters
 
@@ -1438,7 +1438,7 @@ Defined in: src/types/index.d.ts:153
 
 > **time**(`time`): `this`
 
-Defined in: src/types/index.d.ts:171
+Defined in: [src/types/index.d.ts:176](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L176)
 
 ###### Parameters
 
@@ -1454,7 +1454,7 @@ Defined in: src/types/index.d.ts:171
 
 > **time**(): `number`
 
-Defined in: src/types/index.d.ts:172
+Defined in: [src/types/index.d.ts:177](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L177)
 
 ###### Returns
 
@@ -1464,7 +1464,7 @@ Defined in: src/types/index.d.ts:172
 
 > **toArray**(): `number`[]
 
-Defined in: src/types/index.d.ts:184
+Defined in: [src/types/index.d.ts:189](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L189)
 
 ###### Returns
 
@@ -1474,7 +1474,7 @@ Defined in: src/types/index.d.ts:184
 
 > **toDate**(): `Date`
 
-Defined in: src/types/index.d.ts:185
+Defined in: [src/types/index.d.ts:190](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L190)
 
 ###### Returns
 
@@ -1484,7 +1484,7 @@ Defined in: src/types/index.d.ts:185
 
 > **toISOString**(): `string`
 
-Defined in: src/types/index.d.ts:186
+Defined in: [src/types/index.d.ts:191](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L191)
 
 ###### Returns
 
@@ -1494,7 +1494,7 @@ Defined in: src/types/index.d.ts:186
 
 > **toJSON**(): `string`
 
-Defined in: src/types/index.d.ts:187
+Defined in: [src/types/index.d.ts:192](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L192)
 
 ###### Returns
 
@@ -1504,7 +1504,7 @@ Defined in: src/types/index.d.ts:187
 
 > **toString**(): `string`
 
-Defined in: src/types/index.d.ts:188
+Defined in: [src/types/index.d.ts:193](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L193)
 
 ###### Returns
 
@@ -1514,7 +1514,7 @@ Defined in: src/types/index.d.ts:188
 
 > **valueOf**(): `number`
 
-Defined in: src/types/index.d.ts:189
+Defined in: [src/types/index.d.ts:194](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L194)
 
 ###### Returns
 
@@ -1526,7 +1526,7 @@ Defined in: src/types/index.d.ts:189
 
 > **year**(`year`): `this`
 
-Defined in: src/types/index.d.ts:155
+Defined in: [src/types/index.d.ts:160](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L160)
 
 ###### Parameters
 
@@ -1542,7 +1542,7 @@ Defined in: src/types/index.d.ts:155
 
 > **year**(): `number`
 
-Defined in: src/types/index.d.ts:156
+Defined in: [src/types/index.d.ts:161](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L161)
 
 ###### Returns
 
@@ -1552,7 +1552,7 @@ Defined in: src/types/index.d.ts:156
 
 ### InnerDateParsingObject
 
-Defined in: src/types/index.d.ts:28
+Defined in: [src/types/index.d.ts:28](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L28)
 
 #### Properties
 
@@ -1560,55 +1560,55 @@ Defined in: src/types/index.d.ts:28
 
 > `optional` **date**: `number`
 
-Defined in: src/types/index.d.ts:31
+Defined in: [src/types/index.d.ts:31](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L31)
 
 ##### hour?
 
 > `optional` **hour**: `number`
 
-Defined in: src/types/index.d.ts:32
+Defined in: [src/types/index.d.ts:32](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L32)
 
 ##### millisecond?
 
 > `optional` **millisecond**: `number`
 
-Defined in: src/types/index.d.ts:35
+Defined in: [src/types/index.d.ts:35](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L35)
 
 ##### minute?
 
 > `optional` **minute**: `number`
 
-Defined in: src/types/index.d.ts:33
+Defined in: [src/types/index.d.ts:33](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L33)
 
 ##### month?
 
 > `optional` **month**: `number`
 
-Defined in: src/types/index.d.ts:30
+Defined in: [src/types/index.d.ts:30](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L30)
 
 ##### second?
 
 > `optional` **second**: `number`
 
-Defined in: src/types/index.d.ts:34
+Defined in: [src/types/index.d.ts:34](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L34)
 
 ##### utcOffset?
 
 > `optional` **utcOffset**: `number`
 
-Defined in: src/types/index.d.ts:36
+Defined in: [src/types/index.d.ts:36](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L36)
 
 ##### year?
 
 > `optional` **year**: `number`
 
-Defined in: src/types/index.d.ts:29
+Defined in: [src/types/index.d.ts:29](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L29)
 
 ***
 
 ### InnerUnits
 
-Defined in: src/types/index.d.ts:55
+Defined in: [src/types/index.d.ts:55](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L55)
 
 #### Properties
 
@@ -1616,7 +1616,7 @@ Defined in: src/types/index.d.ts:55
 
 > **DATE**: `"date"`
 
-Defined in: src/types/index.d.ts:74
+Defined in: [src/types/index.d.ts:74](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L74)
 
 Date unit (日单位)
 
@@ -1624,7 +1624,7 @@ Date unit (日单位)
 
 > **DAY**: `"day"`
 
-Defined in: src/types/index.d.ts:79
+Defined in: [src/types/index.d.ts:79](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L79)
 
 Day unit (日单位)
 
@@ -1632,7 +1632,7 @@ Day unit (日单位)
 
 > **HOUR**: `"hour"`
 
-Defined in: src/types/index.d.ts:84
+Defined in: [src/types/index.d.ts:84](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L84)
 
 Hour unit (时单位)
 
@@ -1640,7 +1640,7 @@ Hour unit (时单位)
 
 > **MILLISECOND**: `"millisecond"`
 
-Defined in: src/types/index.d.ts:99
+Defined in: [src/types/index.d.ts:99](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L99)
 
 Millisecond unit (毫秒单位)
 
@@ -1648,7 +1648,7 @@ Millisecond unit (毫秒单位)
 
 > **MINUTE**: `"minute"`
 
-Defined in: src/types/index.d.ts:89
+Defined in: [src/types/index.d.ts:89](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L89)
 
 Minute unit (分单位)
 
@@ -1656,7 +1656,7 @@ Minute unit (分单位)
 
 > **MONTH**: `"month"`
 
-Defined in: src/types/index.d.ts:69
+Defined in: [src/types/index.d.ts:69](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L69)
 
 Month unit (月单位)
 
@@ -1664,7 +1664,7 @@ Month unit (月单位)
 
 > **SECOND**: `"second"`
 
-Defined in: src/types/index.d.ts:94
+Defined in: [src/types/index.d.ts:94](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L94)
 
 Second unit (秒单位)
 
@@ -1672,15 +1672,23 @@ Second unit (秒单位)
 
 > **TIME**: `"time"`
 
-Defined in: src/types/index.d.ts:59
+Defined in: [src/types/index.d.ts:59](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L59)
 
 Time unit (时间单位)
+
+##### UTC\_OFFSET
+
+> **UTC\_OFFSET**: `"utcOffset"`
+
+Defined in: [src/types/index.d.ts:104](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L104)
+
+UTC offset unit (时区单位)
 
 ##### YEAR
 
 > **YEAR**: `"year"`
 
-Defined in: src/types/index.d.ts:64
+Defined in: [src/types/index.d.ts:64](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L64)
 
 Year unit (年单位)
 
@@ -1690,7 +1698,7 @@ Year unit (年单位)
 
 > **ChainInput**: [`DateInput`](types.md#dateinput) \| [`IDateChain`](types.md#idatechain)
 
-Defined in: src/types/index.d.ts:110
+Defined in: [src/types/index.d.ts:115](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L115)
 
 ***
 
@@ -1698,7 +1706,7 @@ Defined in: src/types/index.d.ts:110
 
 > **DateInput**: `string` \| `number` \| `Date` \| `number`[] \| [`DateParsingObject`](types.md#dateparsingobject)
 
-Defined in: src/types/index.d.ts:47
+Defined in: [src/types/index.d.ts:47](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L47)
 
 Date input type
 日期输入类型
@@ -1709,7 +1717,7 @@ Date input type
 
 > **InnerUnit**: `"year"` \| `"month"` \| `"date"` \| `"day"` \| `"hour"` \| `"minute"` \| `"second"` \| `"millisecond"`
 
-Defined in: src/types/index.d.ts:53
+Defined in: [src/types/index.d.ts:53](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L53)
 
 Internal date unit
 内部日期单位
@@ -1720,7 +1728,7 @@ Internal date unit
 
 > **Unit**: `"Y"` \| `"y"` \| `"M"` \| `"D"` \| `"d"` \| `"h"` \| `"m"` \| `"s"` \| `"ms"` \| [`InnerUnit`](types.md#innerunit) \| `"years"` \| `"months"` \| `"dates"` \| `"days"` \| `"hours"` \| `"minutes"` \| `"seconds"` \| `"milliseconds"`
 
-Defined in: src/types/index.d.ts:106
+Defined in: [src/types/index.d.ts:111](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/types/index.d.ts#L111)
 
 Date unit
 日期单位

@@ -12,7 +12,7 @@
 
 > **default**(`date`, `years`): `Date`
 
-定义于: [src/addYears.ts:18](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/addYears.ts#L18)
+定义于: [src/addYears.ts:18](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/addYears.ts#L18)
 
 Adds a specified number of years to a date.
 向日期添加指定数量的年份。
@@ -42,6 +42,6 @@ A new date with the added years. (添加年份后的新日期。)
 ```ts
 // Adding 2 years to a date (向日期添加2年)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addYears(originalDate, 2);
-console.log(newDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' (输出: '2025-10-01T12:00:00.000Z')
+addYears(originalDate, 2);
+console.log(originalDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' (输出: '2025-10-01T12:00:00.000Z')
 ```

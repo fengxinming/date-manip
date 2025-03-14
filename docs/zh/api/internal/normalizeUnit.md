@@ -12,7 +12,7 @@
 
 > **default**(`u`): [`InnerUnit`](../types.md#innerunit)
 
-定义于: [src/\_internal/normalizeUnit.ts:26](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/_internal/normalizeUnit.ts#L26)
+定义于: [src/\_internal/normalizeUnit.ts:26](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/_internal/normalizeUnit.ts#L26)
 
 #### 参数
 

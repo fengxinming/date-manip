@@ -12,7 +12,7 @@
 
 > `const` **TZ\_REGEX**: `RegExp`
 
-定义于: [src/\_internal/autoExtract.ts:20](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/_internal/autoExtract.ts#L20)
+定义于: [src/\_internal/autoExtract.ts:20](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/_internal/autoExtract.ts#L20)
 
 ## 函数
 
@@ -20,7 +20,7 @@
 
 > **default**(`input`): `string` \| `number`[]
 
-定义于: [src/\_internal/autoExtract.ts:29](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/_internal/autoExtract.ts#L29)
+定义于: [src/\_internal/autoExtract.ts:29](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/_internal/autoExtract.ts#L29)
 
 #### 参数
 

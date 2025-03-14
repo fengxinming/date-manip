@@ -12,7 +12,7 @@
 
 > **default**(`date`, `input`, `asFloat`?): `number`
 
-定义于: [src/diffInMonths.ts:6](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/diffInMonths.ts#L6)
+定义于: [src/diffInMonths.ts:6](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/diffInMonths.ts#L6)
 
 #### 参数
 
