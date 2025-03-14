@@ -12,7 +12,7 @@
 
 > **default**(`date`, `input`, `unit`?): `boolean`
 
-Defined in: [src/isSameOrBefore.ts:63](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/isSameOrBefore.ts#L63)
+Defined in: [src/isSameOrBefore.ts:63](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/isSameOrBefore.ts#L63)
 
 Checks if a date is the same as or before another date or a specified time unit.
 检查一个日期是否与另一个日期或指定的时间单位相同或在其之前。

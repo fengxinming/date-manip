@@ -392,7 +392,7 @@
 
 ### IDateChain
 
-定义于: dist/types/index.d.ts:112
+定义于: dist/types/index.d.ts:117
 
 #### 方法
 
@@ -402,7 +402,7 @@
 
 > **add**(`input`): `this`
 
-定义于: dist/types/index.d.ts:113
+定义于: dist/types/index.d.ts:118
 
 ###### 参数
 
@@ -418,7 +418,7 @@
 
 > **add**(`num`, `unit`): `this`
 
-定义于: dist/types/index.d.ts:114
+定义于: dist/types/index.d.ts:119
 
 ###### 参数
 
@@ -438,7 +438,7 @@
 
 > **addDays**(`days`): `this`
 
-定义于: dist/types/index.d.ts:115
+定义于: dist/types/index.d.ts:120
 
 ###### 参数
 
@@ -454,7 +454,7 @@
 
 > **addHours**(`hours`): `this`
 
-定义于: dist/types/index.d.ts:116
+定义于: dist/types/index.d.ts:121
 
 ###### 参数
 
@@ -470,7 +470,7 @@
 
 > **addMilliseconds**(`ms`): `this`
 
-定义于: dist/types/index.d.ts:117
+定义于: dist/types/index.d.ts:122
 
 ###### 参数
 
@@ -486,7 +486,7 @@
 
 > **addMinutes**(`minutes`): `this`
 
-定义于: dist/types/index.d.ts:118
+定义于: dist/types/index.d.ts:123
 
 ###### 参数
 
@@ -502,7 +502,7 @@
 
 > **addMonths**(`months`): `this`
 
-定义于: dist/types/index.d.ts:119
+定义于: dist/types/index.d.ts:124
 
 ###### 参数
 
@@ -518,7 +518,7 @@
 
 > **addYears**(`years`): `this`
 
-定义于: dist/types/index.d.ts:120
+定义于: dist/types/index.d.ts:125
 
 ###### 参数
 
@@ -534,7 +534,7 @@
 
 > **clone**(): [`IDateChain`](chain.md#idatechain)
 
-定义于: dist/types/index.d.ts:183
+定义于: dist/types/index.d.ts:188
 
 ###### 返回
 
@@ -546,7 +546,7 @@
 
 > **date**(`date`): `this`
 
-定义于: dist/types/index.d.ts:159
+定义于: dist/types/index.d.ts:164
 
 ###### 参数
 
@@ -562,7 +562,7 @@
 
 > **date**(): `number`
 
-定义于: dist/types/index.d.ts:160
+定义于: dist/types/index.d.ts:165
 
 ###### 返回
 
@@ -574,7 +574,7 @@
 
 > **day**(`day`): `this`
 
-定义于: dist/types/index.d.ts:161
+定义于: dist/types/index.d.ts:166
 
 ###### 参数
 
@@ -590,7 +590,7 @@
 
 > **day**(): `number`
 
-定义于: dist/types/index.d.ts:162
+定义于: dist/types/index.d.ts:167
 
 ###### 返回
 
@@ -602,7 +602,7 @@
 
 > **dayOfYear**(): `number`
 
-定义于: dist/types/index.d.ts:121
+定义于: dist/types/index.d.ts:126
 
 ###### 返回
 
@@ -612,7 +612,7 @@
 
 > **dayOfYear**(`val`): `this`
 
-定义于: dist/types/index.d.ts:122
+定义于: dist/types/index.d.ts:127
 
 ###### 参数
 
@@ -628,7 +628,7 @@
 
 > **daysInMonth**(): `number`
 
-定义于: dist/types/index.d.ts:123
+定义于: dist/types/index.d.ts:128
 
 ###### 返回
 
@@ -638,7 +638,7 @@
 
 > **diff**(`input`, `unit`, `asFloat`?): `number`
 
-定义于: dist/types/index.d.ts:124
+定义于: dist/types/index.d.ts:129
 
 ###### 参数
 
@@ -662,7 +662,7 @@
 
 > **diffInDays**(`input`, `asFloat`?): `number`
 
-定义于: dist/types/index.d.ts:125
+定义于: dist/types/index.d.ts:130
 
 ###### 参数
 
@@ -682,7 +682,7 @@
 
 > **diffInHours**(`input`, `asFloat`?): `number`
 
-定义于: dist/types/index.d.ts:126
+定义于: dist/types/index.d.ts:131
 
 ###### 参数
 
@@ -702,7 +702,7 @@
 
 > **diffInMilliseconds**(`input`, `asFloat`?): `number`
 
-定义于: dist/types/index.d.ts:127
+定义于: dist/types/index.d.ts:132
 
 ###### 参数
 
@@ -722,7 +722,7 @@
 
 > **diffInMinutes**(`input`, `asFloat`?): `number`
 
-定义于: dist/types/index.d.ts:128
+定义于: dist/types/index.d.ts:133
 
 ###### 参数
 
@@ -742,7 +742,7 @@
 
 > **diffInMonths**(`input`, `asFloat`?): `number`
 
-定义于: dist/types/index.d.ts:129
+定义于: dist/types/index.d.ts:134
 
 ###### 参数
 
@@ -762,7 +762,7 @@
 
 > **diffInSeconds**(`input`, `asFloat`?): `number`
 
-定义于: dist/types/index.d.ts:130
+定义于: dist/types/index.d.ts:135
 
 ###### 参数
 
@@ -782,7 +782,7 @@
 
 > **diffInYears**(`input`, `asFloat`?): `number`
 
-定义于: dist/types/index.d.ts:131
+定义于: dist/types/index.d.ts:136
 
 ###### 参数
 
@@ -802,7 +802,7 @@
 
 > **endOf**(`unit`): `this`
 
-定义于: dist/types/index.d.ts:132
+定义于: dist/types/index.d.ts:137
 
 ###### 参数
 
@@ -818,7 +818,7 @@
 
 > **format**(`formatString`?): `string`
 
-定义于: dist/types/index.d.ts:133
+定义于: dist/types/index.d.ts:138
 
 ###### 参数
 
@@ -834,7 +834,7 @@
 
 > **get**(`unit`): `number`
 
-定义于: dist/types/index.d.ts:134
+定义于: dist/types/index.d.ts:139
 
 ###### 参数
 
@@ -852,7 +852,7 @@
 
 > **hour**(`hour`): `this`
 
-定义于: dist/types/index.d.ts:163
+定义于: dist/types/index.d.ts:168
 
 ###### 参数
 
@@ -868,7 +868,7 @@
 
 > **hour**(): `number`
 
-定义于: dist/types/index.d.ts:164
+定义于: dist/types/index.d.ts:169
 
 ###### 返回
 
@@ -880,7 +880,7 @@
 
 > **hours**(`hours`): `this`
 
-定义于: dist/types/index.d.ts:174
+定义于: dist/types/index.d.ts:179
 
 ###### 参数
 
@@ -896,7 +896,7 @@
 
 > **hours**(): `number`
 
-定义于: dist/types/index.d.ts:175
+定义于: dist/types/index.d.ts:180
 
 ###### 返回
 
@@ -906,7 +906,7 @@
 
 > **isAfter**(`input`, `unit`): `boolean`
 
-定义于: dist/types/index.d.ts:135
+定义于: dist/types/index.d.ts:140
 
 ###### 参数
 
@@ -926,7 +926,7 @@
 
 > **isBefore**(`input`, `unit`): `boolean`
 
-定义于: dist/types/index.d.ts:136
+定义于: dist/types/index.d.ts:141
 
 ###### 参数
 
@@ -946,7 +946,7 @@
 
 > **isBetween**(`from`, `to`, `unit`, `inclusivity`?): `boolean`
 
-定义于: dist/types/index.d.ts:137
+定义于: dist/types/index.d.ts:142
 
 ###### 参数
 
@@ -974,7 +974,7 @@
 
 > **isLeapYear**(): `boolean`
 
-定义于: dist/types/index.d.ts:138
+定义于: dist/types/index.d.ts:143
 
 ###### 返回
 
@@ -984,7 +984,7 @@
 
 > **isSame**(`input`, `unit`): `boolean`
 
-定义于: dist/types/index.d.ts:139
+定义于: dist/types/index.d.ts:144
 
 ###### 参数
 
@@ -1004,7 +1004,7 @@
 
 > **isSameOrAfter**(`input`, `unit`): `boolean`
 
-定义于: dist/types/index.d.ts:140
+定义于: dist/types/index.d.ts:145
 
 ###### 参数
 
@@ -1024,7 +1024,7 @@
 
 > **isSameOrBefore**(`input`, `unit`): `boolean`
 
-定义于: dist/types/index.d.ts:141
+定义于: dist/types/index.d.ts:146
 
 ###### 参数
 
@@ -1044,7 +1044,7 @@
 
 > **isValid**(): `boolean`
 
-定义于: dist/types/index.d.ts:142
+定义于: dist/types/index.d.ts:147
 
 ###### 返回
 
@@ -1056,7 +1056,7 @@
 
 > **millisecond**(`millisecond`): `this`
 
-定义于: dist/types/index.d.ts:169
+定义于: dist/types/index.d.ts:174
 
 ###### 参数
 
@@ -1072,7 +1072,7 @@
 
 > **millisecond**(): `number`
 
-定义于: dist/types/index.d.ts:170
+定义于: dist/types/index.d.ts:175
 
 ###### 返回
 
@@ -1084,7 +1084,7 @@
 
 > **milliseconds**(`milliseconds`): `this`
 
-定义于: dist/types/index.d.ts:180
+定义于: dist/types/index.d.ts:185
 
 ###### 参数
 
@@ -1100,7 +1100,7 @@
 
 > **milliseconds**(): `number`
 
-定义于: dist/types/index.d.ts:181
+定义于: dist/types/index.d.ts:186
 
 ###### 返回
 
@@ -1112,7 +1112,7 @@
 
 > **minute**(`minute`): `this`
 
-定义于: dist/types/index.d.ts:165
+定义于: dist/types/index.d.ts:170
 
 ###### 参数
 
@@ -1128,7 +1128,7 @@
 
 > **minute**(): `number`
 
-定义于: dist/types/index.d.ts:166
+定义于: dist/types/index.d.ts:171
 
 ###### 返回
 
@@ -1140,7 +1140,7 @@
 
 > **minutes**(`minutes`): `this`
 
-定义于: dist/types/index.d.ts:176
+定义于: dist/types/index.d.ts:181
 
 ###### 参数
 
@@ -1156,7 +1156,7 @@
 
 > **minutes**(): `number`
 
-定义于: dist/types/index.d.ts:177
+定义于: dist/types/index.d.ts:182
 
 ###### 返回
 
@@ -1168,7 +1168,7 @@
 
 > **month**(`month`): `this`
 
-定义于: dist/types/index.d.ts:157
+定义于: dist/types/index.d.ts:162
 
 ###### 参数
 
@@ -1184,7 +1184,7 @@
 
 > **month**(): `number`
 
-定义于: dist/types/index.d.ts:158
+定义于: dist/types/index.d.ts:163
 
 ###### 返回
 
@@ -1196,7 +1196,7 @@
 
 > **second**(`second`): `this`
 
-定义于: dist/types/index.d.ts:167
+定义于: dist/types/index.d.ts:172
 
 ###### 参数
 
@@ -1212,7 +1212,7 @@
 
 > **second**(): `number`
 
-定义于: dist/types/index.d.ts:168
+定义于: dist/types/index.d.ts:173
 
 ###### 返回
 
@@ -1224,7 +1224,7 @@
 
 > **seconds**(`seconds`): `this`
 
-定义于: dist/types/index.d.ts:178
+定义于: dist/types/index.d.ts:183
 
 ###### 参数
 
@@ -1240,7 +1240,7 @@
 
 > **seconds**(): `number`
 
-定义于: dist/types/index.d.ts:179
+定义于: dist/types/index.d.ts:184
 
 ###### 返回
 
@@ -1250,7 +1250,7 @@
 
 > **set**(`unit`, `val`): `this`
 
-定义于: dist/types/index.d.ts:143
+定义于: dist/types/index.d.ts:148
 
 ###### 参数
 
@@ -1270,7 +1270,7 @@
 
 > **startOf**(`unit`): `this`
 
-定义于: dist/types/index.d.ts:144
+定义于: dist/types/index.d.ts:149
 
 ###### 参数
 
@@ -1286,7 +1286,7 @@
 
 > **subDays**(`days`): `this`
 
-定义于: dist/types/index.d.ts:145
+定义于: dist/types/index.d.ts:150
 
 ###### 参数
 
@@ -1302,7 +1302,7 @@
 
 > **subHours**(`hours`): `this`
 
-定义于: dist/types/index.d.ts:146
+定义于: dist/types/index.d.ts:151
 
 ###### 参数
 
@@ -1318,7 +1318,7 @@
 
 > **subMilliseconds**(`time`): `this`
 
-定义于: dist/types/index.d.ts:147
+定义于: dist/types/index.d.ts:152
 
 ###### 参数
 
@@ -1334,7 +1334,7 @@
 
 > **subMinutes**(`minutes`): `this`
 
-定义于: dist/types/index.d.ts:148
+定义于: dist/types/index.d.ts:153
 
 ###### 参数
 
@@ -1350,7 +1350,7 @@
 
 > **subMonths**(`months`): `this`
 
-定义于: dist/types/index.d.ts:149
+定义于: dist/types/index.d.ts:154
 
 ###### 参数
 
@@ -1366,7 +1366,7 @@
 
 > **subSeconds**(`seconds`): `this`
 
-定义于: dist/types/index.d.ts:150
+定义于: dist/types/index.d.ts:155
 
 ###### 参数
 
@@ -1384,7 +1384,7 @@
 
 > **subtract**(`input`): `this`
 
-定义于: dist/types/index.d.ts:151
+定义于: dist/types/index.d.ts:156
 
 ###### 参数
 
@@ -1400,7 +1400,7 @@
 
 > **subtract**(`num`, `unit`): `this`
 
-定义于: dist/types/index.d.ts:152
+定义于: dist/types/index.d.ts:157
 
 ###### 参数
 
@@ -1420,7 +1420,7 @@
 
 > **subYears**(`years`): `this`
 
-定义于: dist/types/index.d.ts:153
+定义于: dist/types/index.d.ts:158
 
 ###### 参数
 
@@ -1438,7 +1438,7 @@
 
 > **time**(`time`): `this`
 
-定义于: dist/types/index.d.ts:171
+定义于: dist/types/index.d.ts:176
 
 ###### 参数
 
@@ -1454,7 +1454,7 @@
 
 > **time**(): `number`
 
-定义于: dist/types/index.d.ts:172
+定义于: dist/types/index.d.ts:177
 
 ###### 返回
 
@@ -1464,7 +1464,7 @@
 
 > **toArray**(): `number`[]
 
-定义于: dist/types/index.d.ts:184
+定义于: dist/types/index.d.ts:189
 
 ###### 返回
 
@@ -1474,7 +1474,7 @@
 
 > **toDate**(): `Date`
 
-定义于: dist/types/index.d.ts:185
+定义于: dist/types/index.d.ts:190
 
 ###### 返回
 
@@ -1484,7 +1484,7 @@
 
 > **toISOString**(): `string`
 
-定义于: dist/types/index.d.ts:186
+定义于: dist/types/index.d.ts:191
 
 ###### 返回
 
@@ -1494,7 +1494,7 @@
 
 > **toJSON**(): `string`
 
-定义于: dist/types/index.d.ts:187
+定义于: dist/types/index.d.ts:192
 
 ###### 返回
 
@@ -1504,7 +1504,7 @@
 
 > **toString**(): `string`
 
-定义于: dist/types/index.d.ts:188
+定义于: dist/types/index.d.ts:193
 
 ###### 返回
 
@@ -1514,7 +1514,7 @@
 
 > **valueOf**(): `number`
 
-定义于: dist/types/index.d.ts:189
+定义于: dist/types/index.d.ts:194
 
 ###### 返回
 
@@ -1526,7 +1526,7 @@
 
 > **year**(`year`): `this`
 
-定义于: dist/types/index.d.ts:155
+定义于: dist/types/index.d.ts:160
 
 ###### 参数
 
@@ -1542,7 +1542,7 @@
 
 > **year**(): `number`
 
-定义于: dist/types/index.d.ts:156
+定义于: dist/types/index.d.ts:161
 
 ###### 返回
 
@@ -1676,6 +1676,14 @@ Second unit (秒单位)
 
 Time unit (时间单位)
 
+##### UTC\_OFFSET
+
+> **UTC\_OFFSET**: `"utcOffset"`
+
+定义于: dist/types/index.d.ts:104
+
+UTC offset unit (时区单位)
+
 ##### YEAR
 
 > **YEAR**: `"year"`
@@ -1690,7 +1698,7 @@ Year unit (年单位)
 
 > **ChainInput**: [`DateInput`](chain.md#dateinput) \| [`IDateChain`](chain.md#idatechain)
 
-定义于: dist/types/index.d.ts:110
+定义于: dist/types/index.d.ts:115
 
 ***
 
@@ -1720,7 +1728,7 @@ Internal date unit
 
 > **Unit**: `"Y"` \| `"y"` \| `"M"` \| `"D"` \| `"d"` \| `"h"` \| `"m"` \| `"s"` \| `"ms"` \| [`InnerUnit`](chain.md#innerunit) \| `"years"` \| `"months"` \| `"dates"` \| `"days"` \| `"hours"` \| `"minutes"` \| `"seconds"` \| `"milliseconds"`
 
-定义于: dist/types/index.d.ts:106
+定义于: dist/types/index.d.ts:111
 
 Date unit
 日期单位
@@ -1855,8 +1863,8 @@ A new date with the added hours. (添加小时后的新日期。)
 ```ts
 // Adding 3 hours to a date (向日期添加3小时)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addHours(originalDate, 3);
-console.log(newDate.toISOString()); // Outputs: '2023-10-01T15:00:00.000Z' (输出: '2023-10-01T15:00:00.000Z')
+addHours(originalDate, 3);
+console.log(originalDate.toISOString()); // Outputs: '2023-10-01T15:00:00.000Z' (输出: '2023-10-01T15:00:00.000Z')
 ```
 
 ***
@@ -1895,8 +1903,8 @@ A new date with the added milliseconds. (添加毫秒后的新日期。)
 ```ts
 // Adding 5000 milliseconds to a date (向日期添加5000毫秒)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addMilliseconds(originalDate, 5000);
-console.log(newDate.toISOString()); // Outputs: '2023-10-01T12:00:05.000Z' (输出: '2023-10-01T12:00:05.000Z')
+addMilliseconds(originalDate, 5000);
+console.log(originalDate.toISOString()); // Outputs: '2023-10-01T12:00:05.000Z' (输出: '2023-10-01T12:00:05.000Z')
 ```
 
 ***
@@ -1935,8 +1943,8 @@ A new date with the added minutes. (添加分钟后的新日期。)
 ```ts
 // Adding 30 minutes to a date (向日期添加30分钟)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addMinutes(originalDate, 30);
-console.log(newDate.toISOString()); // Outputs: '2023-10-01T12:30:00.000Z' (输出: '2023-10-01T12:30:00.000Z')
+addMinutes(originalDate, 30);
+console.log(originalDate.toISOString()); // Outputs: '2023-10-01T12:30:00.000Z' (输出: '2023-10-01T12:30:00.000Z')
 ```
 
 ***
@@ -1975,8 +1983,8 @@ A new date with the added months. (添加月份后的新日期。)
 ```ts
 // Adding 2 months to a date (向日期添加2个月)
 const originalDate = new Date('2023-10-31T12:00:00');
-const newDate = addMonths(originalDate, 2);
-console.log(newDate.toISOString()); // Outputs: '2023-12-31T12:00:00.000Z' (输出: '2023-12-31T12:00:00.000Z')
+addMonths(originalDate, 2);
+console.log(originalDate.toISOString()); // Outputs: '2023-12-31T12:00:00.000Z' (输出: '2023-12-31T12:00:00.000Z')
 ```
 
 ***
@@ -2015,8 +2023,8 @@ A new date with the added seconds. (添加秒后的新日期。)
 ```ts
 // Adding 30 seconds to a date (向日期添加30秒)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addSeconds(originalDate, 30);
-console.log(newDate.toISOString()); // Outputs: '2023-10-01T12:00:30.000Z' (输出: '2023-10-01T12:00:30.000Z')
+addSeconds(originalDate, 30);
+console.log(originalDate.toISOString()); // Outputs: '2023-10-01T12:00:30.000Z' (输出: '2023-10-01T12:00:30.000Z')
 ```
 
 ***
@@ -2055,8 +2063,8 @@ A new date with the added years. (添加年份后的新日期。)
 ```ts
 // Adding 2 years to a date (向日期添加2年)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addYears(originalDate, 2);
-console.log(newDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' (输出: '2025-10-01T12:00:00.000Z')
+addYears(originalDate, 2);
+console.log(originalDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' (输出: '2025-10-01T12:00:00.000Z')
 ```
 
 ***
@@ -2065,7 +2073,7 @@ console.log(newDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' (输�
 
 > **chain**(`input`, `format`?): [`IDateChain`](types.md#idatechain)
 
-定义于: src/chain.ts:140
+定义于: [src/chain.ts:140](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/chain.ts#L140)
 
 #### 参数
 
@@ -2536,9 +2544,9 @@ const date3 = new Date('2023-10-01T12:30:45');
 const formattedDate3 = format(date3, 'YYYY-MM-DDTHH:mm:ssZ');
 console.log(formattedDate3); // Outputs: '2023-10-01T12:30:45-04:00' (输出: '2023-10-01T12:30:45-04:00')
 
-// Using 'UTC' format (使用 'UTC' 格式)
+// Using 'ISO' format (使用 'ISO' 格式)
 const date4 = new Date('2023-10-01T12:30:45');
-const formattedDate4 = format(date4, 'UTC');
+const formattedDate4 = format(date4, 'ISO');
 console.log(formattedDate4); // Outputs: '2023-10-01T16:30:45.000Z' (输出: '2023-10-01T16:30:45.000Z')
 ```
 

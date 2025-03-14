@@ -32,7 +32,7 @@ function buildUMD() {
           configFile: false,
           build: {
             emptyOutDir: false,
-            // minify: false,
+            minify: false,
             lib: {
               formats: ['umd'],
               name: camelcase(pkg.name),

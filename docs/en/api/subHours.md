@@ -12,7 +12,7 @@
 
 > **default**(`date`, `hours`): `Date`
 
-Defined in: [src/subHours.ts:17](https://github.com/fengxinming/date-manip/blob/12d12a4c2a3486e81330ba529f3fb8271142d945/src/subHours.ts#L17)
+Defined in: [src/subHours.ts:17](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/subHours.ts#L17)
 
 Subtracts a specified number of hours from a date.
 从日期中减去指定数量的小时。

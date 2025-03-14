@@ -37,7 +37,7 @@ bun add date-manip
 ```
 
 ```html [HTML]
-<script src="https://cdn.jsdelivr.net/npm/date-manip/index.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/date-manip/dist/index.umd.js"></script>
 <script>
   // window.dateManip
   const date = new Date('2023-10-01T12:00:00Z');
@@ -51,7 +51,7 @@ bun add date-manip
   // ...
 </script>
 
-<script src="https://cdn.jsdelivr.net/npm/date-manip/chain.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/date-manip/dist/chain.umd.js"></script>
 <script>
   // window.dateManip
   const now = dateManip.chain('2000-02-29')

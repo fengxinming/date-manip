@@ -392,7 +392,7 @@ Defined in: dist/types/index.d.ts:10
 
 ### IDateChain
 
-Defined in: dist/types/index.d.ts:112
+Defined in: dist/types/index.d.ts:117
 
 #### Methods
 
@@ -402,7 +402,7 @@ Defined in: dist/types/index.d.ts:112
 
 > **add**(`input`): `this`
 
-Defined in: dist/types/index.d.ts:113
+Defined in: dist/types/index.d.ts:118
 
 ###### Parameters
 
@@ -418,7 +418,7 @@ Defined in: dist/types/index.d.ts:113
 
 > **add**(`num`, `unit`): `this`
 
-Defined in: dist/types/index.d.ts:114
+Defined in: dist/types/index.d.ts:119
 
 ###### Parameters
 
@@ -438,7 +438,7 @@ Defined in: dist/types/index.d.ts:114
 
 > **addDays**(`days`): `this`
 
-Defined in: dist/types/index.d.ts:115
+Defined in: dist/types/index.d.ts:120
 
 ###### Parameters
 
@@ -454,7 +454,7 @@ Defined in: dist/types/index.d.ts:115
 
 > **addHours**(`hours`): `this`
 
-Defined in: dist/types/index.d.ts:116
+Defined in: dist/types/index.d.ts:121
 
 ###### Parameters
 
@@ -470,7 +470,7 @@ Defined in: dist/types/index.d.ts:116
 
 > **addMilliseconds**(`ms`): `this`
 
-Defined in: dist/types/index.d.ts:117
+Defined in: dist/types/index.d.ts:122
 
 ###### Parameters
 
@@ -486,7 +486,7 @@ Defined in: dist/types/index.d.ts:117
 
 > **addMinutes**(`minutes`): `this`
 
-Defined in: dist/types/index.d.ts:118
+Defined in: dist/types/index.d.ts:123
 
 ###### Parameters
 
@@ -502,7 +502,7 @@ Defined in: dist/types/index.d.ts:118
 
 > **addMonths**(`months`): `this`
 
-Defined in: dist/types/index.d.ts:119
+Defined in: dist/types/index.d.ts:124
 
 ###### Parameters
 
@@ -518,7 +518,7 @@ Defined in: dist/types/index.d.ts:119
 
 > **addYears**(`years`): `this`
 
-Defined in: dist/types/index.d.ts:120
+Defined in: dist/types/index.d.ts:125
 
 ###### Parameters
 
@@ -534,7 +534,7 @@ Defined in: dist/types/index.d.ts:120
 
 > **clone**(): [`IDateChain`](chain.md#idatechain)
 
-Defined in: dist/types/index.d.ts:183
+Defined in: dist/types/index.d.ts:188
 
 ###### Returns
 
@@ -546,7 +546,7 @@ Defined in: dist/types/index.d.ts:183
 
 > **date**(`date`): `this`
 
-Defined in: dist/types/index.d.ts:159
+Defined in: dist/types/index.d.ts:164
 
 ###### Parameters
 
@@ -562,7 +562,7 @@ Defined in: dist/types/index.d.ts:159
 
 > **date**(): `number`
 
-Defined in: dist/types/index.d.ts:160
+Defined in: dist/types/index.d.ts:165
 
 ###### Returns
 
@@ -574,7 +574,7 @@ Defined in: dist/types/index.d.ts:160
 
 > **day**(`day`): `this`
 
-Defined in: dist/types/index.d.ts:161
+Defined in: dist/types/index.d.ts:166
 
 ###### Parameters
 
@@ -590,7 +590,7 @@ Defined in: dist/types/index.d.ts:161
 
 > **day**(): `number`
 
-Defined in: dist/types/index.d.ts:162
+Defined in: dist/types/index.d.ts:167
 
 ###### Returns
 
@@ -602,7 +602,7 @@ Defined in: dist/types/index.d.ts:162
 
 > **dayOfYear**(): `number`
 
-Defined in: dist/types/index.d.ts:121
+Defined in: dist/types/index.d.ts:126
 
 ###### Returns
 
@@ -612,7 +612,7 @@ Defined in: dist/types/index.d.ts:121
 
 > **dayOfYear**(`val`): `this`
 
-Defined in: dist/types/index.d.ts:122
+Defined in: dist/types/index.d.ts:127
 
 ###### Parameters
 
@@ -628,7 +628,7 @@ Defined in: dist/types/index.d.ts:122
 
 > **daysInMonth**(): `number`
 
-Defined in: dist/types/index.d.ts:123
+Defined in: dist/types/index.d.ts:128
 
 ###### Returns
 
@@ -638,7 +638,7 @@ Defined in: dist/types/index.d.ts:123
 
 > **diff**(`input`, `unit`, `asFloat`?): `number`
 
-Defined in: dist/types/index.d.ts:124
+Defined in: dist/types/index.d.ts:129
 
 ###### Parameters
 
@@ -662,7 +662,7 @@ Defined in: dist/types/index.d.ts:124
 
 > **diffInDays**(`input`, `asFloat`?): `number`
 
-Defined in: dist/types/index.d.ts:125
+Defined in: dist/types/index.d.ts:130
 
 ###### Parameters
 
@@ -682,7 +682,7 @@ Defined in: dist/types/index.d.ts:125
 
 > **diffInHours**(`input`, `asFloat`?): `number`
 
-Defined in: dist/types/index.d.ts:126
+Defined in: dist/types/index.d.ts:131
 
 ###### Parameters
 
@@ -702,7 +702,7 @@ Defined in: dist/types/index.d.ts:126
 
 > **diffInMilliseconds**(`input`, `asFloat`?): `number`
 
-Defined in: dist/types/index.d.ts:127
+Defined in: dist/types/index.d.ts:132
 
 ###### Parameters
 
@@ -722,7 +722,7 @@ Defined in: dist/types/index.d.ts:127
 
 > **diffInMinutes**(`input`, `asFloat`?): `number`
 
-Defined in: dist/types/index.d.ts:128
+Defined in: dist/types/index.d.ts:133
 
 ###### Parameters
 
@@ -742,7 +742,7 @@ Defined in: dist/types/index.d.ts:128
 
 > **diffInMonths**(`input`, `asFloat`?): `number`
 
-Defined in: dist/types/index.d.ts:129
+Defined in: dist/types/index.d.ts:134
 
 ###### Parameters
 
@@ -762,7 +762,7 @@ Defined in: dist/types/index.d.ts:129
 
 > **diffInSeconds**(`input`, `asFloat`?): `number`
 
-Defined in: dist/types/index.d.ts:130
+Defined in: dist/types/index.d.ts:135
 
 ###### Parameters
 
@@ -782,7 +782,7 @@ Defined in: dist/types/index.d.ts:130
 
 > **diffInYears**(`input`, `asFloat`?): `number`
 
-Defined in: dist/types/index.d.ts:131
+Defined in: dist/types/index.d.ts:136
 
 ###### Parameters
 
@@ -802,7 +802,7 @@ Defined in: dist/types/index.d.ts:131
 
 > **endOf**(`unit`): `this`
 
-Defined in: dist/types/index.d.ts:132
+Defined in: dist/types/index.d.ts:137
 
 ###### Parameters
 
@@ -818,7 +818,7 @@ Defined in: dist/types/index.d.ts:132
 
 > **format**(`formatString`?): `string`
 
-Defined in: dist/types/index.d.ts:133
+Defined in: dist/types/index.d.ts:138
 
 ###### Parameters
 
@@ -834,7 +834,7 @@ Defined in: dist/types/index.d.ts:133
 
 > **get**(`unit`): `number`
 
-Defined in: dist/types/index.d.ts:134
+Defined in: dist/types/index.d.ts:139
 
 ###### Parameters
 
@@ -852,7 +852,7 @@ Defined in: dist/types/index.d.ts:134
 
 > **hour**(`hour`): `this`
 
-Defined in: dist/types/index.d.ts:163
+Defined in: dist/types/index.d.ts:168
 
 ###### Parameters
 
@@ -868,7 +868,7 @@ Defined in: dist/types/index.d.ts:163
 
 > **hour**(): `number`
 
-Defined in: dist/types/index.d.ts:164
+Defined in: dist/types/index.d.ts:169
 
 ###### Returns
 
@@ -880,7 +880,7 @@ Defined in: dist/types/index.d.ts:164
 
 > **hours**(`hours`): `this`
 
-Defined in: dist/types/index.d.ts:174
+Defined in: dist/types/index.d.ts:179
 
 ###### Parameters
 
@@ -896,7 +896,7 @@ Defined in: dist/types/index.d.ts:174
 
 > **hours**(): `number`
 
-Defined in: dist/types/index.d.ts:175
+Defined in: dist/types/index.d.ts:180
 
 ###### Returns
 
@@ -906,7 +906,7 @@ Defined in: dist/types/index.d.ts:175
 
 > **isAfter**(`input`, `unit`): `boolean`
 
-Defined in: dist/types/index.d.ts:135
+Defined in: dist/types/index.d.ts:140
 
 ###### Parameters
 
@@ -926,7 +926,7 @@ Defined in: dist/types/index.d.ts:135
 
 > **isBefore**(`input`, `unit`): `boolean`
 
-Defined in: dist/types/index.d.ts:136
+Defined in: dist/types/index.d.ts:141
 
 ###### Parameters
 
@@ -946,7 +946,7 @@ Defined in: dist/types/index.d.ts:136
 
 > **isBetween**(`from`, `to`, `unit`, `inclusivity`?): `boolean`
 
-Defined in: dist/types/index.d.ts:137
+Defined in: dist/types/index.d.ts:142
 
 ###### Parameters
 
@@ -974,7 +974,7 @@ Defined in: dist/types/index.d.ts:137
 
 > **isLeapYear**(): `boolean`
 
-Defined in: dist/types/index.d.ts:138
+Defined in: dist/types/index.d.ts:143
 
 ###### Returns
 
@@ -984,7 +984,7 @@ Defined in: dist/types/index.d.ts:138
 
 > **isSame**(`input`, `unit`): `boolean`
 
-Defined in: dist/types/index.d.ts:139
+Defined in: dist/types/index.d.ts:144
 
 ###### Parameters
 
@@ -1004,7 +1004,7 @@ Defined in: dist/types/index.d.ts:139
 
 > **isSameOrAfter**(`input`, `unit`): `boolean`
 
-Defined in: dist/types/index.d.ts:140
+Defined in: dist/types/index.d.ts:145
 
 ###### Parameters
 
@@ -1024,7 +1024,7 @@ Defined in: dist/types/index.d.ts:140
 
 > **isSameOrBefore**(`input`, `unit`): `boolean`
 
-Defined in: dist/types/index.d.ts:141
+Defined in: dist/types/index.d.ts:146
 
 ###### Parameters
 
@@ -1044,7 +1044,7 @@ Defined in: dist/types/index.d.ts:141
 
 > **isValid**(): `boolean`
 
-Defined in: dist/types/index.d.ts:142
+Defined in: dist/types/index.d.ts:147
 
 ###### Returns
 
@@ -1056,7 +1056,7 @@ Defined in: dist/types/index.d.ts:142
 
 > **millisecond**(`millisecond`): `this`
 
-Defined in: dist/types/index.d.ts:169
+Defined in: dist/types/index.d.ts:174
 
 ###### Parameters
 
@@ -1072,7 +1072,7 @@ Defined in: dist/types/index.d.ts:169
 
 > **millisecond**(): `number`
 
-Defined in: dist/types/index.d.ts:170
+Defined in: dist/types/index.d.ts:175
 
 ###### Returns
 
@@ -1084,7 +1084,7 @@ Defined in: dist/types/index.d.ts:170
 
 > **milliseconds**(`milliseconds`): `this`
 
-Defined in: dist/types/index.d.ts:180
+Defined in: dist/types/index.d.ts:185
 
 ###### Parameters
 
@@ -1100,7 +1100,7 @@ Defined in: dist/types/index.d.ts:180
 
 > **milliseconds**(): `number`
 
-Defined in: dist/types/index.d.ts:181
+Defined in: dist/types/index.d.ts:186
 
 ###### Returns
 
@@ -1112,7 +1112,7 @@ Defined in: dist/types/index.d.ts:181
 
 > **minute**(`minute`): `this`
 
-Defined in: dist/types/index.d.ts:165
+Defined in: dist/types/index.d.ts:170
 
 ###### Parameters
 
@@ -1128,7 +1128,7 @@ Defined in: dist/types/index.d.ts:165
 
 > **minute**(): `number`
 
-Defined in: dist/types/index.d.ts:166
+Defined in: dist/types/index.d.ts:171
 
 ###### Returns
 
@@ -1140,7 +1140,7 @@ Defined in: dist/types/index.d.ts:166
 
 > **minutes**(`minutes`): `this`
 
-Defined in: dist/types/index.d.ts:176
+Defined in: dist/types/index.d.ts:181
 
 ###### Parameters
 
@@ -1156,7 +1156,7 @@ Defined in: dist/types/index.d.ts:176
 
 > **minutes**(): `number`
 
-Defined in: dist/types/index.d.ts:177
+Defined in: dist/types/index.d.ts:182
 
 ###### Returns
 
@@ -1168,7 +1168,7 @@ Defined in: dist/types/index.d.ts:177
 
 > **month**(`month`): `this`
 
-Defined in: dist/types/index.d.ts:157
+Defined in: dist/types/index.d.ts:162
 
 ###### Parameters
 
@@ -1184,7 +1184,7 @@ Defined in: dist/types/index.d.ts:157
 
 > **month**(): `number`
 
-Defined in: dist/types/index.d.ts:158
+Defined in: dist/types/index.d.ts:163
 
 ###### Returns
 
@@ -1196,7 +1196,7 @@ Defined in: dist/types/index.d.ts:158
 
 > **second**(`second`): `this`
 
-Defined in: dist/types/index.d.ts:167
+Defined in: dist/types/index.d.ts:172
 
 ###### Parameters
 
@@ -1212,7 +1212,7 @@ Defined in: dist/types/index.d.ts:167
 
 > **second**(): `number`
 
-Defined in: dist/types/index.d.ts:168
+Defined in: dist/types/index.d.ts:173
 
 ###### Returns
 
@@ -1224,7 +1224,7 @@ Defined in: dist/types/index.d.ts:168
 
 > **seconds**(`seconds`): `this`
 
-Defined in: dist/types/index.d.ts:178
+Defined in: dist/types/index.d.ts:183
 
 ###### Parameters
 
@@ -1240,7 +1240,7 @@ Defined in: dist/types/index.d.ts:178
 
 > **seconds**(): `number`
 
-Defined in: dist/types/index.d.ts:179
+Defined in: dist/types/index.d.ts:184
 
 ###### Returns
 
@@ -1250,7 +1250,7 @@ Defined in: dist/types/index.d.ts:179
 
 > **set**(`unit`, `val`): `this`
 
-Defined in: dist/types/index.d.ts:143
+Defined in: dist/types/index.d.ts:148
 
 ###### Parameters
 
@@ -1270,7 +1270,7 @@ Defined in: dist/types/index.d.ts:143
 
 > **startOf**(`unit`): `this`
 
-Defined in: dist/types/index.d.ts:144
+Defined in: dist/types/index.d.ts:149
 
 ###### Parameters
 
@@ -1286,7 +1286,7 @@ Defined in: dist/types/index.d.ts:144
 
 > **subDays**(`days`): `this`
 
-Defined in: dist/types/index.d.ts:145
+Defined in: dist/types/index.d.ts:150
 
 ###### Parameters
 
@@ -1302,7 +1302,7 @@ Defined in: dist/types/index.d.ts:145
 
 > **subHours**(`hours`): `this`
 
-Defined in: dist/types/index.d.ts:146
+Defined in: dist/types/index.d.ts:151
 
 ###### Parameters
 
@@ -1318,7 +1318,7 @@ Defined in: dist/types/index.d.ts:146
 
 > **subMilliseconds**(`time`): `this`
 
-Defined in: dist/types/index.d.ts:147
+Defined in: dist/types/index.d.ts:152
 
 ###### Parameters
 
@@ -1334,7 +1334,7 @@ Defined in: dist/types/index.d.ts:147
 
 > **subMinutes**(`minutes`): `this`
 
-Defined in: dist/types/index.d.ts:148
+Defined in: dist/types/index.d.ts:153
 
 ###### Parameters
 
@@ -1350,7 +1350,7 @@ Defined in: dist/types/index.d.ts:148
 
 > **subMonths**(`months`): `this`
 
-Defined in: dist/types/index.d.ts:149
+Defined in: dist/types/index.d.ts:154
 
 ###### Parameters
 
@@ -1366,7 +1366,7 @@ Defined in: dist/types/index.d.ts:149
 
 > **subSeconds**(`seconds`): `this`
 
-Defined in: dist/types/index.d.ts:150
+Defined in: dist/types/index.d.ts:155
 
 ###### Parameters
 
@@ -1384,7 +1384,7 @@ Defined in: dist/types/index.d.ts:150
 
 > **subtract**(`input`): `this`
 
-Defined in: dist/types/index.d.ts:151
+Defined in: dist/types/index.d.ts:156
 
 ###### Parameters
 
@@ -1400,7 +1400,7 @@ Defined in: dist/types/index.d.ts:151
 
 > **subtract**(`num`, `unit`): `this`
 
-Defined in: dist/types/index.d.ts:152
+Defined in: dist/types/index.d.ts:157
 
 ###### Parameters
 
@@ -1420,7 +1420,7 @@ Defined in: dist/types/index.d.ts:152
 
 > **subYears**(`years`): `this`
 
-Defined in: dist/types/index.d.ts:153
+Defined in: dist/types/index.d.ts:158
 
 ###### Parameters
 
@@ -1438,7 +1438,7 @@ Defined in: dist/types/index.d.ts:153
 
 > **time**(`time`): `this`
 
-Defined in: dist/types/index.d.ts:171
+Defined in: dist/types/index.d.ts:176
 
 ###### Parameters
 
@@ -1454,7 +1454,7 @@ Defined in: dist/types/index.d.ts:171
 
 > **time**(): `number`
 
-Defined in: dist/types/index.d.ts:172
+Defined in: dist/types/index.d.ts:177
 
 ###### Returns
 
@@ -1464,7 +1464,7 @@ Defined in: dist/types/index.d.ts:172
 
 > **toArray**(): `number`[]
 
-Defined in: dist/types/index.d.ts:184
+Defined in: dist/types/index.d.ts:189
 
 ###### Returns
 
@@ -1474,7 +1474,7 @@ Defined in: dist/types/index.d.ts:184
 
 > **toDate**(): `Date`
 
-Defined in: dist/types/index.d.ts:185
+Defined in: dist/types/index.d.ts:190
 
 ###### Returns
 
@@ -1484,7 +1484,7 @@ Defined in: dist/types/index.d.ts:185
 
 > **toISOString**(): `string`
 
-Defined in: dist/types/index.d.ts:186
+Defined in: dist/types/index.d.ts:191
 
 ###### Returns
 
@@ -1494,7 +1494,7 @@ Defined in: dist/types/index.d.ts:186
 
 > **toJSON**(): `string`
 
-Defined in: dist/types/index.d.ts:187
+Defined in: dist/types/index.d.ts:192
 
 ###### Returns
 
@@ -1504,7 +1504,7 @@ Defined in: dist/types/index.d.ts:187
 
 > **toString**(): `string`
 
-Defined in: dist/types/index.d.ts:188
+Defined in: dist/types/index.d.ts:193
 
 ###### Returns
 
@@ -1514,7 +1514,7 @@ Defined in: dist/types/index.d.ts:188
 
 > **valueOf**(): `number`
 
-Defined in: dist/types/index.d.ts:189
+Defined in: dist/types/index.d.ts:194
 
 ###### Returns
 
@@ -1526,7 +1526,7 @@ Defined in: dist/types/index.d.ts:189
 
 > **year**(`year`): `this`
 
-Defined in: dist/types/index.d.ts:155
+Defined in: dist/types/index.d.ts:160
 
 ###### Parameters
 
@@ -1542,7 +1542,7 @@ Defined in: dist/types/index.d.ts:155
 
 > **year**(): `number`
 
-Defined in: dist/types/index.d.ts:156
+Defined in: dist/types/index.d.ts:161
 
 ###### Returns
 
@@ -1676,6 +1676,14 @@ Defined in: dist/types/index.d.ts:59
 
 Time unit (时间单位)
 
+##### UTC\_OFFSET
+
+> **UTC\_OFFSET**: `"utcOffset"`
+
+Defined in: dist/types/index.d.ts:104
+
+UTC offset unit (时区单位)
+
 ##### YEAR
 
 > **YEAR**: `"year"`
@@ -1690,7 +1698,7 @@ Year unit (年单位)
 
 > **ChainInput**: [`DateInput`](chain.md#dateinput) \| [`IDateChain`](chain.md#idatechain)
 
-Defined in: dist/types/index.d.ts:110
+Defined in: dist/types/index.d.ts:115
 
 ***
 
@@ -1720,7 +1728,7 @@ Internal date unit
 
 > **Unit**: `"Y"` \| `"y"` \| `"M"` \| `"D"` \| `"d"` \| `"h"` \| `"m"` \| `"s"` \| `"ms"` \| [`InnerUnit`](chain.md#innerunit) \| `"years"` \| `"months"` \| `"dates"` \| `"days"` \| `"hours"` \| `"minutes"` \| `"seconds"` \| `"milliseconds"`
 
-Defined in: dist/types/index.d.ts:106
+Defined in: dist/types/index.d.ts:111
 
 Date unit
 日期单位
@@ -1855,8 +1863,8 @@ A new date with the added hours. (添加小时后的新日期。)
 ```ts
 // Adding 3 hours to a date (向日期添加3小时)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addHours(originalDate, 3);
-console.log(newDate.toISOString()); // Outputs: '2023-10-01T15:00:00.000Z' (输出: '2023-10-01T15:00:00.000Z')
+addHours(originalDate, 3);
+console.log(originalDate.toISOString()); // Outputs: '2023-10-01T15:00:00.000Z' (输出: '2023-10-01T15:00:00.000Z')
 ```
 
 ***
@@ -1895,8 +1903,8 @@ A new date with the added milliseconds. (添加毫秒后的新日期。)
 ```ts
 // Adding 5000 milliseconds to a date (向日期添加5000毫秒)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addMilliseconds(originalDate, 5000);
-console.log(newDate.toISOString()); // Outputs: '2023-10-01T12:00:05.000Z' (输出: '2023-10-01T12:00:05.000Z')
+addMilliseconds(originalDate, 5000);
+console.log(originalDate.toISOString()); // Outputs: '2023-10-01T12:00:05.000Z' (输出: '2023-10-01T12:00:05.000Z')
 ```
 
 ***
@@ -1935,8 +1943,8 @@ A new date with the added minutes. (添加分钟后的新日期。)
 ```ts
 // Adding 30 minutes to a date (向日期添加30分钟)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addMinutes(originalDate, 30);
-console.log(newDate.toISOString()); // Outputs: '2023-10-01T12:30:00.000Z' (输出: '2023-10-01T12:30:00.000Z')
+addMinutes(originalDate, 30);
+console.log(originalDate.toISOString()); // Outputs: '2023-10-01T12:30:00.000Z' (输出: '2023-10-01T12:30:00.000Z')
 ```
 
 ***
@@ -1975,8 +1983,8 @@ A new date with the added months. (添加月份后的新日期。)
 ```ts
 // Adding 2 months to a date (向日期添加2个月)
 const originalDate = new Date('2023-10-31T12:00:00');
-const newDate = addMonths(originalDate, 2);
-console.log(newDate.toISOString()); // Outputs: '2023-12-31T12:00:00.000Z' (输出: '2023-12-31T12:00:00.000Z')
+addMonths(originalDate, 2);
+console.log(originalDate.toISOString()); // Outputs: '2023-12-31T12:00:00.000Z' (输出: '2023-12-31T12:00:00.000Z')
 ```
 
 ***
@@ -2015,8 +2023,8 @@ A new date with the added seconds. (添加秒后的新日期。)
 ```ts
 // Adding 30 seconds to a date (向日期添加30秒)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addSeconds(originalDate, 30);
-console.log(newDate.toISOString()); // Outputs: '2023-10-01T12:00:30.000Z' (输出: '2023-10-01T12:00:30.000Z')
+addSeconds(originalDate, 30);
+console.log(originalDate.toISOString()); // Outputs: '2023-10-01T12:00:30.000Z' (输出: '2023-10-01T12:00:30.000Z')
 ```
 
 ***
@@ -2055,8 +2063,8 @@ A new date with the added years. (添加年份后的新日期。)
 ```ts
 // Adding 2 years to a date (向日期添加2年)
 const originalDate = new Date('2023-10-01T12:00:00');
-const newDate = addYears(originalDate, 2);
-console.log(newDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' (输出: '2025-10-01T12:00:00.000Z')
+addYears(originalDate, 2);
+console.log(originalDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' (输出: '2025-10-01T12:00:00.000Z')
 ```
 
 ***
@@ -2065,7 +2073,7 @@ console.log(newDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' (输�
 
 > **chain**(`input`, `format`?): [`IDateChain`](types.md#idatechain)
 
-Defined in: src/chain.ts:140
+Defined in: [src/chain.ts:140](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/chain.ts#L140)
 
 #### Parameters
 
@@ -2536,9 +2544,9 @@ const date3 = new Date('2023-10-01T12:30:45');
 const formattedDate3 = format(date3, 'YYYY-MM-DDTHH:mm:ssZ');
 console.log(formattedDate3); // Outputs: '2023-10-01T12:30:45-04:00' (输出: '2023-10-01T12:30:45-04:00')
 
-// Using 'UTC' format (使用 'UTC' 格式)
+// Using 'ISO' format (使用 'ISO' 格式)
 const date4 = new Date('2023-10-01T12:30:45');
-const formattedDate4 = format(date4, 'UTC');
+const formattedDate4 = format(date4, 'ISO');
 console.log(formattedDate4); // Outputs: '2023-10-01T16:30:45.000Z' (输出: '2023-10-01T16:30:45.000Z')
 ```
 
