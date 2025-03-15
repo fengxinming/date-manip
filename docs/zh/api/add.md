@@ -45,7 +45,7 @@ console.log(newDate2); // Outputs the date 1 year, 2 months, and 3 days from now
 
 > **default**(`date`, `input`): `Date`
 
-定义于: [src/add.ts:7](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/add.ts#L7)
+定义于: [src/add.ts:7](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/add.ts#L7)
 
 ##### 参数
 
@@ -65,7 +65,7 @@ console.log(newDate2); // Outputs the date 1 year, 2 months, and 3 days from now
 
 > **default**(`date`, `num`, `unit`): `Date`
 
-定义于: [src/add.ts:8](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/add.ts#L8)
+定义于: [src/add.ts:8](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/add.ts#L8)
 
 ##### 参数
 

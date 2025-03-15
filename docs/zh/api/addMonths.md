@@ -12,7 +12,7 @@
 
 > **default**(`date`, `months`): `Date`
 
-定义于: [src/addMonths.ts:18](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/addMonths.ts#L18)
+定义于: [src/addMonths.ts:18](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/addMonths.ts#L18)
 
 Adds a specified number of months to a date.
 向日期添加指定数量的月份。

@@ -77,7 +77,7 @@ console.log(date8.toISOString()); // Outputs: '2022-07-28T07:54:53.993Z' (输出
 
 > **default**(`date`, `input`): `Date`
 
-Defined in: [src/subtract.ts:7](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/subtract.ts#L7)
+Defined in: [src/subtract.ts:7](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/subtract.ts#L7)
 
 ##### Parameters
 
@@ -97,7 +97,7 @@ Defined in: [src/subtract.ts:7](https://github.com/fengxinming/date-manip/blob/c
 
 > **default**(`date`, `num`, `unit`): `Date`
 
-Defined in: [src/subtract.ts:8](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/subtract.ts#L8)
+Defined in: [src/subtract.ts:8](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/subtract.ts#L8)
 
 ##### Parameters
 

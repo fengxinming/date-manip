@@ -6,15 +6,11 @@
 
 [![npm package](https://nodei.co/npm/date-manip.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/date-manip)
 
-> A lightweight JavaScript date utility library that provides modularity, high performance, and additional features. It supports various date operations, including date addition and subtraction, formatting, comparison, etc.
-
 [![NPM Version](https://img.shields.io/npm/v/date-manip.svg?style=flat)](https://npmjs.org/package/date-manip)
 [![NPM Downloads](https://img.shields.io/npm/dm/date-manip.svg?style=flat)](https://npmjs.org/package/date-manip)
 [![jsDelivr](https://data.jsdelivr.com/v1/package/npm/date-manip/badge)](https://www.jsdelivr.com/package/npm/date-manip)
 
 ---
-
-## [Documentation](https://fengxinming.github.io/date-manip/)
 
 ## Introduction
 

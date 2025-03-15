@@ -12,7 +12,7 @@
 
 > **default**(`date`, `input`, `unit`?): `boolean`
 
-Defined in: [src/isSame.ts:61](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/isSame.ts#L61)
+Defined in: [src/isSame.ts:61](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/isSame.ts#L61)
 
 Checks if a date is the same as another date or a specified time unit.
 检查一个日期是否与另一个日期或指定的时间单位相同。

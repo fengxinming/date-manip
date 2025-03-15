@@ -12,7 +12,7 @@
 
 > **default**(`date`, `from`, `to`, `unit`?, `inclusivity`?): `boolean`
 
-定义于: [src/isBetween.ts:75](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/isBetween.ts#L75)
+定义于: [src/isBetween.ts:75](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/isBetween.ts#L75)
 
 Checks if a date is between two other dates or specified time units.
 检查一个日期是否在两个其他日期或指定的时间单位之间。

@@ -2073,7 +2073,7 @@ console.log(originalDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' 
 
 > **chain**(`input`, `format`?): [`IDateChain`](types.md#idatechain)
 
-Defined in: [src/chain.ts:140](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/chain.ts#L140)
+Defined in: [src/chain.ts:140](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/chain.ts#L140)
 
 #### Parameters
 

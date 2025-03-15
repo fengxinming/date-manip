@@ -6,15 +6,11 @@
 
 [![npm package](https://nodei.co/npm/date-manip.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/date-manip)
 
-> 一个轻量级的 JavaScript 日期工具库，提供模块化、高性能和额外功能。它支持多种日期操作，包括日期的增减、格式化、比较等。
-
 [![NPM 版本](https://img.shields.io/npm/v/date-manip.svg?style=flat)](https://npmjs.org/package/date-manip)
 [![NPM 下载量](https://img.shields.io/npm/dm/date-manip.svg?style=flat)](https://npmjs.org/package/date-manip)
 [![jsDelivr](https://data.jsdelivr.com/v1/package/npm/date-manip/badge)](https://www.jsdelivr.com/package/npm/date-manip)
 
 ---
-
-## [文档](https://fengxinming.github.io/date-manip/)
 
 ## 简介
 

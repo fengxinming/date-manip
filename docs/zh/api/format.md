@@ -12,7 +12,7 @@
 
 > **default**(`date`, `formatString`?): `string`
 
-定义于: [src/format.ts:122](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/format.ts#L122)
+定义于: [src/format.ts:122](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/format.ts#L122)
 
 Formats a date according to the specified format string.
 根据指定的格式字符串格式化日期。

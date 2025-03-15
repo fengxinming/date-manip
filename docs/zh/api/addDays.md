@@ -12,7 +12,7 @@
 
 > **default**(`date`, `days`): `Date`
 
-定义于: [src/addDays.ts:17](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/addDays.ts#L17)
+定义于: [src/addDays.ts:17](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/addDays.ts#L17)
 
 Adds a specified number of days to a date.
 向日期添加指定数量的天数。

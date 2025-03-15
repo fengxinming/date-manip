@@ -12,7 +12,7 @@
 
 > **default**(`year`): `number`[]
 
-Defined in: [src/\_internal/daysOfYear.ts:6](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/_internal/daysOfYear.ts#L6)
+Defined in: [src/\_internal/daysOfYear.ts:6](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/_internal/daysOfYear.ts#L6)
 
 #### Parameters
 

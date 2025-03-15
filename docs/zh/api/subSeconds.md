@@ -12,7 +12,7 @@
 
 > **default**(`date`, `seconds`): `Date`
 
-定义于: [src/subSeconds.ts:17](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/subSeconds.ts#L17)
+定义于: [src/subSeconds.ts:17](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/subSeconds.ts#L17)
 
 Subtracts a specified number of seconds from a date.
 从日期中减去指定数量的秒。
