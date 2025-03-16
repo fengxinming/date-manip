@@ -6,7 +6,10 @@
   "entryPointStrategy": "expand",
   "outputFileStrategy": "modules",
   "entryFileName": "index",
-  "plugin": ["typedoc-plugin-markdown"],
+  "plugin": [
+    "typedoc-plugin-markdown"
+  ],
   "out": "docs/en/api",
-  "tsconfig": "./tsconfig.typedoc.json"
+  "tsconfig": "./tsconfig.typedoc.json",
+  "readme": "index.md"
 }

@@ -6,15 +6,11 @@
 
 [![npm package](https://nodei.co/npm/date-manip.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/date-manip)
 
-> 一个轻量级的 JavaScript 日期工具库，提供模块化、高性能和额外功能。它支持多种日期操作，包括日期的增减、格式化、比较等。
-
 [![NPM 版本](https://img.shields.io/npm/v/date-manip.svg?style=flat)](https://npmjs.org/package/date-manip)
 [![NPM 下载量](https://img.shields.io/npm/dm/date-manip.svg?style=flat)](https://npmjs.org/package/date-manip)
 [![jsDelivr](https://data.jsdelivr.com/v1/package/npm/date-manip/badge)](https://www.jsdelivr.com/package/npm/date-manip)
 
 ---
-
-## [文档](https://fengxinming.github.io/date-manip/)
 
 ## 简介
 
@@ -155,6 +151,10 @@ bun add date-manip
 
 - **endOf(date: Date, unit: Unit): Date**
 - **startOf(date: Date, unit: Unit): Date**
+
+### 编译日期格式字符串
+
+- **compile(formatString: string): { pattern: string, tokens: string[] }**
 
 ## 示例
 
@@ -480,6 +480,16 @@ bun add date-manip
   const date = new Date('2023-10-01T12:00:00Z');
   const startOfDay = startOf(date, 'day');
   console.log(startOfDay); // 2023-10-01T00:00:00.000Z
+  ```
+
+### 编译日期格式字符串
+  ```typescript
+  const ret = compile('YYYY-MM-DD HH:mm:ss.SSS');
+  console.log(ret);
+  // {
+  //   pattern: '(\\d{1,4})-(\\d{1,2})-(\\d{1,2}) (\\d{1,2}):(\\d{1,2}):(\\d{1,2})\\.(\\d{1,3})',
+  //   tokens: ['YYYY', 'MM', 'DD','HH', 'mm', 'ss', 'SSS']
+  // }
   ```
 
 ### 类型定义

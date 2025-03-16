@@ -12,7 +12,7 @@
 
 > **default**(`date`, `months`): `Date`
 
-Defined in: [src/subMonths.ts:18](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/subMonths.ts#L18)
+Defined in: [src/subMonths.ts:18](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/subMonths.ts#L18)
 
 Subtracts a specified number of months from a date.
 从日期中减去指定数量的月份。

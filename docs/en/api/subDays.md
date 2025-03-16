@@ -12,7 +12,7 @@
 
 > **default**(`date`, `days`): `Date`
 
-Defined in: [src/subDays.ts:16](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/subDays.ts#L16)
+Defined in: [src/subDays.ts:16](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/subDays.ts#L16)
 
 Subtracts a specified number of days from a date.
 从日期中减去指定数量的天数。

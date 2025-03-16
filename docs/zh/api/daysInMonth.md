@@ -12,7 +12,7 @@
 
 > **default**(`date`): `number`
 
-定义于: [src/daysInMonth.ts:22](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/daysInMonth.ts#L22)
+定义于: [src/daysInMonth.ts:22](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/daysInMonth.ts#L22)
 
 Gets the number of days in the month for a given date.
 获取给定日期所在月份的天数。

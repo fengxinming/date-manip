@@ -2073,7 +2073,7 @@ console.log(originalDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' 
 
 > **chain**(`input`, `format`?): [`IDateChain`](types.md#idatechain)
 
-Defined in: [src/chain.ts:140](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/chain.ts#L140)
+Defined in: [src/chain.ts:143](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/chain.ts#L143)
 
 #### Parameters
 
@@ -2088,6 +2088,42 @@ Defined in: [src/chain.ts:140](https://github.com/fengxinming/date-manip/blob/c2
 #### Returns
 
 [`IDateChain`](types.md#idatechain)
+
+***
+
+### compile()
+
+> **compile**(`formatString`): `CompileResult`
+
+Defined in: dist/compile.d.ts:21
+
+Compile a format string into a regular expression and extract date parts.
+编译格式字符串，生成正则表达式和匹配的日期部分
+
+#### Parameters
+
+##### formatString
+
+`string`
+
+The format string to compile. (要编译的格式字符串。)
+
+#### Returns
+
+`CompileResult`
+
+A compiled result object containing the regular expression pattern and extracted date parts.
+(包含正则表达式模式的编译结果对象，以及提取的日期部分。)
+
+#### Example
+
+```ts
+compile('YYYY-MM-DD HH:mm:ss.SSS');
+// {
+//   pattern: '(\\d{1,4})-(\\d{1,2})-(\\d{1,2}) (\\d{1,2}):(\\d{1,2}):(\\d{1,2})\\.(\\d{1,3})',
+//   tokens: ['YYYY', 'MM', 'DD','HH', 'mm', 'ss', 'SSS']
+// }
+```
 
 ***
 

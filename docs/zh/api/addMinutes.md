@@ -12,7 +12,7 @@
 
 > **default**(`date`, `minutes`): `Date`
 
-定义于: [src/addMinutes.ts:19](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/addMinutes.ts#L19)
+定义于: [src/addMinutes.ts:19](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/addMinutes.ts#L19)
 
 Adds a specified number of minutes to a date.
 向日期添加指定数量的分钟。

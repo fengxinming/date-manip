@@ -11,6 +11,6 @@
     "typedoc-plugin-markdown"
   ],
   "out": "docs/zh/api",
-  "readme": "README_zh_CN.md",
-  "tsconfig": "./tsconfig.typedoc.json"
+  "tsconfig": "./tsconfig.typedoc.json",
+  "readme": "index.zh.md"
 }

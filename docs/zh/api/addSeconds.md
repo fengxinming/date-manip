@@ -12,7 +12,7 @@
 
 > **default**(`date`, `seconds`): `Date`
 
-定义于: [src/addSeconds.ts:19](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/addSeconds.ts#L19)
+定义于: [src/addSeconds.ts:19](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/addSeconds.ts#L19)
 
 Adds a specified number of seconds to a date.
 向日期添加指定数量的秒。

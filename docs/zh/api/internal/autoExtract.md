@@ -6,21 +6,13 @@
 
 # \_internal/autoExtract
 
-## 变量
-
-### TZ\_REGEX
-
-> `const` **TZ\_REGEX**: `RegExp`
-
-定义于: [src/\_internal/autoExtract.ts:20](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/_internal/autoExtract.ts#L20)
-
 ## 函数
 
 ### default()
 
 > **default**(`input`): `string` \| `number`[]
 
-定义于: [src/\_internal/autoExtract.ts:29](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/_internal/autoExtract.ts#L29)
+定义于: [src/\_internal/autoExtract.ts:3](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/_internal/autoExtract.ts#L3)
 
 #### 参数
 

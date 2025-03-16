@@ -12,7 +12,7 @@
 
 > **default**(`a`, `b`): `number`
 
-定义于: [src/\_internal/monthDiff.ts:3](https://github.com/fengxinming/date-manip/blob/c2d62c1a39faed6b959a43feaabc15f4e2d60a5a/src/_internal/monthDiff.ts#L3)
+定义于: [src/\_internal/monthDiff.ts:3](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/_internal/monthDiff.ts#L3)
 
 #### 参数
 
