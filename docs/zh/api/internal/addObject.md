@@ -12,7 +12,7 @@
 
 > **default**(`date`, `obj`, `times`): `Date`
 
-定义于: [src/\_internal/addObject.ts:9](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/_internal/addObject.ts#L9)
+定义于: [src/\_internal/addObject.ts:9](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/addObject.ts#L9)
 
 #### 参数
 

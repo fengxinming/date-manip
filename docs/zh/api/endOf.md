@@ -12,7 +12,7 @@
 
 > **default**(`date`, `unit`): `Date`
 
-定义于: [src/endOf.ts:53](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/endOf.ts#L53)
+定义于: [src/endOf.ts:53](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/endOf.ts#L53)
 
 Sets the date to the end of the specified unit of time.
 将日期设置为指定时间单位的结束时间。

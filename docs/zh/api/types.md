@@ -10,11 +10,11 @@
 
 ### DateAddingObject
 
-定义于: [src/types/index.d.ts:1](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L1)
+定义于: [src/types/index.d.ts:1](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L1)
 
 #### 继承于
 
-- [`DateParsingObject`](types.md#dateparsingobject)
+- [`DateParsingObject`](#dateparsingobject)
 
 #### 属性
 
@@ -22,143 +22,143 @@
 
 > `optional` **d**: `number`
 
-定义于: [src/types/index.d.ts:21](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L21)
+定义于: [src/types/index.d.ts:21](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L21)
 
 ##### day?
 
 > `optional` **day**: `number`
 
-定义于: [src/types/index.d.ts:4](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L4)
+定义于: [src/types/index.d.ts:4](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L4)
 
 ##### days?
 
 > `optional` **days**: `number`
 
-定义于: [src/types/index.d.ts:12](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L12)
+定义于: [src/types/index.d.ts:12](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L12)
 
 ##### h?
 
 > `optional` **h**: `number`
 
-定义于: [src/types/index.d.ts:22](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L22)
+定义于: [src/types/index.d.ts:22](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L22)
 
 ##### hour?
 
 > `optional` **hour**: `number`
 
-定义于: [src/types/index.d.ts:5](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L5)
+定义于: [src/types/index.d.ts:5](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L5)
 
 ##### hours?
 
 > `optional` **hours**: `number`
 
-定义于: [src/types/index.d.ts:13](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L13)
+定义于: [src/types/index.d.ts:13](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L13)
 
 ##### m?
 
 > `optional` **m**: `number`
 
-定义于: [src/types/index.d.ts:23](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L23)
+定义于: [src/types/index.d.ts:23](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L23)
 
 ##### M?
 
 > `optional` **M**: `number`
 
-定义于: [src/types/index.d.ts:20](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L20)
+定义于: [src/types/index.d.ts:20](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L20)
 
 ##### millisecond?
 
 > `optional` **millisecond**: `number`
 
-定义于: [src/types/index.d.ts:8](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L8)
+定义于: [src/types/index.d.ts:8](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L8)
 
 ##### milliseconds?
 
 > `optional` **milliseconds**: `number`
 
-定义于: [src/types/index.d.ts:16](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L16)
+定义于: [src/types/index.d.ts:16](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L16)
 
 ##### minute?
 
 > `optional` **minute**: `number`
 
-定义于: [src/types/index.d.ts:6](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L6)
+定义于: [src/types/index.d.ts:6](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L6)
 
 ##### minutes?
 
 > `optional` **minutes**: `number`
 
-定义于: [src/types/index.d.ts:14](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L14)
+定义于: [src/types/index.d.ts:14](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L14)
 
 ##### month?
 
 > `optional` **month**: `number`
 
-定义于: [src/types/index.d.ts:3](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L3)
+定义于: [src/types/index.d.ts:3](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L3)
 
 ##### months?
 
 > `optional` **months**: `number`
 
-定义于: [src/types/index.d.ts:11](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L11)
+定义于: [src/types/index.d.ts:11](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L11)
 
 ##### ms?
 
 > `optional` **ms**: `number`
 
-定义于: [src/types/index.d.ts:25](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L25)
+定义于: [src/types/index.d.ts:25](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L25)
 
 ##### s?
 
 > `optional` **s**: `number`
 
-定义于: [src/types/index.d.ts:24](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L24)
+定义于: [src/types/index.d.ts:24](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L24)
 
 ##### second?
 
 > `optional` **second**: `number`
 
-定义于: [src/types/index.d.ts:7](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L7)
+定义于: [src/types/index.d.ts:7](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L7)
 
 ##### seconds?
 
 > `optional` **seconds**: `number`
 
-定义于: [src/types/index.d.ts:15](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L15)
+定义于: [src/types/index.d.ts:15](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L15)
 
 ##### y?
 
 > `optional` **y**: `number`
 
-定义于: [src/types/index.d.ts:19](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L19)
+定义于: [src/types/index.d.ts:19](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L19)
 
 ##### Y?
 
 > `optional` **Y**: `number`
 
-定义于: [src/types/index.d.ts:18](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L18)
+定义于: [src/types/index.d.ts:18](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L18)
 
 ##### year?
 
 > `optional` **year**: `number`
 
-定义于: [src/types/index.d.ts:2](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L2)
+定义于: [src/types/index.d.ts:2](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L2)
 
 ##### years?
 
 > `optional` **years**: `number`
 
-定义于: [src/types/index.d.ts:10](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L10)
+定义于: [src/types/index.d.ts:10](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L10)
 
 ***
 
 ### DateParsingObject
 
-定义于: [src/types/index.d.ts:39](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L39)
+定义于: [src/types/index.d.ts:39](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L39)
 
 #### 继承
 
-- [`DateAddingObject`](types.md#dateaddingobject)
+- [`DateAddingObject`](#dateaddingobject)
 
 #### 属性
 
@@ -166,233 +166,233 @@
 
 > `optional` **d**: `number`
 
-定义于: [src/types/index.d.ts:21](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L21)
+定义于: [src/types/index.d.ts:21](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L21)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`d`](types.md#d)
+[`DateAddingObject`](#dateaddingobject).[`d`](#d)
 
 ##### day?
 
 > `optional` **day**: `number`
 
-定义于: [src/types/index.d.ts:4](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L4)
+定义于: [src/types/index.d.ts:4](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L4)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`day`](types.md#day)
+[`DateAddingObject`](#dateaddingobject).[`day`](#day)
 
 ##### days?
 
 > `optional` **days**: `number`
 
-定义于: [src/types/index.d.ts:12](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L12)
+定义于: [src/types/index.d.ts:12](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L12)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`days`](types.md#days)
+[`DateAddingObject`](#dateaddingobject).[`days`](#days)
 
 ##### h?
 
 > `optional` **h**: `number`
 
-定义于: [src/types/index.d.ts:22](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L22)
+定义于: [src/types/index.d.ts:22](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L22)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`h`](types.md#h)
+[`DateAddingObject`](#dateaddingobject).[`h`](#h)
 
 ##### hour?
 
 > `optional` **hour**: `number`
 
-定义于: [src/types/index.d.ts:5](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L5)
+定义于: [src/types/index.d.ts:5](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L5)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`hour`](types.md#hour)
+[`DateAddingObject`](#dateaddingobject).[`hour`](#hour)
 
 ##### hours?
 
 > `optional` **hours**: `number`
 
-定义于: [src/types/index.d.ts:13](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L13)
+定义于: [src/types/index.d.ts:13](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L13)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`hours`](types.md#hours)
+[`DateAddingObject`](#dateaddingobject).[`hours`](#hours)
 
 ##### m?
 
 > `optional` **m**: `number`
 
-定义于: [src/types/index.d.ts:23](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L23)
+定义于: [src/types/index.d.ts:23](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L23)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`m`](types.md#m)
+[`DateAddingObject`](#dateaddingobject).[`m`](#m)
 
 ##### M?
 
 > `optional` **M**: `number`
 
-定义于: [src/types/index.d.ts:20](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L20)
+定义于: [src/types/index.d.ts:20](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L20)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`M`](types.md#m-1)
+[`DateAddingObject`](#dateaddingobject).[`M`](#m-1)
 
 ##### millisecond?
 
 > `optional` **millisecond**: `number`
 
-定义于: [src/types/index.d.ts:8](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L8)
+定义于: [src/types/index.d.ts:8](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L8)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`millisecond`](types.md#millisecond)
+[`DateAddingObject`](#dateaddingobject).[`millisecond`](#millisecond)
 
 ##### milliseconds?
 
 > `optional` **milliseconds**: `number`
 
-定义于: [src/types/index.d.ts:16](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L16)
+定义于: [src/types/index.d.ts:16](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L16)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`milliseconds`](types.md#milliseconds)
+[`DateAddingObject`](#dateaddingobject).[`milliseconds`](#milliseconds)
 
 ##### minute?
 
 > `optional` **minute**: `number`
 
-定义于: [src/types/index.d.ts:6](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L6)
+定义于: [src/types/index.d.ts:6](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L6)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`minute`](types.md#minute)
+[`DateAddingObject`](#dateaddingobject).[`minute`](#minute)
 
 ##### minutes?
 
 > `optional` **minutes**: `number`
 
-定义于: [src/types/index.d.ts:14](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L14)
+定义于: [src/types/index.d.ts:14](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L14)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`minutes`](types.md#minutes)
+[`DateAddingObject`](#dateaddingobject).[`minutes`](#minutes)
 
 ##### month?
 
 > `optional` **month**: `number`
 
-定义于: [src/types/index.d.ts:3](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L3)
+定义于: [src/types/index.d.ts:3](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L3)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`month`](types.md#month)
+[`DateAddingObject`](#dateaddingobject).[`month`](#month)
 
 ##### months?
 
 > `optional` **months**: `number`
 
-定义于: [src/types/index.d.ts:11](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L11)
+定义于: [src/types/index.d.ts:11](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L11)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`months`](types.md#months)
+[`DateAddingObject`](#dateaddingobject).[`months`](#months)
 
 ##### ms?
 
 > `optional` **ms**: `number`
 
-定义于: [src/types/index.d.ts:25](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L25)
+定义于: [src/types/index.d.ts:25](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L25)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`ms`](types.md#ms)
+[`DateAddingObject`](#dateaddingobject).[`ms`](#ms)
 
 ##### s?
 
 > `optional` **s**: `number`
 
-定义于: [src/types/index.d.ts:24](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L24)
+定义于: [src/types/index.d.ts:24](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L24)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`s`](types.md#s)
+[`DateAddingObject`](#dateaddingobject).[`s`](#s)
 
 ##### second?
 
 > `optional` **second**: `number`
 
-定义于: [src/types/index.d.ts:7](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L7)
+定义于: [src/types/index.d.ts:7](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L7)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`second`](types.md#second)
+[`DateAddingObject`](#dateaddingobject).[`second`](#second)
 
 ##### seconds?
 
 > `optional` **seconds**: `number`
 
-定义于: [src/types/index.d.ts:15](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L15)
+定义于: [src/types/index.d.ts:15](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L15)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`seconds`](types.md#seconds)
+[`DateAddingObject`](#dateaddingobject).[`seconds`](#seconds)
 
 ##### utcOffset?
 
 > `optional` **utcOffset**: `number`
 
-定义于: [src/types/index.d.ts:40](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L40)
+定义于: [src/types/index.d.ts:40](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L40)
 
 ##### y?
 
 > `optional` **y**: `number`
 
-定义于: [src/types/index.d.ts:19](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L19)
+定义于: [src/types/index.d.ts:19](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L19)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`y`](types.md#y)
+[`DateAddingObject`](#dateaddingobject).[`y`](#y)
 
 ##### Y?
 
 > `optional` **Y**: `number`
 
-定义于: [src/types/index.d.ts:18](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L18)
+定义于: [src/types/index.d.ts:18](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L18)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`Y`](types.md#y-1)
+[`DateAddingObject`](#dateaddingobject).[`Y`](#y-1)
 
 ##### year?
 
 > `optional` **year**: `number`
 
-定义于: [src/types/index.d.ts:2](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L2)
+定义于: [src/types/index.d.ts:2](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L2)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`year`](types.md#year)
+[`DateAddingObject`](#dateaddingobject).[`year`](#year)
 
 ##### years?
 
 > `optional` **years**: `number`
 
-定义于: [src/types/index.d.ts:10](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L10)
+定义于: [src/types/index.d.ts:10](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L10)
 
 ###### 继承自
 
-[`DateAddingObject`](types.md#dateaddingobject).[`years`](types.md#years)
+[`DateAddingObject`](#dateaddingobject).[`years`](#years)
 
 ***
 
 ### IDateChain
 
-定义于: [src/types/index.d.ts:117](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L117)
+定义于: [src/types/index.d.ts:117](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L117)
 
 #### 方法
 
@@ -402,13 +402,13 @@
 
 > **add**(`input`): `this`
 
-定义于: [src/types/index.d.ts:118](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L118)
+定义于: [src/types/index.d.ts:118](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L118)
 
 ###### 参数
 
 ###### input
 
-[`DateAddingObject`](types.md#dateaddingobject)
+[`DateAddingObject`](#dateaddingobject)
 
 ###### 返回
 
@@ -418,7 +418,7 @@
 
 > **add**(`num`, `unit`): `this`
 
-定义于: [src/types/index.d.ts:119](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L119)
+定义于: [src/types/index.d.ts:119](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L119)
 
 ###### 参数
 
@@ -428,7 +428,7 @@
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -438,7 +438,7 @@
 
 > **addDays**(`days`): `this`
 
-定义于: [src/types/index.d.ts:120](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L120)
+定义于: [src/types/index.d.ts:120](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L120)
 
 ###### 参数
 
@@ -454,7 +454,7 @@
 
 > **addHours**(`hours`): `this`
 
-定义于: [src/types/index.d.ts:121](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L121)
+定义于: [src/types/index.d.ts:121](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L121)
 
 ###### 参数
 
@@ -470,7 +470,7 @@
 
 > **addMilliseconds**(`ms`): `this`
 
-定义于: [src/types/index.d.ts:122](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L122)
+定义于: [src/types/index.d.ts:122](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L122)
 
 ###### 参数
 
@@ -486,7 +486,7 @@
 
 > **addMinutes**(`minutes`): `this`
 
-定义于: [src/types/index.d.ts:123](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L123)
+定义于: [src/types/index.d.ts:123](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L123)
 
 ###### 参数
 
@@ -502,7 +502,7 @@
 
 > **addMonths**(`months`): `this`
 
-定义于: [src/types/index.d.ts:124](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L124)
+定义于: [src/types/index.d.ts:124](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L124)
 
 ###### 参数
 
@@ -518,7 +518,7 @@
 
 > **addYears**(`years`): `this`
 
-定义于: [src/types/index.d.ts:125](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L125)
+定义于: [src/types/index.d.ts:125](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L125)
 
 ###### 参数
 
@@ -532,13 +532,13 @@
 
 ##### clone()
 
-> **clone**(): [`IDateChain`](types.md#idatechain)
+> **clone**(): [`IDateChain`](#idatechain)
 
-定义于: [src/types/index.d.ts:188](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L188)
+定义于: [src/types/index.d.ts:188](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L188)
 
 ###### 返回
 
-[`IDateChain`](types.md#idatechain)
+[`IDateChain`](#idatechain)
 
 ##### date()
 
@@ -546,7 +546,7 @@
 
 > **date**(`date`): `this`
 
-定义于: [src/types/index.d.ts:164](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L164)
+定义于: [src/types/index.d.ts:164](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L164)
 
 ###### 参数
 
@@ -562,7 +562,7 @@
 
 > **date**(): `number`
 
-定义于: [src/types/index.d.ts:165](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L165)
+定义于: [src/types/index.d.ts:165](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L165)
 
 ###### 返回
 
@@ -574,7 +574,7 @@
 
 > **day**(`day`): `this`
 
-定义于: [src/types/index.d.ts:166](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L166)
+定义于: [src/types/index.d.ts:166](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L166)
 
 ###### 参数
 
@@ -590,7 +590,7 @@
 
 > **day**(): `number`
 
-定义于: [src/types/index.d.ts:167](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L167)
+定义于: [src/types/index.d.ts:167](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L167)
 
 ###### 返回
 
@@ -602,7 +602,7 @@
 
 > **dayOfYear**(): `number`
 
-定义于: [src/types/index.d.ts:126](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L126)
+定义于: [src/types/index.d.ts:126](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L126)
 
 ###### 返回
 
@@ -612,7 +612,7 @@
 
 > **dayOfYear**(`val`): `this`
 
-定义于: [src/types/index.d.ts:127](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L127)
+定义于: [src/types/index.d.ts:127](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L127)
 
 ###### 参数
 
@@ -628,7 +628,7 @@
 
 > **daysInMonth**(): `number`
 
-定义于: [src/types/index.d.ts:128](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L128)
+定义于: [src/types/index.d.ts:128](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L128)
 
 ###### 返回
 
@@ -638,17 +638,17 @@
 
 > **diff**(`input`, `unit`, `asFloat`?): `number`
 
-定义于: [src/types/index.d.ts:129](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L129)
+定义于: [src/types/index.d.ts:129](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L129)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### asFloat?
 
@@ -662,13 +662,13 @@
 
 > **diffInDays**(`input`, `asFloat`?): `number`
 
-定义于: [src/types/index.d.ts:130](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L130)
+定义于: [src/types/index.d.ts:130](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L130)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -682,13 +682,13 @@
 
 > **diffInHours**(`input`, `asFloat`?): `number`
 
-定义于: [src/types/index.d.ts:131](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L131)
+定义于: [src/types/index.d.ts:131](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L131)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -702,13 +702,13 @@
 
 > **diffInMilliseconds**(`input`, `asFloat`?): `number`
 
-定义于: [src/types/index.d.ts:132](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L132)
+定义于: [src/types/index.d.ts:132](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L132)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -722,13 +722,13 @@
 
 > **diffInMinutes**(`input`, `asFloat`?): `number`
 
-定义于: [src/types/index.d.ts:133](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L133)
+定义于: [src/types/index.d.ts:133](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L133)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -742,13 +742,13 @@
 
 > **diffInMonths**(`input`, `asFloat`?): `number`
 
-定义于: [src/types/index.d.ts:134](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L134)
+定义于: [src/types/index.d.ts:134](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L134)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -762,13 +762,13 @@
 
 > **diffInSeconds**(`input`, `asFloat`?): `number`
 
-定义于: [src/types/index.d.ts:135](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L135)
+定义于: [src/types/index.d.ts:135](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L135)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -782,13 +782,13 @@
 
 > **diffInYears**(`input`, `asFloat`?): `number`
 
-定义于: [src/types/index.d.ts:136](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L136)
+定义于: [src/types/index.d.ts:136](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L136)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -802,13 +802,13 @@
 
 > **endOf**(`unit`): `this`
 
-定义于: [src/types/index.d.ts:137](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L137)
+定义于: [src/types/index.d.ts:137](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L137)
 
 ###### 参数
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -818,7 +818,7 @@
 
 > **format**(`formatString`?): `string`
 
-定义于: [src/types/index.d.ts:138](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L138)
+定义于: [src/types/index.d.ts:138](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L138)
 
 ###### 参数
 
@@ -834,13 +834,13 @@
 
 > **get**(`unit`): `number`
 
-定义于: [src/types/index.d.ts:139](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L139)
+定义于: [src/types/index.d.ts:139](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L139)
 
 ###### 参数
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -852,7 +852,7 @@
 
 > **hour**(`hour`): `this`
 
-定义于: [src/types/index.d.ts:168](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L168)
+定义于: [src/types/index.d.ts:168](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L168)
 
 ###### 参数
 
@@ -868,7 +868,7 @@
 
 > **hour**(): `number`
 
-定义于: [src/types/index.d.ts:169](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L169)
+定义于: [src/types/index.d.ts:169](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L169)
 
 ###### 返回
 
@@ -880,7 +880,7 @@
 
 > **hours**(`hours`): `this`
 
-定义于: [src/types/index.d.ts:179](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L179)
+定义于: [src/types/index.d.ts:179](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L179)
 
 ###### 参数
 
@@ -896,7 +896,7 @@
 
 > **hours**(): `number`
 
-定义于: [src/types/index.d.ts:180](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L180)
+定义于: [src/types/index.d.ts:180](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L180)
 
 ###### 返回
 
@@ -906,17 +906,17 @@
 
 > **isAfter**(`input`, `unit`): `boolean`
 
-定义于: [src/types/index.d.ts:140](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L140)
+定义于: [src/types/index.d.ts:140](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L140)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -926,17 +926,17 @@
 
 > **isBefore**(`input`, `unit`): `boolean`
 
-定义于: [src/types/index.d.ts:141](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L141)
+定义于: [src/types/index.d.ts:141](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L141)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -946,21 +946,21 @@
 
 > **isBetween**(`from`, `to`, `unit`, `inclusivity`?): `boolean`
 
-定义于: [src/types/index.d.ts:142](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L142)
+定义于: [src/types/index.d.ts:142](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L142)
 
 ###### 参数
 
 ###### from
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### to
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### inclusivity?
 
@@ -974,7 +974,7 @@
 
 > **isLeapYear**(): `boolean`
 
-定义于: [src/types/index.d.ts:143](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L143)
+定义于: [src/types/index.d.ts:143](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L143)
 
 ###### 返回
 
@@ -984,17 +984,17 @@
 
 > **isSame**(`input`, `unit`): `boolean`
 
-定义于: [src/types/index.d.ts:144](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L144)
+定义于: [src/types/index.d.ts:144](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L144)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -1004,17 +1004,17 @@
 
 > **isSameOrAfter**(`input`, `unit`): `boolean`
 
-定义于: [src/types/index.d.ts:145](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L145)
+定义于: [src/types/index.d.ts:145](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L145)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -1024,17 +1024,17 @@
 
 > **isSameOrBefore**(`input`, `unit`): `boolean`
 
-定义于: [src/types/index.d.ts:146](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L146)
+定义于: [src/types/index.d.ts:146](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L146)
 
 ###### 参数
 
 ###### input
 
-[`ChainInput`](types.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -1044,7 +1044,7 @@
 
 > **isValid**(): `boolean`
 
-定义于: [src/types/index.d.ts:147](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L147)
+定义于: [src/types/index.d.ts:147](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L147)
 
 ###### 返回
 
@@ -1056,7 +1056,7 @@
 
 > **millisecond**(`millisecond`): `this`
 
-定义于: [src/types/index.d.ts:174](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L174)
+定义于: [src/types/index.d.ts:174](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L174)
 
 ###### 参数
 
@@ -1072,7 +1072,7 @@
 
 > **millisecond**(): `number`
 
-定义于: [src/types/index.d.ts:175](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L175)
+定义于: [src/types/index.d.ts:175](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L175)
 
 ###### 返回
 
@@ -1084,7 +1084,7 @@
 
 > **milliseconds**(`milliseconds`): `this`
 
-定义于: [src/types/index.d.ts:185](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L185)
+定义于: [src/types/index.d.ts:185](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L185)
 
 ###### 参数
 
@@ -1100,7 +1100,7 @@
 
 > **milliseconds**(): `number`
 
-定义于: [src/types/index.d.ts:186](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L186)
+定义于: [src/types/index.d.ts:186](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L186)
 
 ###### 返回
 
@@ -1112,7 +1112,7 @@
 
 > **minute**(`minute`): `this`
 
-定义于: [src/types/index.d.ts:170](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L170)
+定义于: [src/types/index.d.ts:170](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L170)
 
 ###### 参数
 
@@ -1128,7 +1128,7 @@
 
 > **minute**(): `number`
 
-定义于: [src/types/index.d.ts:171](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L171)
+定义于: [src/types/index.d.ts:171](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L171)
 
 ###### 返回
 
@@ -1140,7 +1140,7 @@
 
 > **minutes**(`minutes`): `this`
 
-定义于: [src/types/index.d.ts:181](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L181)
+定义于: [src/types/index.d.ts:181](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L181)
 
 ###### 参数
 
@@ -1156,7 +1156,7 @@
 
 > **minutes**(): `number`
 
-定义于: [src/types/index.d.ts:182](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L182)
+定义于: [src/types/index.d.ts:182](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L182)
 
 ###### 返回
 
@@ -1168,7 +1168,7 @@
 
 > **month**(`month`): `this`
 
-定义于: [src/types/index.d.ts:162](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L162)
+定义于: [src/types/index.d.ts:162](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L162)
 
 ###### 参数
 
@@ -1184,7 +1184,7 @@
 
 > **month**(): `number`
 
-定义于: [src/types/index.d.ts:163](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L163)
+定义于: [src/types/index.d.ts:163](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L163)
 
 ###### 返回
 
@@ -1196,7 +1196,7 @@
 
 > **second**(`second`): `this`
 
-定义于: [src/types/index.d.ts:172](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L172)
+定义于: [src/types/index.d.ts:172](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L172)
 
 ###### 参数
 
@@ -1212,7 +1212,7 @@
 
 > **second**(): `number`
 
-定义于: [src/types/index.d.ts:173](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L173)
+定义于: [src/types/index.d.ts:173](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L173)
 
 ###### 返回
 
@@ -1224,7 +1224,7 @@
 
 > **seconds**(`seconds`): `this`
 
-定义于: [src/types/index.d.ts:183](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L183)
+定义于: [src/types/index.d.ts:183](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L183)
 
 ###### 参数
 
@@ -1240,7 +1240,7 @@
 
 > **seconds**(): `number`
 
-定义于: [src/types/index.d.ts:184](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L184)
+定义于: [src/types/index.d.ts:184](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L184)
 
 ###### 返回
 
@@ -1250,13 +1250,13 @@
 
 > **set**(`unit`, `val`): `this`
 
-定义于: [src/types/index.d.ts:148](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L148)
+定义于: [src/types/index.d.ts:148](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L148)
 
 ###### 参数
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### val
 
@@ -1270,13 +1270,13 @@
 
 > **startOf**(`unit`): `this`
 
-定义于: [src/types/index.d.ts:149](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L149)
+定义于: [src/types/index.d.ts:149](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L149)
 
 ###### 参数
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -1286,7 +1286,7 @@
 
 > **subDays**(`days`): `this`
 
-定义于: [src/types/index.d.ts:150](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L150)
+定义于: [src/types/index.d.ts:150](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L150)
 
 ###### 参数
 
@@ -1302,7 +1302,7 @@
 
 > **subHours**(`hours`): `this`
 
-定义于: [src/types/index.d.ts:151](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L151)
+定义于: [src/types/index.d.ts:151](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L151)
 
 ###### 参数
 
@@ -1318,7 +1318,7 @@
 
 > **subMilliseconds**(`time`): `this`
 
-定义于: [src/types/index.d.ts:152](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L152)
+定义于: [src/types/index.d.ts:152](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L152)
 
 ###### 参数
 
@@ -1334,7 +1334,7 @@
 
 > **subMinutes**(`minutes`): `this`
 
-定义于: [src/types/index.d.ts:153](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L153)
+定义于: [src/types/index.d.ts:153](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L153)
 
 ###### 参数
 
@@ -1350,7 +1350,7 @@
 
 > **subMonths**(`months`): `this`
 
-定义于: [src/types/index.d.ts:154](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L154)
+定义于: [src/types/index.d.ts:154](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L154)
 
 ###### 参数
 
@@ -1366,7 +1366,7 @@
 
 > **subSeconds**(`seconds`): `this`
 
-定义于: [src/types/index.d.ts:155](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L155)
+定义于: [src/types/index.d.ts:155](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L155)
 
 ###### 参数
 
@@ -1384,13 +1384,13 @@
 
 > **subtract**(`input`): `this`
 
-定义于: [src/types/index.d.ts:156](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L156)
+定义于: [src/types/index.d.ts:156](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L156)
 
 ###### 参数
 
 ###### input
 
-`number` | [`DateAddingObject`](types.md#dateaddingobject)
+`number` | [`DateAddingObject`](#dateaddingobject)
 
 ###### 返回
 
@@ -1400,7 +1400,7 @@
 
 > **subtract**(`num`, `unit`): `this`
 
-定义于: [src/types/index.d.ts:157](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L157)
+定义于: [src/types/index.d.ts:157](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L157)
 
 ###### 参数
 
@@ -1410,7 +1410,7 @@
 
 ###### unit
 
-[`Unit`](types.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -1420,7 +1420,7 @@
 
 > **subYears**(`years`): `this`
 
-定义于: [src/types/index.d.ts:158](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L158)
+定义于: [src/types/index.d.ts:158](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L158)
 
 ###### 参数
 
@@ -1438,7 +1438,7 @@
 
 > **time**(`time`): `this`
 
-定义于: [src/types/index.d.ts:176](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L176)
+定义于: [src/types/index.d.ts:176](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L176)
 
 ###### 参数
 
@@ -1454,7 +1454,7 @@
 
 > **time**(): `number`
 
-定义于: [src/types/index.d.ts:177](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L177)
+定义于: [src/types/index.d.ts:177](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L177)
 
 ###### 返回
 
@@ -1464,7 +1464,7 @@
 
 > **toArray**(): `number`[]
 
-定义于: [src/types/index.d.ts:189](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L189)
+定义于: [src/types/index.d.ts:189](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L189)
 
 ###### 返回
 
@@ -1474,7 +1474,7 @@
 
 > **toDate**(): `Date`
 
-定义于: [src/types/index.d.ts:190](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L190)
+定义于: [src/types/index.d.ts:190](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L190)
 
 ###### 返回
 
@@ -1484,7 +1484,7 @@
 
 > **toISOString**(): `string`
 
-定义于: [src/types/index.d.ts:191](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L191)
+定义于: [src/types/index.d.ts:191](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L191)
 
 ###### 返回
 
@@ -1494,7 +1494,7 @@
 
 > **toJSON**(): `string`
 
-定义于: [src/types/index.d.ts:192](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L192)
+定义于: [src/types/index.d.ts:192](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L192)
 
 ###### 返回
 
@@ -1504,7 +1504,7 @@
 
 > **toString**(): `string`
 
-定义于: [src/types/index.d.ts:193](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L193)
+定义于: [src/types/index.d.ts:193](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L193)
 
 ###### 返回
 
@@ -1514,7 +1514,7 @@
 
 > **valueOf**(): `number`
 
-定义于: [src/types/index.d.ts:194](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L194)
+定义于: [src/types/index.d.ts:194](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L194)
 
 ###### 返回
 
@@ -1526,7 +1526,7 @@
 
 > **year**(`year`): `this`
 
-定义于: [src/types/index.d.ts:160](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L160)
+定义于: [src/types/index.d.ts:160](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L160)
 
 ###### 参数
 
@@ -1542,7 +1542,7 @@
 
 > **year**(): `number`
 
-定义于: [src/types/index.d.ts:161](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L161)
+定义于: [src/types/index.d.ts:161](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L161)
 
 ###### 返回
 
@@ -1552,7 +1552,7 @@
 
 ### InnerDateParsingObject
 
-定义于: [src/types/index.d.ts:28](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L28)
+定义于: [src/types/index.d.ts:28](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L28)
 
 #### 属性
 
@@ -1560,55 +1560,55 @@
 
 > `optional` **date**: `number`
 
-定义于: [src/types/index.d.ts:31](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L31)
+定义于: [src/types/index.d.ts:31](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L31)
 
 ##### hour?
 
 > `optional` **hour**: `number`
 
-定义于: [src/types/index.d.ts:32](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L32)
+定义于: [src/types/index.d.ts:32](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L32)
 
 ##### millisecond?
 
 > `optional` **millisecond**: `number`
 
-定义于: [src/types/index.d.ts:35](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L35)
+定义于: [src/types/index.d.ts:35](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L35)
 
 ##### minute?
 
 > `optional` **minute**: `number`
 
-定义于: [src/types/index.d.ts:33](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L33)
+定义于: [src/types/index.d.ts:33](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L33)
 
 ##### month?
 
 > `optional` **month**: `number`
 
-定义于: [src/types/index.d.ts:30](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L30)
+定义于: [src/types/index.d.ts:30](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L30)
 
 ##### second?
 
 > `optional` **second**: `number`
 
-定义于: [src/types/index.d.ts:34](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L34)
+定义于: [src/types/index.d.ts:34](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L34)
 
 ##### utcOffset?
 
 > `optional` **utcOffset**: `number`
 
-定义于: [src/types/index.d.ts:36](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L36)
+定义于: [src/types/index.d.ts:36](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L36)
 
 ##### year?
 
 > `optional` **year**: `number`
 
-定义于: [src/types/index.d.ts:29](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L29)
+定义于: [src/types/index.d.ts:29](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L29)
 
 ***
 
 ### InnerUnits
 
-定义于: [src/types/index.d.ts:55](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L55)
+定义于: [src/types/index.d.ts:55](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L55)
 
 #### 属性
 
@@ -1616,7 +1616,7 @@
 
 > **DATE**: `"date"`
 
-定义于: [src/types/index.d.ts:74](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L74)
+定义于: [src/types/index.d.ts:74](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L74)
 
 Date unit (日单位)
 
@@ -1624,7 +1624,7 @@ Date unit (日单位)
 
 > **DAY**: `"day"`
 
-定义于: [src/types/index.d.ts:79](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L79)
+定义于: [src/types/index.d.ts:79](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L79)
 
 Day unit (日单位)
 
@@ -1632,7 +1632,7 @@ Day unit (日单位)
 
 > **HOUR**: `"hour"`
 
-定义于: [src/types/index.d.ts:84](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L84)
+定义于: [src/types/index.d.ts:84](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L84)
 
 Hour unit (时单位)
 
@@ -1640,7 +1640,7 @@ Hour unit (时单位)
 
 > **MILLISECOND**: `"millisecond"`
 
-定义于: [src/types/index.d.ts:99](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L99)
+定义于: [src/types/index.d.ts:99](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L99)
 
 Millisecond unit (毫秒单位)
 
@@ -1648,7 +1648,7 @@ Millisecond unit (毫秒单位)
 
 > **MINUTE**: `"minute"`
 
-定义于: [src/types/index.d.ts:89](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L89)
+定义于: [src/types/index.d.ts:89](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L89)
 
 Minute unit (分单位)
 
@@ -1656,7 +1656,7 @@ Minute unit (分单位)
 
 > **MONTH**: `"month"`
 
-定义于: [src/types/index.d.ts:69](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L69)
+定义于: [src/types/index.d.ts:69](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L69)
 
 Month unit (月单位)
 
@@ -1664,7 +1664,7 @@ Month unit (月单位)
 
 > **SECOND**: `"second"`
 
-定义于: [src/types/index.d.ts:94](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L94)
+定义于: [src/types/index.d.ts:94](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L94)
 
 Second unit (秒单位)
 
@@ -1672,7 +1672,7 @@ Second unit (秒单位)
 
 > **TIME**: `"time"`
 
-定义于: [src/types/index.d.ts:59](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L59)
+定义于: [src/types/index.d.ts:59](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L59)
 
 Time unit (时间单位)
 
@@ -1680,7 +1680,7 @@ Time unit (时间单位)
 
 > **UTC\_OFFSET**: `"utcOffset"`
 
-定义于: [src/types/index.d.ts:104](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L104)
+定义于: [src/types/index.d.ts:104](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L104)
 
 UTC offset unit (时区单位)
 
@@ -1688,7 +1688,7 @@ UTC offset unit (时区单位)
 
 > **YEAR**: `"year"`
 
-定义于: [src/types/index.d.ts:64](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L64)
+定义于: [src/types/index.d.ts:64](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L64)
 
 Year unit (年单位)
 
@@ -1696,17 +1696,17 @@ Year unit (年单位)
 
 ### ChainInput
 
-> **ChainInput**: [`DateInput`](types.md#dateinput) \| [`IDateChain`](types.md#idatechain)
+> **ChainInput** = [`DateInput`](#dateinput) \| [`IDateChain`](#idatechain)
 
-定义于: [src/types/index.d.ts:115](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L115)
+定义于: [src/types/index.d.ts:115](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L115)
 
 ***
 
 ### DateInput
 
-> **DateInput**: `string` \| `number` \| `Date` \| `number`[] \| [`DateParsingObject`](types.md#dateparsingobject)
+> **DateInput** = `string` \| `number` \| `Date` \| `number`[] \| [`DateParsingObject`](#dateparsingobject)
 
-定义于: [src/types/index.d.ts:47](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L47)
+定义于: [src/types/index.d.ts:47](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L47)
 
 Date input type
 日期输入类型
@@ -1715,9 +1715,9 @@ Date input type
 
 ### InnerUnit
 
-> **InnerUnit**: `"year"` \| `"month"` \| `"date"` \| `"day"` \| `"hour"` \| `"minute"` \| `"second"` \| `"millisecond"`
+> **InnerUnit** = `"year"` \| `"month"` \| `"date"` \| `"day"` \| `"hour"` \| `"minute"` \| `"second"` \| `"millisecond"`
 
-定义于: [src/types/index.d.ts:53](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L53)
+定义于: [src/types/index.d.ts:53](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L53)
 
 Internal date unit
 内部日期单位
@@ -1726,9 +1726,9 @@ Internal date unit
 
 ### Unit
 
-> **Unit**: `"Y"` \| `"y"` \| `"M"` \| `"D"` \| `"d"` \| `"h"` \| `"m"` \| `"s"` \| `"ms"` \| [`InnerUnit`](types.md#innerunit) \| `"years"` \| `"months"` \| `"dates"` \| `"days"` \| `"hours"` \| `"minutes"` \| `"seconds"` \| `"milliseconds"`
+> **Unit** = `"Y"` \| `"y"` \| `"M"` \| `"D"` \| `"d"` \| `"h"` \| `"m"` \| `"s"` \| `"ms"` \| [`InnerUnit`](#innerunit) \| `"years"` \| `"months"` \| `"dates"` \| `"days"` \| `"hours"` \| `"minutes"` \| `"seconds"` \| `"milliseconds"`
 
-定义于: [src/types/index.d.ts:111](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/types/index.d.ts#L111)
+定义于: [src/types/index.d.ts:111](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/types/index.d.ts#L111)
 
 Date unit
 日期单位

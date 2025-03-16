@@ -14,7 +14,7 @@
 
 #### 继承于
 
-- [`DateParsingObject`](chain.md#dateparsingobject)
+- [`DateParsingObject`](#dateparsingobject)
 
 #### 属性
 
@@ -158,7 +158,7 @@
 
 #### 继承
 
-- [`DateAddingObject`](chain.md#dateaddingobject)
+- [`DateAddingObject`](#dateaddingobject)
 
 #### 属性
 
@@ -170,7 +170,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`d`](chain.md#d)
+[`DateAddingObject`](#dateaddingobject).[`d`](#d)
 
 ##### day?
 
@@ -180,7 +180,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`day`](chain.md#day)
+[`DateAddingObject`](#dateaddingobject).[`day`](#day)
 
 ##### days?
 
@@ -190,7 +190,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`days`](chain.md#days)
+[`DateAddingObject`](#dateaddingobject).[`days`](#days)
 
 ##### h?
 
@@ -200,7 +200,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`h`](chain.md#h)
+[`DateAddingObject`](#dateaddingobject).[`h`](#h)
 
 ##### hour?
 
@@ -210,7 +210,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`hour`](chain.md#hour)
+[`DateAddingObject`](#dateaddingobject).[`hour`](#hour)
 
 ##### hours?
 
@@ -220,7 +220,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`hours`](chain.md#hours)
+[`DateAddingObject`](#dateaddingobject).[`hours`](#hours)
 
 ##### m?
 
@@ -230,7 +230,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`m`](chain.md#m)
+[`DateAddingObject`](#dateaddingobject).[`m`](#m)
 
 ##### M?
 
@@ -240,7 +240,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`M`](chain.md#m-1)
+[`DateAddingObject`](#dateaddingobject).[`M`](#m-1)
 
 ##### millisecond?
 
@@ -250,7 +250,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`millisecond`](chain.md#millisecond)
+[`DateAddingObject`](#dateaddingobject).[`millisecond`](#millisecond)
 
 ##### milliseconds?
 
@@ -260,7 +260,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`milliseconds`](chain.md#milliseconds)
+[`DateAddingObject`](#dateaddingobject).[`milliseconds`](#milliseconds)
 
 ##### minute?
 
@@ -270,7 +270,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`minute`](chain.md#minute)
+[`DateAddingObject`](#dateaddingobject).[`minute`](#minute)
 
 ##### minutes?
 
@@ -280,7 +280,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`minutes`](chain.md#minutes)
+[`DateAddingObject`](#dateaddingobject).[`minutes`](#minutes)
 
 ##### month?
 
@@ -290,7 +290,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`month`](chain.md#month)
+[`DateAddingObject`](#dateaddingobject).[`month`](#month)
 
 ##### months?
 
@@ -300,7 +300,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`months`](chain.md#months)
+[`DateAddingObject`](#dateaddingobject).[`months`](#months)
 
 ##### ms?
 
@@ -310,7 +310,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`ms`](chain.md#ms)
+[`DateAddingObject`](#dateaddingobject).[`ms`](#ms)
 
 ##### s?
 
@@ -320,7 +320,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`s`](chain.md#s)
+[`DateAddingObject`](#dateaddingobject).[`s`](#s)
 
 ##### second?
 
@@ -330,7 +330,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`second`](chain.md#second)
+[`DateAddingObject`](#dateaddingobject).[`second`](#second)
 
 ##### seconds?
 
@@ -340,7 +340,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`seconds`](chain.md#seconds)
+[`DateAddingObject`](#dateaddingobject).[`seconds`](#seconds)
 
 ##### utcOffset?
 
@@ -356,7 +356,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`y`](chain.md#y)
+[`DateAddingObject`](#dateaddingobject).[`y`](#y)
 
 ##### Y?
 
@@ -366,7 +366,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`Y`](chain.md#y-1)
+[`DateAddingObject`](#dateaddingobject).[`Y`](#y-1)
 
 ##### year?
 
@@ -376,7 +376,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`year`](chain.md#year)
+[`DateAddingObject`](#dateaddingobject).[`year`](#year)
 
 ##### years?
 
@@ -386,7 +386,7 @@
 
 ###### 继承自
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`years`](chain.md#years)
+[`DateAddingObject`](#dateaddingobject).[`years`](#years)
 
 ***
 
@@ -408,7 +408,7 @@
 
 ###### input
 
-[`DateAddingObject`](chain.md#dateaddingobject)
+[`DateAddingObject`](#dateaddingobject)
 
 ###### 返回
 
@@ -428,7 +428,7 @@
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -532,13 +532,13 @@
 
 ##### clone()
 
-> **clone**(): [`IDateChain`](chain.md#idatechain)
+> **clone**(): [`IDateChain`](#idatechain)
 
 定义于: dist/types/index.d.ts:188
 
 ###### 返回
 
-[`IDateChain`](chain.md#idatechain)
+[`IDateChain`](#idatechain)
 
 ##### date()
 
@@ -644,11 +644,11 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### asFloat?
 
@@ -668,7 +668,7 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -688,7 +688,7 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -708,7 +708,7 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -728,7 +728,7 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -748,7 +748,7 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -768,7 +768,7 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -788,7 +788,7 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -808,7 +808,7 @@
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -840,7 +840,7 @@
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -912,11 +912,11 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -932,11 +932,11 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -952,15 +952,15 @@
 
 ###### from
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### to
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### inclusivity?
 
@@ -990,11 +990,11 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -1010,11 +1010,11 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -1030,11 +1030,11 @@
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -1256,7 +1256,7 @@
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### val
 
@@ -1276,7 +1276,7 @@
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -1390,7 +1390,7 @@
 
 ###### input
 
-`number` | [`DateAddingObject`](chain.md#dateaddingobject)
+`number` | [`DateAddingObject`](#dateaddingobject)
 
 ###### 返回
 
@@ -1410,7 +1410,7 @@
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### 返回
 
@@ -1696,7 +1696,7 @@ Year unit (年单位)
 
 ### ChainInput
 
-> **ChainInput**: [`DateInput`](chain.md#dateinput) \| [`IDateChain`](chain.md#idatechain)
+> **ChainInput** = [`DateInput`](#dateinput) \| [`IDateChain`](#idatechain)
 
 定义于: dist/types/index.d.ts:115
 
@@ -1704,7 +1704,7 @@ Year unit (年单位)
 
 ### DateInput
 
-> **DateInput**: `string` \| `number` \| `Date` \| `number`[] \| [`DateParsingObject`](chain.md#dateparsingobject)
+> **DateInput** = `string` \| `number` \| `Date` \| `number`[] \| [`DateParsingObject`](#dateparsingobject)
 
 定义于: dist/types/index.d.ts:47
 
@@ -1715,7 +1715,7 @@ Date input type
 
 ### InnerUnit
 
-> **InnerUnit**: `"year"` \| `"month"` \| `"date"` \| `"day"` \| `"hour"` \| `"minute"` \| `"second"` \| `"millisecond"`
+> **InnerUnit** = `"year"` \| `"month"` \| `"date"` \| `"day"` \| `"hour"` \| `"minute"` \| `"second"` \| `"millisecond"`
 
 定义于: dist/types/index.d.ts:53
 
@@ -1726,7 +1726,7 @@ Internal date unit
 
 ### Unit
 
-> **Unit**: `"Y"` \| `"y"` \| `"M"` \| `"D"` \| `"d"` \| `"h"` \| `"m"` \| `"s"` \| `"ms"` \| [`InnerUnit`](chain.md#innerunit) \| `"years"` \| `"months"` \| `"dates"` \| `"days"` \| `"hours"` \| `"minutes"` \| `"seconds"` \| `"milliseconds"`
+> **Unit** = `"Y"` \| `"y"` \| `"M"` \| `"D"` \| `"d"` \| `"h"` \| `"m"` \| `"s"` \| `"ms"` \| [`InnerUnit`](#innerunit) \| `"years"` \| `"months"` \| `"dates"` \| `"days"` \| `"hours"` \| `"minutes"` \| `"seconds"` \| `"milliseconds"`
 
 定义于: dist/types/index.d.ts:111
 
@@ -1737,7 +1737,7 @@ Date unit
 
 ### units
 
-> `const` **units**: [`InnerUnits`](chain.md#innerunits)
+> `const` **units**: [`InnerUnits`](#innerunits)
 
 定义于: dist/units.d.ts:2
 
@@ -1759,7 +1759,7 @@ Date unit
 
 ###### input
 
-`number` | [`DateAddingObject`](chain.md#dateaddingobject)
+`number` | [`DateAddingObject`](#dateaddingobject)
 
 ##### 返回
 
@@ -1783,7 +1783,7 @@ Date unit
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ##### 返回
 
@@ -2073,7 +2073,7 @@ console.log(originalDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' 
 
 > **chain**(`input`, `format`?): [`IDateChain`](types.md#idatechain)
 
-定义于: [src/chain.ts:143](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/chain.ts#L143)
+定义于: [src/chain.ts:143](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/chain.ts#L143)
 
 #### 参数
 
@@ -2225,13 +2225,13 @@ The first date. (第一个日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The second date. (第二个日期。)
 
 ##### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to calculate the difference in
 (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
@@ -2299,7 +2299,7 @@ console.log(msDiff); // Outputs: 31536000000 (输出: 31536000000)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2325,7 +2325,7 @@ console.log(msDiff); // Outputs: 31536000000 (输出: 31536000000)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2351,7 +2351,7 @@ console.log(msDiff); // Outputs: 31536000000 (输出: 31536000000)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2377,7 +2377,7 @@ console.log(msDiff); // Outputs: 31536000000 (输出: 31536000000)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2403,7 +2403,7 @@ console.log(msDiff); // Outputs: 31536000000 (输出: 31536000000)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2429,7 +2429,7 @@ console.log(msDiff); // Outputs: 31536000000 (输出: 31536000000)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2455,7 +2455,7 @@ console.log(msDiff); // Outputs: 31536000000 (输出: 31536000000)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2486,7 +2486,7 @@ The date to set to the end of the specified unit. (要设置为指定时间单�
 
 ##### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to set the end of (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second').
 (要设置结束时间的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'。)
@@ -2672,13 +2672,13 @@ The date to compare. (要比较的日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The date or time unit to compare against. (要比较的日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -2756,13 +2756,13 @@ The date to compare. (要比较的日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The date or time unit to compare against. (要比较的日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -2840,19 +2840,19 @@ The date to check. (要检查的日期。)
 
 ##### from
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The start date or time unit. (起始日期或时间单位。)
 
 ##### to
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The end date or time unit. (结束日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -2989,13 +2989,13 @@ The date to compare. (要比较的日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The date or time unit to compare against. (要比较的日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -3073,13 +3073,13 @@ The date to compare. (要比较的日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The date or time unit to compare against. (要比较的日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -3162,13 +3162,13 @@ The date to compare. (要比较的日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The date or time unit to compare against. (要比较的日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -3287,7 +3287,7 @@ Parses a date from various input types.
 The input to parse, which can be a string, number, Date, or array of numbers.
 (要解析的输入，可以是字符串、数字、Date 对象或数字数组。)
 
-[`DateInput`](chain.md#dateinput) | \{ `isValid`: () => `any`; \}
+[`DateInput`](#dateinput) | \{ `isValid`: () => `any`; \}
 
 ##### format?
 
@@ -3420,7 +3420,7 @@ The date to set to the start of the specified unit. (要设置为指定时间单
 
 ##### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to set the start of (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second').
 (要设置开始时间的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'。)
@@ -3718,7 +3718,7 @@ subSeconds(new Date(2014, 1, 28, 0, 30, 40), 30);
 
 ###### input
 
-`number` | [`DateAddingObject`](chain.md#dateaddingobject)
+`number` | [`DateAddingObject`](#dateaddingobject)
 
 ##### 返回
 
@@ -3742,7 +3742,7 @@ subSeconds(new Date(2014, 1, 28, 0, 30, 40), 30);
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ##### 返回
 

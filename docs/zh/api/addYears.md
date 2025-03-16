@@ -12,7 +12,7 @@
 
 > **default**(`date`, `years`): `Date`
 
-定义于: [src/addYears.ts:18](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/addYears.ts#L18)
+定义于: [src/addYears.ts:18](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/addYears.ts#L18)
 
 Adds a specified number of years to a date.
 向日期添加指定数量的年份。

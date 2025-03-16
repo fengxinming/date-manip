@@ -12,7 +12,7 @@
 
 > **default**(`date`): `boolean`
 
-定义于: [src/isValid.ts:20](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/isValid.ts#L20)
+定义于: [src/isValid.ts:20](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/isValid.ts#L20)
 
 Checks if a given date is valid.
 检查给定的日期是否有效。

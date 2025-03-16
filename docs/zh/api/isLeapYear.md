@@ -12,7 +12,7 @@
 
 > **default**(`date`): `boolean`
 
-定义于: [src/isLeapYear.ts:22](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/isLeapYear.ts#L22)
+定义于: [src/isLeapYear.ts:22](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/isLeapYear.ts#L22)
 
 Checks if a given date is in a leap year.
 检查给定的日期是否在闰年。
