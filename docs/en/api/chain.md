@@ -14,7 +14,7 @@ Defined in: dist/types/index.d.ts:1
 
 #### Extended by
 
-- [`DateParsingObject`](chain.md#dateparsingobject)
+- [`DateParsingObject`](#dateparsingobject)
 
 #### Properties
 
@@ -158,7 +158,7 @@ Defined in: dist/types/index.d.ts:39
 
 #### Extends
 
-- [`DateAddingObject`](chain.md#dateaddingobject)
+- [`DateAddingObject`](#dateaddingobject)
 
 #### Properties
 
@@ -170,7 +170,7 @@ Defined in: dist/types/index.d.ts:21
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`d`](chain.md#d)
+[`DateAddingObject`](#dateaddingobject).[`d`](#d)
 
 ##### day?
 
@@ -180,7 +180,7 @@ Defined in: dist/types/index.d.ts:4
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`day`](chain.md#day)
+[`DateAddingObject`](#dateaddingobject).[`day`](#day)
 
 ##### days?
 
@@ -190,7 +190,7 @@ Defined in: dist/types/index.d.ts:12
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`days`](chain.md#days)
+[`DateAddingObject`](#dateaddingobject).[`days`](#days)
 
 ##### h?
 
@@ -200,7 +200,7 @@ Defined in: dist/types/index.d.ts:22
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`h`](chain.md#h)
+[`DateAddingObject`](#dateaddingobject).[`h`](#h)
 
 ##### hour?
 
@@ -210,7 +210,7 @@ Defined in: dist/types/index.d.ts:5
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`hour`](chain.md#hour)
+[`DateAddingObject`](#dateaddingobject).[`hour`](#hour)
 
 ##### hours?
 
@@ -220,7 +220,7 @@ Defined in: dist/types/index.d.ts:13
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`hours`](chain.md#hours)
+[`DateAddingObject`](#dateaddingobject).[`hours`](#hours)
 
 ##### m?
 
@@ -230,7 +230,7 @@ Defined in: dist/types/index.d.ts:23
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`m`](chain.md#m)
+[`DateAddingObject`](#dateaddingobject).[`m`](#m)
 
 ##### M?
 
@@ -240,7 +240,7 @@ Defined in: dist/types/index.d.ts:20
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`M`](chain.md#m-1)
+[`DateAddingObject`](#dateaddingobject).[`M`](#m-1)
 
 ##### millisecond?
 
@@ -250,7 +250,7 @@ Defined in: dist/types/index.d.ts:8
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`millisecond`](chain.md#millisecond)
+[`DateAddingObject`](#dateaddingobject).[`millisecond`](#millisecond)
 
 ##### milliseconds?
 
@@ -260,7 +260,7 @@ Defined in: dist/types/index.d.ts:16
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`milliseconds`](chain.md#milliseconds)
+[`DateAddingObject`](#dateaddingobject).[`milliseconds`](#milliseconds)
 
 ##### minute?
 
@@ -270,7 +270,7 @@ Defined in: dist/types/index.d.ts:6
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`minute`](chain.md#minute)
+[`DateAddingObject`](#dateaddingobject).[`minute`](#minute)
 
 ##### minutes?
 
@@ -280,7 +280,7 @@ Defined in: dist/types/index.d.ts:14
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`minutes`](chain.md#minutes)
+[`DateAddingObject`](#dateaddingobject).[`minutes`](#minutes)
 
 ##### month?
 
@@ -290,7 +290,7 @@ Defined in: dist/types/index.d.ts:3
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`month`](chain.md#month)
+[`DateAddingObject`](#dateaddingobject).[`month`](#month)
 
 ##### months?
 
@@ -300,7 +300,7 @@ Defined in: dist/types/index.d.ts:11
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`months`](chain.md#months)
+[`DateAddingObject`](#dateaddingobject).[`months`](#months)
 
 ##### ms?
 
@@ -310,7 +310,7 @@ Defined in: dist/types/index.d.ts:25
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`ms`](chain.md#ms)
+[`DateAddingObject`](#dateaddingobject).[`ms`](#ms)
 
 ##### s?
 
@@ -320,7 +320,7 @@ Defined in: dist/types/index.d.ts:24
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`s`](chain.md#s)
+[`DateAddingObject`](#dateaddingobject).[`s`](#s)
 
 ##### second?
 
@@ -330,7 +330,7 @@ Defined in: dist/types/index.d.ts:7
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`second`](chain.md#second)
+[`DateAddingObject`](#dateaddingobject).[`second`](#second)
 
 ##### seconds?
 
@@ -340,7 +340,7 @@ Defined in: dist/types/index.d.ts:15
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`seconds`](chain.md#seconds)
+[`DateAddingObject`](#dateaddingobject).[`seconds`](#seconds)
 
 ##### utcOffset?
 
@@ -356,7 +356,7 @@ Defined in: dist/types/index.d.ts:19
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`y`](chain.md#y)
+[`DateAddingObject`](#dateaddingobject).[`y`](#y)
 
 ##### Y?
 
@@ -366,7 +366,7 @@ Defined in: dist/types/index.d.ts:18
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`Y`](chain.md#y-1)
+[`DateAddingObject`](#dateaddingobject).[`Y`](#y-1)
 
 ##### year?
 
@@ -376,7 +376,7 @@ Defined in: dist/types/index.d.ts:2
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`year`](chain.md#year)
+[`DateAddingObject`](#dateaddingobject).[`year`](#year)
 
 ##### years?
 
@@ -386,7 +386,7 @@ Defined in: dist/types/index.d.ts:10
 
 ###### Inherited from
 
-[`DateAddingObject`](chain.md#dateaddingobject).[`years`](chain.md#years)
+[`DateAddingObject`](#dateaddingobject).[`years`](#years)
 
 ***
 
@@ -408,7 +408,7 @@ Defined in: dist/types/index.d.ts:118
 
 ###### input
 
-[`DateAddingObject`](chain.md#dateaddingobject)
+[`DateAddingObject`](#dateaddingobject)
 
 ###### Returns
 
@@ -428,7 +428,7 @@ Defined in: dist/types/index.d.ts:119
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### Returns
 
@@ -532,13 +532,13 @@ Defined in: dist/types/index.d.ts:125
 
 ##### clone()
 
-> **clone**(): [`IDateChain`](chain.md#idatechain)
+> **clone**(): [`IDateChain`](#idatechain)
 
 Defined in: dist/types/index.d.ts:188
 
 ###### Returns
 
-[`IDateChain`](chain.md#idatechain)
+[`IDateChain`](#idatechain)
 
 ##### date()
 
@@ -644,11 +644,11 @@ Defined in: dist/types/index.d.ts:129
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### asFloat?
 
@@ -668,7 +668,7 @@ Defined in: dist/types/index.d.ts:130
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -688,7 +688,7 @@ Defined in: dist/types/index.d.ts:131
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -708,7 +708,7 @@ Defined in: dist/types/index.d.ts:132
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -728,7 +728,7 @@ Defined in: dist/types/index.d.ts:133
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -748,7 +748,7 @@ Defined in: dist/types/index.d.ts:134
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -768,7 +768,7 @@ Defined in: dist/types/index.d.ts:135
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -788,7 +788,7 @@ Defined in: dist/types/index.d.ts:136
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### asFloat?
 
@@ -808,7 +808,7 @@ Defined in: dist/types/index.d.ts:137
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### Returns
 
@@ -840,7 +840,7 @@ Defined in: dist/types/index.d.ts:139
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### Returns
 
@@ -912,11 +912,11 @@ Defined in: dist/types/index.d.ts:140
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### Returns
 
@@ -932,11 +932,11 @@ Defined in: dist/types/index.d.ts:141
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### Returns
 
@@ -952,15 +952,15 @@ Defined in: dist/types/index.d.ts:142
 
 ###### from
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### to
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### inclusivity?
 
@@ -990,11 +990,11 @@ Defined in: dist/types/index.d.ts:144
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### Returns
 
@@ -1010,11 +1010,11 @@ Defined in: dist/types/index.d.ts:145
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### Returns
 
@@ -1030,11 +1030,11 @@ Defined in: dist/types/index.d.ts:146
 
 ###### input
 
-[`ChainInput`](chain.md#chaininput)
+[`ChainInput`](#chaininput)
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### Returns
 
@@ -1256,7 +1256,7 @@ Defined in: dist/types/index.d.ts:148
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### val
 
@@ -1276,7 +1276,7 @@ Defined in: dist/types/index.d.ts:149
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### Returns
 
@@ -1390,7 +1390,7 @@ Defined in: dist/types/index.d.ts:156
 
 ###### input
 
-`number` | [`DateAddingObject`](chain.md#dateaddingobject)
+`number` | [`DateAddingObject`](#dateaddingobject)
 
 ###### Returns
 
@@ -1410,7 +1410,7 @@ Defined in: dist/types/index.d.ts:157
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ###### Returns
 
@@ -1696,7 +1696,7 @@ Year unit (年单位)
 
 ### ChainInput
 
-> **ChainInput**: [`DateInput`](chain.md#dateinput) \| [`IDateChain`](chain.md#idatechain)
+> **ChainInput** = [`DateInput`](#dateinput) \| [`IDateChain`](#idatechain)
 
 Defined in: dist/types/index.d.ts:115
 
@@ -1704,7 +1704,7 @@ Defined in: dist/types/index.d.ts:115
 
 ### DateInput
 
-> **DateInput**: `string` \| `number` \| `Date` \| `number`[] \| [`DateParsingObject`](chain.md#dateparsingobject)
+> **DateInput** = `string` \| `number` \| `Date` \| `number`[] \| [`DateParsingObject`](#dateparsingobject)
 
 Defined in: dist/types/index.d.ts:47
 
@@ -1715,7 +1715,7 @@ Date input type
 
 ### InnerUnit
 
-> **InnerUnit**: `"year"` \| `"month"` \| `"date"` \| `"day"` \| `"hour"` \| `"minute"` \| `"second"` \| `"millisecond"`
+> **InnerUnit** = `"year"` \| `"month"` \| `"date"` \| `"day"` \| `"hour"` \| `"minute"` \| `"second"` \| `"millisecond"`
 
 Defined in: dist/types/index.d.ts:53
 
@@ -1726,7 +1726,7 @@ Internal date unit
 
 ### Unit
 
-> **Unit**: `"Y"` \| `"y"` \| `"M"` \| `"D"` \| `"d"` \| `"h"` \| `"m"` \| `"s"` \| `"ms"` \| [`InnerUnit`](chain.md#innerunit) \| `"years"` \| `"months"` \| `"dates"` \| `"days"` \| `"hours"` \| `"minutes"` \| `"seconds"` \| `"milliseconds"`
+> **Unit** = `"Y"` \| `"y"` \| `"M"` \| `"D"` \| `"d"` \| `"h"` \| `"m"` \| `"s"` \| `"ms"` \| [`InnerUnit`](#innerunit) \| `"years"` \| `"months"` \| `"dates"` \| `"days"` \| `"hours"` \| `"minutes"` \| `"seconds"` \| `"milliseconds"`
 
 Defined in: dist/types/index.d.ts:111
 
@@ -1737,7 +1737,7 @@ Date unit
 
 ### units
 
-> `const` **units**: [`InnerUnits`](chain.md#innerunits)
+> `const` **units**: [`InnerUnits`](#innerunits)
 
 Defined in: dist/units.d.ts:2
 
@@ -1759,7 +1759,7 @@ Defined in: dist/add.d.ts:2
 
 ###### input
 
-`number` | [`DateAddingObject`](chain.md#dateaddingobject)
+`number` | [`DateAddingObject`](#dateaddingobject)
 
 ##### Returns
 
@@ -1783,7 +1783,7 @@ Defined in: dist/add.d.ts:3
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ##### Returns
 
@@ -2073,7 +2073,7 @@ console.log(originalDate.toISOString()); // Outputs: '2025-10-01T12:00:00.000Z' 
 
 > **chain**(`input`, `format`?): [`IDateChain`](types.md#idatechain)
 
-Defined in: [src/chain.ts:143](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/chain.ts#L143)
+Defined in: [src/chain.ts:143](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/chain.ts#L143)
 
 #### Parameters
 
@@ -2225,13 +2225,13 @@ The first date. (第一个日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The second date. (第二个日期。)
 
 ##### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to calculate the difference in
 (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
@@ -2299,7 +2299,7 @@ Defined in: dist/diffInDays.d.ts:2
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2325,7 +2325,7 @@ Defined in: dist/diffInHours.d.ts:2
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2351,7 +2351,7 @@ Defined in: dist/diffInMilliseconds.d.ts:2
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2377,7 +2377,7 @@ Defined in: dist/diffInMinutes.d.ts:2
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2403,7 +2403,7 @@ Defined in: dist/diffInMonths.d.ts:2
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2429,7 +2429,7 @@ Defined in: dist/diffInSeconds.d.ts:2
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2455,7 +2455,7 @@ Defined in: dist/diffInYears.d.ts:2
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 ##### asFloat?
 
@@ -2486,7 +2486,7 @@ The date to set to the end of the specified unit. (要设置为指定时间单�
 
 ##### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to set the end of (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second').
 (要设置结束时间的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'。)
@@ -2672,13 +2672,13 @@ The date to compare. (要比较的日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The date or time unit to compare against. (要比较的日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -2756,13 +2756,13 @@ The date to compare. (要比较的日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The date or time unit to compare against. (要比较的日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -2840,19 +2840,19 @@ The date to check. (要检查的日期。)
 
 ##### from
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The start date or time unit. (起始日期或时间单位。)
 
 ##### to
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The end date or time unit. (结束日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -2989,13 +2989,13 @@ The date to compare. (要比较的日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The date or time unit to compare against. (要比较的日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -3073,13 +3073,13 @@ The date to compare. (要比较的日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The date or time unit to compare against. (要比较的日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -3162,13 +3162,13 @@ The date to compare. (要比较的日期。)
 
 ##### input
 
-[`DateInput`](chain.md#dateinput)
+[`DateInput`](#dateinput)
 
 The date or time unit to compare against. (要比较的日期或时间单位。)
 
 ##### unit?
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to compare (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond').
 (要比较的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'、'millisecond'。)
@@ -3287,7 +3287,7 @@ Parses a date from various input types.
 The input to parse, which can be a string, number, Date, or array of numbers.
 (要解析的输入，可以是字符串、数字、Date 对象或数字数组。)
 
-[`DateInput`](chain.md#dateinput) | \{ `isValid`: () => `any`; \}
+[`DateInput`](#dateinput) | \{ `isValid`: () => `any`; \}
 
 ##### format?
 
@@ -3420,7 +3420,7 @@ The date to set to the start of the specified unit. (要设置为指定时间单
 
 ##### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 The unit of time to set the start of (e.g., 'year', 'month', 'day', 'hour', 'minute', 'second').
 (要设置开始时间的时间单位，例如 'year'、'month'、'day'、'hour'、'minute'、'second'。)
@@ -3718,7 +3718,7 @@ Defined in: dist/subtract.d.ts:2
 
 ###### input
 
-`number` | [`DateAddingObject`](chain.md#dateaddingobject)
+`number` | [`DateAddingObject`](#dateaddingobject)
 
 ##### Returns
 
@@ -3742,7 +3742,7 @@ Defined in: dist/subtract.d.ts:3
 
 ###### unit
 
-[`Unit`](chain.md#unit)
+[`Unit`](#unit)
 
 ##### Returns
 

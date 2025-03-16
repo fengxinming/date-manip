@@ -12,7 +12,7 @@
 
 > **default**(`date`, `hours`): `Date`
 
-定义于: [src/addHours.ts:19](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/addHours.ts#L19)
+定义于: [src/addHours.ts:19](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/addHours.ts#L19)
 
 Adds a specified number of hours to a date.
 向日期添加指定数量的小时。

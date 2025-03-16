@@ -12,7 +12,7 @@
 
 > **default**(`formatString`): `CompileResult`
 
-定义于: src/compile.ts:54
+定义于: [src/compile.ts:54](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/compile.ts#L54)
 
 Compile a format string into a regular expression and extract date parts.
 编译格式字符串，生成正则表达式和匹配的日期部分
