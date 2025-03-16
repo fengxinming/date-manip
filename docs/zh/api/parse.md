@@ -12,7 +12,7 @@
 
 > **default**(`input`, `format`?): `Date`
 
-定义于: [src/parse.ts:102](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/parse.ts#L102)
+定义于: [src/parse.ts:102](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/parse.ts#L102)
 
 Parses a date from various input types.
 从各种输入类型中解析日期。

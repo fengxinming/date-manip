@@ -77,7 +77,7 @@ console.log(date8.toISOString()); // Outputs: '2022-07-28T07:54:53.993Z' (输出
 
 > **default**(`date`, `input`): `Date`
 
-定义于: [src/subtract.ts:7](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/subtract.ts#L7)
+定义于: [src/subtract.ts:7](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/subtract.ts#L7)
 
 ##### 参数
 
@@ -97,7 +97,7 @@ console.log(date8.toISOString()); // Outputs: '2022-07-28T07:54:53.993Z' (输出
 
 > **default**(`date`, `num`, `unit`): `Date`
 
-定义于: [src/subtract.ts:8](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/subtract.ts#L8)
+定义于: [src/subtract.ts:8](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/subtract.ts#L8)
 
 ##### 参数
 

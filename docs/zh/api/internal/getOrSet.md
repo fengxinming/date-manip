@@ -12,7 +12,7 @@
 
 > **get**(`date`, `unit`): `number`
 
-定义于: [src/\_internal/getOrSet.ts:83](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/getOrSet.ts#L83)
+定义于: [src/\_internal/getOrSet.ts:83](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/getOrSet.ts#L83)
 
 Retrieves the value of a specified time unit for a given date.
 获取给定日期的指定时间单位的值。
@@ -77,7 +77,7 @@ console.log(millisecond); // Outputs: 0 (输出: 0)
 
 > **set**(`date`, `unit`, `val`): `Date`
 
-定义于: [src/\_internal/getOrSet.ts:130](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/getOrSet.ts#L130)
+定义于: [src/\_internal/getOrSet.ts:130](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/getOrSet.ts#L130)
 
 Sets the value of a specified time unit for a given date.
 设置给定日期的指定时间单位的值。

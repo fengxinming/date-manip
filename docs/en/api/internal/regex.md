@@ -12,7 +12,7 @@
 
 > `const` **BASIC\_ISO\_REGEX**: `RegExp`
 
-Defined in: [src/\_internal/regex.ts:1](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/regex.ts#L1)
+Defined in: [src/\_internal/regex.ts:1](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/regex.ts#L1)
 
 ***
 
@@ -20,7 +20,7 @@ Defined in: [src/\_internal/regex.ts:1](https://github.com/fengxinming/date-mani
 
 > `const` **EXTENDED\_ISO\_REGEX**: `RegExp`
 
-Defined in: [src/\_internal/regex.ts:3](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/regex.ts#L3)
+Defined in: [src/\_internal/regex.ts:3](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/regex.ts#L3)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/\_internal/regex.ts:3](https://github.com/fengxinming/date-mani
 
 > `const` **ISO\_DATES\_REGEX**: `RegExp`[]
 
-Defined in: [src/\_internal/regex.ts:22](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/regex.ts#L22)
+Defined in: [src/\_internal/regex.ts:22](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/regex.ts#L22)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [src/\_internal/regex.ts:22](https://github.com/fengxinming/date-man
 
 > `const` **ISO\_TIMES\_REGEX**: `RegExp`[]
 
-Defined in: [src/\_internal/regex.ts:8](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/regex.ts#L8)
+Defined in: [src/\_internal/regex.ts:8](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/regex.ts#L8)
 
 ***
 
@@ -44,4 +44,4 @@ Defined in: [src/\_internal/regex.ts:8](https://github.com/fengxinming/date-mani
 
 > `const` **TZ\_REGEX**: `RegExp`
 
-Defined in: [src/\_internal/regex.ts:20](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/regex.ts#L20)
+Defined in: [src/\_internal/regex.ts:20](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/regex.ts#L20)

@@ -38,7 +38,7 @@ console.log(newDate.toISOString()); // Outputs: '2023-10-01T00:00:00.000Z' (è¾“å
 
 > **default**(`date`): `number`
 
-Defined in: [src/dayOfYear.ts:4](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/dayOfYear.ts#L4)
+Defined in: [src/dayOfYear.ts:4](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/dayOfYear.ts#L4)
 
 ##### Parameters
 
@@ -54,7 +54,7 @@ Defined in: [src/dayOfYear.ts:4](https://github.com/fengxinming/date-manip/blob/
 
 > **default**(`date`, `val`): `Date`
 
-Defined in: [src/dayOfYear.ts:5](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/dayOfYear.ts#L5)
+Defined in: [src/dayOfYear.ts:5](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/dayOfYear.ts#L5)
 
 ##### Parameters
 

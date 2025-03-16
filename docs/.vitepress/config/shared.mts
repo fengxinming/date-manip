@@ -15,14 +15,14 @@ export const shared = defineConfig({
 });
 
 export function generateAPISidebar(apiDir: string, linkPath: string): DefaultTheme.SidebarItem[] {
-  const exclude = ['_internal', 'index', 'modules'];
+  const exclude = ['internal', 'index', 'modules'];
   return readdirSync(join(__dirname, apiDir))
     .reduce((items, file) => {
       const fnName = basename(file, '.md');
       if(!exclude.includes(fnName)) {
         items.push({
           text: fnName,
-          link: `${linkPath}/${file}`
+          link: `${linkPath}${file}`
         });
       }
       return items;

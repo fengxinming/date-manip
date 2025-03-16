@@ -45,7 +45,7 @@ console.log(newDate2); // Outputs the date 1 year, 2 months, and 3 days from now
 
 > **default**(`date`, `input`): `Date`
 
-Defined in: [src/add.ts:7](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/add.ts#L7)
+Defined in: [src/add.ts:7](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/add.ts#L7)
 
 ##### Parameters
 
@@ -65,7 +65,7 @@ Defined in: [src/add.ts:7](https://github.com/fengxinming/date-manip/blob/74162e
 
 > **default**(`date`, `num`, `unit`): `Date`
 
-Defined in: [src/add.ts:8](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/add.ts#L8)
+Defined in: [src/add.ts:8](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/add.ts#L8)
 
 ##### Parameters
 

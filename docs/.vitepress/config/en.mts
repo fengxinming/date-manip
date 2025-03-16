@@ -9,13 +9,13 @@ export const en = defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'API', link: '/api' }
+      { text: 'API', link: '/api/', activeMatch: '/api/' }
     ],
 
     sidebar: [
       {
         text: 'API',
-        items: generateAPISidebar('../../en/api', '/api')
+        items: generateAPISidebar('../../en/api', '/api/')
       }
     ],
 
