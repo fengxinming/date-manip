@@ -33,7 +33,7 @@ bun add date-manip
 ```
 
 ```html [HTML]
-<script src="https://cdn.jsdelivr.net/npm/date-manip/dist/index.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/date-manip/dist/index.umd.min.js"></script>
 <script>
   // window.dateManip
   const date = new Date('2023-10-01T12:00:00Z');
@@ -147,6 +147,10 @@ bun add date-manip
 
 - **endOf(date: Date, unit: Unit): Date**
 - **startOf(date: Date, unit: Unit): Date**
+
+### 编译日期格式字符串
+
+- **compile(formatString: string): { pattern: string, tokens: string[] }**
 
 ## 示例
 
@@ -472,6 +476,16 @@ bun add date-manip
   const date = new Date('2023-10-01T12:00:00Z');
   const startOfDay = startOf(date, 'day');
   console.log(startOfDay); // 2023-10-01T00:00:00.000Z
+  ```
+
+### 编译日期格式字符串
+  ```typescript
+  const ret = compile('YYYY-MM-DD HH:mm:ss.SSS');
+  console.log(ret);
+  // {
+  //   pattern: '(\\d{1,4})-(\\d{1,2})-(\\d{1,2}) (\\d{1,2}):(\\d{1,2}):(\\d{1,2})\\.(\\d{1,3})',
+  //   tokens: ['YYYY', 'MM', 'DD','HH', 'mm', 'ss', 'SSS']
+  // }
   ```
 
 ### 类型定义

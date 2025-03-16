@@ -12,7 +12,7 @@
 
 > **default**(`date`, `ms`): `Date`
 
-Defined in: [src/addMilliseconds.ts:16](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/addMilliseconds.ts#L16)
+Defined in: [src/addMilliseconds.ts:16](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/addMilliseconds.ts#L16)
 
 Adds a specified number of milliseconds to a date.
 向日期添加指定数量的毫秒。

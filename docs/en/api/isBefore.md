@@ -12,7 +12,7 @@
 
 > **default**(`date`, `input`, `unit`?): `boolean`
 
-Defined in: [src/isBefore.ts:60](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/isBefore.ts#L60)
+Defined in: [src/isBefore.ts:60](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/isBefore.ts#L60)
 
 Checks if a date is before another date or a specified time unit.
 检查一个日期是否在另一个日期或指定的时间单位之前。

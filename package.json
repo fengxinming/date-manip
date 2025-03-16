@@ -17,7 +17,7 @@
   "scripts": {
     "clean": "rm -rf node_modules",
     "build": "vite build",
-    "test": "vitest run --coverage",
+    "test": "npm run build && vitest run --coverage",
     "watch": "vite build --watch",
     "prepublishOnly": "npm run build",
     "release": "npm publish",

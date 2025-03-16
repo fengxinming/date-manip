@@ -64,6 +64,11 @@ export default defineConfig({
       fileName(format, entryName) {
         return `${entryName}${format === 'es' ? '.mjs' : '.js'}`;
       }
+    },
+    rollupOptions: {
+      output: {
+        banner: `/*! ${pkg.name} v${pkg.version} | ${pkg.license} License */`
+      }
     }
   },
   plugins: [

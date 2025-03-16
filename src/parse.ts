@@ -1,6 +1,6 @@
 import { isNumber, isObject } from 'is-what-type';
 
-import autoParse from './_internal/autoExtract';
+import autoExtract from './_internal/autoExtract';
 import createFromArray from './_internal/createFromArray';
 import extractWithFormat from './_internal/extractWithFormat';
 import normalizeUnit from './_internal/normalizeUnit';
@@ -56,7 +56,7 @@ function parseObject(obj: DateParsingObject): Date {
 function parseString(input: string, format?: string): Date {
   const extracted = typeof format === 'string' && format
     ? extractWithFormat(input, format)
-    : autoParse(input); // 自动判断格式
+    : autoExtract(input); // 自动判断格式
 
   if (Array.isArray(extracted)) {
     return createFromArray(extracted);

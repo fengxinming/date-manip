@@ -12,7 +12,7 @@
 
 > **default**(`date`, `unit`): `Date`
 
-定义于: [src/startOf.ts:53](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/startOf.ts#L53)
+定义于: [src/startOf.ts:53](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/startOf.ts#L53)
 
 Sets the date to the start of the specified unit of time.
 将日期设置为指定时间单位的开始时间。

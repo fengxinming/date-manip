@@ -12,7 +12,7 @@
 
 > **default**(`date`, `ms`): `Date`
 
-Defined in: [src/subMilliseconds.ts:17](https://github.com/fengxinming/date-manip/blob/3800a276ff67972284419177dad55ada4d463d78/src/subMilliseconds.ts#L17)
+Defined in: [src/subMilliseconds.ts:17](https://github.com/fengxinming/date-manip/blob/672f1dce8f57973c145b734bdf778535cf1bb983/src/subMilliseconds.ts#L17)
 
 Subtracts a specified number of milliseconds from a date.
 从日期中减去指定的毫秒数。

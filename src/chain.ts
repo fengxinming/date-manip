@@ -4,7 +4,10 @@ import { ChainInput, DateInput, IDateChain, InnerUnits, Unit } from './types';
 
 const { parse, get, set } = fns;
 
-
+/**
+ * A class that provides a fluent API for manipulating dates.
+ * 提供一个流畅的 API 来操作日期的类。
+ */
 class DateChain implements IDateChain {
   add !: () => any;
   addDays !: () => any;
