@@ -38,7 +38,7 @@ console.log(newDate.toISOString()); // Outputs: '2023-10-01T00:00:00.000Z' (输�
 
 > **default**(`date`): `number`
 
-定义于: [src/dayOfYear.ts:4](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/dayOfYear.ts#L4)
+定义于: [src/dayOfYear.ts:4](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/dayOfYear.ts#L4)
 
 ##### 参数
 
@@ -54,7 +54,7 @@ console.log(newDate.toISOString()); // Outputs: '2023-10-01T00:00:00.000Z' (输�
 
 > **default**(`date`, `val`): `Date`
 
-定义于: [src/dayOfYear.ts:5](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/dayOfYear.ts#L5)
+定义于: [src/dayOfYear.ts:5](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/dayOfYear.ts#L5)
 
 ##### 参数
 

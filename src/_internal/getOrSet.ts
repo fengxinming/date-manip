@@ -1,5 +1,4 @@
-import { Unit } from 'src/types';
-
+import { Unit } from '../types';
 import units from '../units';
 import { MS_IN_DAY } from './constants';
 import normalizeUnit from './normalizeUnit';

@@ -12,7 +12,7 @@
 
 > `const` **MS\_IN\_DAY**: `86400000` = `86400000`
 
-Defined in: [src/\_internal/constants.ts:8](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/constants.ts#L8)
+Defined in: [src/\_internal/constants.ts:8](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/constants.ts#L8)
 
 Milliseconds in a day (每天的毫秒数)
 
@@ -22,7 +22,7 @@ Milliseconds in a day (每天的毫秒数)
 
 > `const` **MS\_IN\_HOUR**: `3600000` = `3600000`
 
-Defined in: [src/\_internal/constants.ts:6](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/constants.ts#L6)
+Defined in: [src/\_internal/constants.ts:6](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/constants.ts#L6)
 
 Milliseconds in an hour (每小时的毫秒数)
 
@@ -32,7 +32,7 @@ Milliseconds in an hour (每小时的毫秒数)
 
 > `const` **MS\_IN\_MINUTE**: `60000` = `60000`
 
-Defined in: [src/\_internal/constants.ts:4](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/constants.ts#L4)
+Defined in: [src/\_internal/constants.ts:4](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/constants.ts#L4)
 
 Milliseconds in a minute (每分钟的毫秒数)
 
@@ -42,7 +42,7 @@ Milliseconds in a minute (每分钟的毫秒数)
 
 > `const` **MS\_IN\_SECOND**: `1000` = `1000`
 
-Defined in: [src/\_internal/constants.ts:2](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/constants.ts#L2)
+Defined in: [src/\_internal/constants.ts:2](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/constants.ts#L2)
 
 Milliseconds in a second (每秒的毫秒数)
 
@@ -52,6 +52,6 @@ Milliseconds in a second (每秒的毫秒数)
 
 > `const` **rangeOfUnits**: `string`[]
 
-Defined in: [src/\_internal/constants.ts:11](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/constants.ts#L11)
+Defined in: [src/\_internal/constants.ts:11](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/constants.ts#L11)
 
 range of units (单位范围)

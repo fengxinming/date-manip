@@ -12,7 +12,7 @@
 
 > **default**(`date`, `y`?, `m`?, `d`?): `number`
 
-Defined in: [src/\_internal/startOfDate.ts:1](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/_internal/startOfDate.ts#L1)
+Defined in: [src/\_internal/startOfDate.ts:1](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/_internal/startOfDate.ts#L1)
 
 #### Parameters
 

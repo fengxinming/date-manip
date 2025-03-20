@@ -8,14 +8,14 @@ export const zh = defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '首页', link: '/zh' },
-      { text: 'API', link: '/zh/api' }
+      { text: '首页', link: '/zh/' },
+      { text: 'API', link: '/zh/api/', activeMatch: '/zh/api/' }
     ],
 
     sidebar: [
       {
         text: 'API',
-        items: generateAPISidebar('../../zh/api', '/zh/api')
+        items: generateAPISidebar('../../zh/api', '/zh/api/')
       }
     ],
 

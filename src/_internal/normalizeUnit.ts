@@ -1,5 +1,4 @@
-import { InnerUnit } from 'src/types';
-
+import { InnerUnit } from '../types';
 import units from '../units';
 
 const { DATE, DAY, HOUR, MILLISECOND, MINUTE, MONTH, SECOND, TIME, YEAR } = units;

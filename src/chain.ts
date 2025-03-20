@@ -129,8 +129,9 @@ Object.entries(fns.units as InnerUnits).forEach(([, method]) => {
   }
 });
 
+const exclude = ['compile', 'parse', 'units'];
 Object.entries(fns).forEach(([name, method]) => {
-  if (typeof method === 'function' && name !== 'parse') {
+  if (!exclude.includes(name)) {
     proto[name] = function () {
       const date = this._d;
       const ret = (method as any)(date, ...arguments);

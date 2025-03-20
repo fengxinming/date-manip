@@ -12,7 +12,7 @@
 
 > **default**(`date`, `input`, `unit`, `asFloat`?): `number`
 
-定义于: [src/diff.ts:60](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/diff.ts#L60)
+定义于: [src/diff.ts:60](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/diff.ts#L60)
 
 Calculates the difference between two dates in specified time units.
 计算两个日期之间的指定时间单位差异。

@@ -12,4 +12,4 @@
 
 > `const` **default**: [`InnerUnits`](types.md#innerunits)
 
-定义于: [src/units.ts:6](https://github.com/fengxinming/date-manip/blob/74162e61fff73f0ace27e57ce0b5395775c035f2/src/units.ts#L6)
+定义于: [src/units.ts:6](https://github.com/fengxinming/date-manip/blob/8fccf261c90ecd05d2eaf7f8c5a47a123e2bb753/src/units.ts#L6)
