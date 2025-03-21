@@ -15,6 +15,9 @@ hero:
     # - theme: alt
     #   text: API Examples
     #   link: /api/README
+  image:
+    src: /logo.png
+    alt: date-manip
 
 features:
   - icon: 📋
